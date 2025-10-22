@@ -1,0 +1,7 @@
+baseURL = 'https://leizar06001.github.io/'
+languageCode = 'en-us'
+title = 'Vin-Tech'
+
+[module]
+  [[module.imports]]
+    path = "github.com/McShelby/hugo-theme-relearn"
