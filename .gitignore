@@ -1,7 +1,10 @@
-/public
-/site/resources
-/site/.hugo_build.lock
+# Dossiers générés
 /public
 /resources
-/site/resources
-/site/.hugo_build.lock
+
+# Fichiers temporaires
+.hugo_build.lock
+
+# Fichiers système
+.DS_Store
+Thumbs.db
