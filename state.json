@@ -13,9 +13,9 @@
     "new": 0,
     "up": 0,
     "down": 0,
-    "stable": 23,
+    "stable": 24,
     "trend": "flat",
-    "trend_label": "Référence"
+    "trend_label": "Veille calme"
   },
   "signals": [
     {
@@ -363,6 +363,22 @@
       "last_change": null
     },
     {
+      "id": "atomisation-sociale",
+      "domain": "Société",
+      "horizon": "T-2",
+      "title": "Atomisation sociale par algorithmes",
+      "when": "2028+",
+      "status": "Montée de l'isolement, baisse de la confiance interpersonnelle, communautés remplacées par des flux personnalisés.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "IA générative omniprésente, compagnons virtuels, personnalisation extrême des contenus, remplacement progressif des interactions réelles.",
+      "down": "retour des communautés locales, régulation des algorithmes de recommandation, valorisation des espaces sociaux physiques.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
       "id": "climat-15",
       "domain": "Climat",
       "horizon": "T-3",
@@ -451,5 +467,36 @@
       "last_change": null
     }
   ],
-  "sources_today": []
+  "sources_today": [
+    {
+      "id": "src-1",
+      "name": "CNBC",
+      "date": "2026-06-12",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+      "title": "SpaceX fait ses débuts au Nasdaq (SPCX)",
+      "summary": "Introduction en Bourse la plus importante jamais réalisée : action fixée à 135 $, ~75 Md$ levés, capitalisation portée au-delà de 2 000 Md$ le jour du lancement (clôture ~161 $, +19 %). Forte demande des particuliers. L'événement, déjà anticipé dans le référentiel du jour 0, confirme la trajectoire de concentration privée trans-couches sans la modifier ; pas d'impact sur les probabilités à ce stade.",
+      "affects": [
+        "concentration-privee",
+        "scenario-b"
+      ]
+    },
+    {
+      "id": "src-2",
+      "name": "EDRi — CSA Regulation Document Pool",
+      "date": "2026-06-15",
+      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
+      "title": "CSAR / Chat Control — suivi de procédure",
+      "summary": "Suivi : après l'expiration du scan volontaire (avril 2026), les négociations en trilogue se poursuivent, prochain rendez-vous politique attendu fin juin. La position du Parlement exclut le chiffrement de bout en bout du périmètre de détection volontaire. Aucun texte ni vote nouveau dans les 48 h : pas d'impact.",
+      "affects": []
+    },
+    {
+      "id": "src-3",
+      "name": "AMLA",
+      "date": "2026-06-09",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-expects-high-standards-against-financial-crime-crypto-sector_en",
+      "title": "AMLA — exigences élevées contre le blanchiment dans le secteur crypto",
+      "summary": "Lors de sa première conférence (Francfort), l'autorité réaffirme la qualification du secteur crypto comme à haut risque (anonymat, opacité des bénéficiaires effectifs, transferts transfrontaliers). Posture de supervision, pas de mesure contraignante nouvelle : commentaire de suivi, pas de fait matériel.",
+      "affects": []
+    }
+  ]
 }

@@ -20,7 +20,7 @@ timeout 600 /home/raziel/.local/bin/claude -p "$(cat prompt.md)" \
   --allowedTools "WebSearch,Read,Edit,Write" \
   --permission-mode acceptEdits \
   --max-turns 40 \
-  --model claude-sonnet-4-6 \
+  --model claude-opus-4-8 \
   2>&1 | tee -a "$LOG"
 
 # --- 2. Validation rapide de l'état avant de générer --------------------------

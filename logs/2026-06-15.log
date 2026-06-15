@@ -6,3 +6,21 @@ Not logged in · Please run /login
 Not logged in · Please run /login
 === Veille 2026-06-15 : 2026-06-15T20:30:41+02:00 ===
 You've hit your session limit · resets 11:20pm (Europe/Paris)
+=== Veille 2026-06-15 : 2026-06-15T22:57:25+02:00 ===
+You've hit your session limit · resets 11:20pm (Europe/Paris)
+=== Veille 2026-06-15 : 2026-06-15T23:36:01+02:00 ===
+Done. Mise à jour du 2026-06-15 terminée.
+
+**Résultat : jour de veille calme — 0 signal modifié, 0 nouveau.**
+
+Ce que j'ai fait :
+- **Recherche web** sur les domaines couverts (surveillance/Chat Control, monnaie/euro numérique, dérégulation/Digital Omnibus, crypto/AMLA, pouvoir-plateformes/SpaceX) pour la fenêtre des 48 h.
+- **Seul fait matériel récent** : l'IPO SpaceX au Nasdaq (12 juin, plus grande de l'histoire, capitalisation > 2 000 Md$). Mais aujourd'hui est le **jour de référence** (`meta.started == last_updated == 2026-06-15`) et cet événement était déjà intégré au statut de `concentration-privee`. Le déplacer reviendrait à le double-compter → **aucune probabilité touchée**, conformément aux garde-fous (ancrage, pas de saut, un jour calme est un résultat valide).
+- Le reste (trilogue Chat Control prévu fin juin, accord Digital Omnibus de mai, calendrier euro numérique, conférence AMLA du 9 juin) relève du suivi de procédure ou du commentaire — pas de fait déclencheur matériel.
+
+Éditions :
+- `state.json` : `sources_today` renseigné (3 sources, paraphrasées, URLs réelles) ; `today_summary` → `stable: 24`, `trend: flat`, `trend_label: "Veille calme"`. Aucun `prob`/`prob_history`/`last_change` modifié.
+- `changelog.md` : ligne d'en-tête `## 2026-06-15 — 0 modifiée, 0 nouvelle` avec 3 puces sourcées.
+
+Note : la validation JSON via Bash a demandé une approbation que je n'ai pas forcée ; les éditions sont des remplacements exacts et la structure reste valide. Si tu veux, je peux relancer `python3 -c "import json; json.load(open('state.json'))"` une fois l'autorisation accordée.
+OK · édition 2026-06-15 · 1 éditions au total
