@@ -1,0 +1,455 @@
+{
+  "meta": {
+    "title": "Veille · Convergence numérique",
+    "lang": "fr",
+    "base_url": "https://leizar06001.github.io/",
+    "started": "2026-06-15",
+    "delta_cap": 5,
+    "history_window": 30
+  },
+  "last_updated": "2026-06-15",
+  "today_summary": {
+    "changed": 0,
+    "new": 0,
+    "up": 0,
+    "down": 0,
+    "stable": 23,
+    "trend": "flat",
+    "trend_label": "Référence"
+  },
+  "signals": [
+    {
+      "id": "eudi-wallet",
+      "domain": "Identité",
+      "horizon": "T-0",
+      "title": "Portefeuille EUDI dans les 27 États",
+      "when": "fin 2026",
+      "status": "En déploiement ; tests d'interopérabilité en cours.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "implémentation de référence / trust list contrôlée de façon opaque ; dé-anonymisation par défaut.",
+      "down": "code ouvert, divulgation sélective, tableau de bord de traçabilité côté usager ; retards.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "facturation-ereporting",
+      "domain": "Traçabilité",
+      "horizon": "T-0",
+      "title": "Facturation élec. + e-reporting (FR)",
+      "when": "1 sept 2026",
+      "status": "Réception obligatoire pour toutes ; émission GE/ETI.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "extension du périmètre e-reporting (B2C, paiements), croisement bancaire systématique.",
+      "down": "limitation au strict usage fiscal ; friction des TPE/PME (report 2027).",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "ai-act-haut-risque",
+      "domain": "Surveillance",
+      "horizon": "T-0",
+      "title": "AI Act — règles haut-risque & biométrie",
+      "when": "2 août 2026",
+      "status": "Pleinement applicable. Interdictions fortes mais exceptions larges.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "usage extensif des exceptions « sécurité nationale » ; reconnaissance faciale « post » généralisée.",
+      "down": "interdictions tenues, contrôle de la CJEU, amendes jusqu'à 7% du CA mondial.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "chat-control",
+      "domain": "Surveillance",
+      "horizon": "T-0",
+      "title": "Chat Control / CSAR — scan des messages",
+      "when": "trilogue · juil 2026",
+      "status": "Scan volontaire expiré (avr. 2026) ; négociations sur le règlement permanent.",
+      "is_bascule": true,
+      "prob": 38,
+      "prob_range": [
+        30,
+        45
+      ],
+      "prob_history": [
+        {
+          "date": "2026-06-15",
+          "prob": 38
+        }
+      ],
+      "up": "réintroduction du scan obligatoire / client-side scanning sur messageries chiffrées.",
+      "down": "blocage parlementaire récurrent (3 reculs), opposition allemande, menace de départ de Signal.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "defence-omnibus",
+      "domain": "Dérégulation",
+      "horizon": "T-0",
+      "title": "Digital Omnibus / Defence Omnibus",
+      "when": "accord mai 2026",
+      "status": "Accord politique provisoire. Présenté comme « simplification ».",
+      "is_bascule": true,
+      "prob": 70,
+      "prob_range": [
+        65,
+        75
+      ],
+      "prob_history": [
+        {
+          "date": "2026-06-15",
+          "prob": 70
+        }
+      ],
+      "up": "zones « sécurité / intérêt stratégique » hors AI Act & RGPD → police prédictive, frontières automatisées.",
+      "down": "contentieux société civile, opposition au Parlement, effet Bruxelles.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "euro-num-reglement",
+      "domain": "Monnaie",
+      "horizon": "T-0",
+      "title": "Règlement euro numérique",
+      "when": "adoption visée 2026",
+      "status": "Phase préparatoire close ; pilote prévu 2027.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "limites de détention basses + fonctions programmables.",
+      "down": "garanties vie privée / cash effectives, lenteur législative.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "pqc-plans",
+      "domain": "Quantique",
+      "horizon": "T-0",
+      "title": "Plans PQC nationaux (UE)",
+      "when": "31 déc 2026",
+      "status": "Standards NIST publiés (2024) ; migration à amorcer.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "paperasse sans migration réelle → dette de chiffrement, « harvest now, decrypt later ».",
+      "down": "migration crypto-agile effective sur les systèmes à longue confidentialité.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "amlr-art79",
+      "domain": "Crypto",
+      "horizon": "T-1",
+      "title": "AMLR art. 79 — fin de l'anonymat crypto",
+      "when": "1 juil 2027",
+      "status": "Cadre « final ». Coins privés exclus des plateformes régulées ; AMLA supervise 40 CASP.",
+      "is_bascule": true,
+      "prob": 68,
+      "prob_range": [
+        60,
+        75
+      ],
+      "prob_history": [
+        {
+          "date": "2026-06-15",
+          "prob": 68
+        }
+      ],
+      "up": "contrôles « intrusifs » des wallets auto-hébergés >1000€ ; baisse des seuils ; extension aux DEX/P2P.",
+      "down": "recours Charte art. 7&8 ; bascule offshore / P2P / compilation open-source qui vide la mesure.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "cash-cap",
+      "domain": "Espèces",
+      "horizon": "T-1",
+      "title": "Plafond cash 10 000 € (UE)",
+      "when": "progressif",
+      "status": "FR / IT / ES déjà sous le seuil. Une sortie analogique qui se réduit.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "abaissement progressif des seuils nationaux, friction croissante sur l'usage du cash.",
+      "down": "attachement culturel au cash, garantie du cours légal, résistance citoyenne.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "eudi-prive",
+      "domain": "Identité",
+      "horizon": "T-1",
+      "title": "Acceptation EUDI obligatoire (privé)",
+      "when": "fin 2027",
+      "status": "Banques, télécoms, grandes plateformes doivent accepter le portefeuille.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "liaison identité ↔ parole en ligne, justifiée par la lutte anti-désinformation → fin de l'anonymat.",
+      "down": "choix de l'usager préservé, alternatives d'authentification maintenues.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "euro-num-pilote",
+      "domain": "Monnaie",
+      "horizon": "T-1",
+      "title": "Pilote de l'euro numérique",
+      "when": "mi-2027",
+      "status": "PSP sélectionnés (Q3 2026) ; pilote conditionné à la loi 2026.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "design programmable / conditionnel testé dès le pilote.",
+      "down": "limites de détention strictes, complémentarité du cash, garanties de vie privée effectives.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "energie-compute",
+      "domain": "Énergie",
+      "horizon": "T-1",
+      "title": "Goulot compute / réseau électrique",
+      "when": "2027+",
+      "status": "Déficit PJM ~6 GW projeté ; ~20% des datacenters à risque. Drones sur AWS (mars 2026) : le compute devient cible.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "priorisation / rationnement de l'énergie, compute traité comme infra critique militarisée.",
+      "down": "gains d'efficience, nucléaire & renouvelable à l'échelle, diversification géographique.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "cnsa2",
+      "domain": "Quantique",
+      "horizon": "T-1",
+      "title": "CNSA 2.0 — exigences PQC sécurité nat.",
+      "when": "dès 2027 (US)",
+      "status": "Échéances contraignantes sur les nouveaux systèmes de sécurité nationale américains.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "course au « Q-Day » entre États → avantage de déchiffrement rétroactif sur données interceptées.",
+      "down": "standardisation PQC mondiale et déploiement coordonné.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "euro-num-emission",
+      "domain": "Monnaie",
+      "horizon": "T-2",
+      "title": "Émission potentielle de l'euro numérique",
+      "when": "~2029",
+      "status": "Conditionnée à l'adoption 2026. Première émission visée vers 2029.",
+      "is_bascule": true,
+      "prob": 52,
+      "prob_range": [
+        45,
+        60
+      ],
+      "prob_history": [
+        {
+          "date": "2026-06-15",
+          "prob": 52
+        }
+      ],
+      "up": "programmabilité / conditions activées (péremption, fléchage, restrictions d'usage).",
+      "down": "garde-fous constitutionnels, résistance politique forte (usage comportemental P 10–25%).",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "q-day",
+      "domain": "Quantique",
+      "horizon": "T-2",
+      "title": "Fenêtre « Q-Day » (avant 2032)",
+      "when": "2030 – 2037",
+      "status": "Contesté. Consensus ~2030 ±2 ; travaux 2026 évoquant 10 000 qubits.",
+      "is_bascule": true,
+      "prob": 28,
+      "prob_range": [
+        20,
+        35
+      ],
+      "prob_history": [
+        {
+          "date": "2026-06-15",
+          "prob": 28
+        }
+      ],
+      "up": "percée précoce détenue par un seul État → déchiffrement de décennies de trafic archivé.",
+      "down": "migration PQC achevée avant la rupture (théorème de Mosca tenu).",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "ia-emploi",
+      "domain": "IA · Emploi",
+      "horizon": "T-2",
+      "title": "Découplage croissance / emploi",
+      "when": "2029+",
+      "status": "Récit contesté : licenciements citant l'IA vs absence de signal net (Yale).",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "déplacement massif sans redistribution → précarité structurelle, dépendance à la pile étatique.",
+      "down": "création de nouveaux emplois, débat sérieux sur le revenu universel.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "concentration-privee",
+      "domain": "Pouvoir",
+      "horizon": "T-2",
+      "title": "Concentration privée trans-couches",
+      "when": "déjà avancé",
+      "status": "Type Musk : Starlink + X + Grok/xAI + spatial + Neuralink ; IPO SpaceX juin 2026 (~1,77 T$).",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "fusion connectivité + information + IA + paiement chez un acteur privé ; algorithme comme arme ; coupure de Starlink comme levier.",
+      "down": "frictions UE ↔ X (DSA), enquêtes nationales (FR), brouille Musk–Trump.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "guerre-cognitive",
+      "domain": "Information",
+      "horizon": "T-2",
+      "title": "Guerre cognitive / deepfakes",
+      "when": "en cours",
+      "status": "Enquêtes ouvertes : deepfakes via Grok (UE), ingérence algorithmique alléguée (FR).",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "réalité partagée indiscernable → identité vérifiée exigée pour toute prise de parole.",
+      "down": "standards de provenance / authentification du contenu, application effective du DSA.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "bascule-politique",
+      "domain": "Méta",
+      "horizon": "T-2",
+      "title": "Bascule politique",
+      "when": "variable clé",
+      "status": "Qui hérite de l'infrastructure ? Montée des extrêmes en Europe ; posture dérégulatrice US.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "pouvoir autoritaire + pile intégrée déjà construite = abus immédiat, sans coup d'État technique.",
+      "down": "alternance démocratique, culture des droits fondamentaux, indépendance judiciaire.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "climat-15",
+      "domain": "Climat",
+      "horizon": "T-3",
+      "title": "Dépassement 1,5 °C + points de bascule",
+      "when": "fin 2020s+",
+      "status": "Quasi inévitable (PIK). Corail déjà ; permafrost, AMOC, calottes, Amazonie en jeu.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "l'urgence mobilise la pile : budget carbone individuel, rationnement énergétique algorithmique.",
+      "down": "transition ordonnée, gouvernance climatique légitime et transparente.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "scenario-a",
+      "domain": "Scénario A",
+      "horizon": "T-3",
+      "title": "État administratif automatisé",
+      "when": "2035 – 2050",
+      "status": "Décisions (aide sociale, fisc, justice, asile) par modèles opaques + monnaie programmable + triage des ressources.",
+      "is_bascule": true,
+      "prob": 22,
+      "prob_range": [
+        15,
+        30
+      ],
+      "prob_history": [
+        {
+          "date": "2026-06-15",
+          "prob": 22
+        }
+      ],
+      "up": "« droit à un humain dans la boucle » inopérant à l'échelle ; nudge comportemental normalisé.",
+      "down": "exigences d'explicabilité, recours effectifs, audits indépendants des modèles publics.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "scenario-b",
+      "domain": "Scénario B",
+      "horizon": "T-3",
+      "title": "Féodalité corporative / fragmentation",
+      "when": "2035 – 2050",
+      "status": "Quelques géants IA + compute fusionnent avec les États ; splinternet par blocs.",
+      "is_bascule": true,
+      "prob": 22,
+      "prob_range": [
+        15,
+        30
+      ],
+      "prob_history": [
+        {
+          "date": "2026-06-15",
+          "prob": 22
+        }
+      ],
+      "up": "identité + monnaie + calcul contrôlés par oligopole ; murs-frontières IA face aux migrations climatiques.",
+      "down": "souveraineté numérique européenne réelle (cloud souverain), interopérabilité ouverte, antitrust.",
+      "created": "2026-06-15",
+      "last_change": null
+    },
+    {
+      "id": "contre-scenario",
+      "domain": "Contre-scénario",
+      "horizon": "T-3",
+      "title": "Le chemin non-dystopique",
+      "when": "2035 – 2050",
+      "status": "Pleinement plausible. Les freins tiennent : justice, fédéralisme, mobilisation, redistribution.",
+      "is_bascule": true,
+      "prob": 38,
+      "prob_range": [
+        30,
+        45
+      ],
+      "prob_history": [
+        {
+          "date": "2026-06-15",
+          "prob": 38
+        }
+      ],
+      "up": "un choc majeur + un pouvoir héritant de la pile fragilisent ce chemin.",
+      "down": "Chat Control bloqué 3 fois, wallet open source, prophéties emploi surévaluées, CJEU active.",
+      "created": "2026-06-15",
+      "last_change": null
+    }
+  ],
+  "sources_today": []
+}
