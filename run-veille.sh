@@ -16,10 +16,9 @@ echo "=== Veille ${DATE} : $(date -Is) ===" | tee -a "$LOG"
 # Outils minimaux : recherche web + lecture/écriture des fichiers d'état.
 # Pas de Bash pour l'agent (le build et le git sont faits ici, de façon déterministe).
 # --bare : ignore hooks/MCP/CLAUDE.md du poste → comportement reproductible.
-timeout 600 claude -p "$(cat prompt.md)" \
+timeout 600 /home/raziel/.local/bin/claude -p "$(cat prompt.md)" \
   --allowedTools "WebSearch,Read,Edit,Write" \
   --permission-mode acceptEdits \
-  --bare \
   --max-turns 40 \
   --model claude-sonnet-4-6 \
   2>&1 | tee -a "$LOG"

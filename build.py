@@ -273,29 +273,60 @@ def previous_date(today):
 def build_archive(state, idx, css):
     rows = []
     for e in idx:
+        trend = e.get("trend_label", "")
         rows.append(f'''
       <a class="arow" href="posts/veille-{e["date"]}.html">
         <span class="ad">{esc(e["date"])}</span>
         <span class="as"><b>{e["changed"]}</b> modifiées · <b>{e["new"]}</b> nouvelle(s) · {e["stable"]} stables</span>
+        <span class="atag">{esc(trend)}</span>
       </a>''')
-    page = f'''<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8">
+    page = f'''<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{esc(state["meta"]["title"])} · Archive</title>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>{css}
-.alist{{margin-top:30px;display:flex;flex-direction:column}}
-.arow{{display:flex;justify-content:space-between;gap:16px;align-items:baseline;padding:14px 4px;border-top:1px solid var(--line-soft);text-decoration:none}}
+.alist{{margin-top:30px;display:flex;flex-direction:column;gap:0}}
+.arow{{display:grid;grid-template-columns:160px 1fr auto;gap:16px;align-items:baseline;
+  padding:14px 8px;border-top:1px solid var(--line-soft);text-decoration:none;
+  border-radius:8px;transition:background .18s}}
 .arow:hover{{background:var(--panel)}}
-.ad{{font-family:'IBM Plex Mono',monospace;color:var(--ember-bright);font-size:14px}}
+.ad{{font-family:'IBM Plex Mono',monospace;color:var(--ember-bright);font-size:13px}}
 .as{{color:var(--text-2);font-size:13px}}.as b{{color:var(--text)}}
-</style></head><body><div class="wrap">
-  <header><div class="eyebrow"><span class="dot"></span><span>Veille · Convergence numérique</span></div>
-  <h1>Archive des éditions</h1>
-  <p class="diff-line">{esc(state["meta"]["title"])} — une page par jour, prédictions affinées à chaque actualité matérielle.</p></header>
+.atag{{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--text-3);
+  border:1px solid var(--line);border-radius:5px;padding:2px 7px;white-space:nowrap;align-self:center}}
+@media(max-width:600px){{.arow{{grid-template-columns:1fr}}.atag{{display:none}}}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">
+      <span class="dot" aria-hidden="true"></span>
+      <span>Veille · Convergence numérique</span>
+      <span>·</span><span>Archive</span>
+    </div>
+    <h1>Éditions <em style="color:var(--text-2);font-weight:500">quotidiennes</em></h1>
+    <p class="diff-line" style="margin-top:14px">
+      Une page par jour — prédictions affinées à chaque actualité matérielle sourcée.
+      <b>{len(idx)}</b> édition(s) publiée(s).
+    </p>
+  </header>
   <div class="alist">{"".join(rows)}</div>
-  <div class="foot"><div class="nav"><a href="feed.xml">RSS</a></div>
-  <p class="stamp">Mis à jour le {esc(state["last_updated"])}</p></div>
-</div></body></html>'''
+  <div class="foot">
+    <div class="nav">
+      <a href="feed.xml">RSS</a>
+      {f'<a href="posts/veille-{idx[0]["date"]}.html">Dernière édition →</a>' if idx else ""}
+    </div>
+    <p class="stamp">Mis à jour le {esc(state["last_updated"])}</p>
+  </div>
+</div>
+</body>
+</html>'''
     with open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8") as f:
         f.write(page)
 
