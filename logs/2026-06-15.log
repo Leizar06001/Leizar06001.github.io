@@ -24,3 +24,8 @@ Ce que j'ai fait :
 
 Note : la validation JSON via Bash a demandé une approbation que je n'ai pas forcée ; les éditions sont des remplacements exacts et la structure reste valide. Si tu veux, je peux relancer `python3 -c "import json; json.load(open('state.json'))"` une fois l'autorisation accordée.
 OK · édition 2026-06-15 · 1 éditions au total
+[main 93d258e] veille 2026-06-15
+ 8 files changed, 118 insertions(+), 13 deletions(-)
+To github.com:Leizar06001/Leizar06001.github.io.git
+   4f57f51..93d258e  main -> main
+Publié.

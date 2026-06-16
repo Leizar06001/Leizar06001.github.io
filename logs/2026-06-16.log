@@ -1,0 +1,16 @@
+=== Veille 2026-06-16 : 2026-06-16T03:30:01+02:00 ===
+Done. Summary of today's update (2026-06-16):
+
+**1 signal modified, 0 new.**
+
+- **`euro-num-emission`** 52 → **54** (+2): material legislative fact — ECON committee negotiators reached a compromise on the digital euro regulation's sensitive points (holding-limit framework, online/offline functions, fees), with the Navarrete report vote set for 23 June. This consolidates 2026 adoption and the ~2029 emission path. Move kept small (well under the `delta_cap` of 5) because the same compromise strengthens privacy/inclusion safeguards, which cuts against the bascule reading. Updated `prob`, `prob_history`, `last_change`, and `status`.
+
+**No other probabilities touched** (calm elsewhere):
+- EUDI wallet — German DIdG bill + ETSI interoperability standards: implementation milestones logged in `status`/sources, but these signals carry no probability → no move.
+- Climate AMOC "cold blob" study (GRL): material science finding, but `climat-15` is uncosted/long-horizon → traced only.
+- Chat Control/CSAR: no new text or vote in 48h (next trilogue 29 June) → follow-up source with `affects: []`.
+
+**Finalized:** `last_updated` → 2026-06-16; `today_summary` = changed 1 / new 0 / up 1 / down 0 / stable 23, trend "up", label "Euro numérique sur les rails"; `sources_today` fully replaced (4 paraphrased sources, real URLs); changelog entry prepended.
+
+One note: I couldn't run `python3 -m json.tool` to machine-validate the file — the Bash calls were gated behind approval. The edits were surgical string replacements that preserved structure, but if you'd like, approve a validation command and I'll confirm strict validity.
+OK · édition 2026-06-16 · 2 éditions au total

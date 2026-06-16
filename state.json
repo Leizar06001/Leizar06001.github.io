@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-15",
+  "last_updated": "2026-06-16",
   "today_summary": {
-    "changed": 0,
+    "changed": 1,
     "new": 0,
-    "up": 0,
+    "up": 1,
     "down": 0,
-    "stable": 24,
-    "trend": "flat",
-    "trend_label": "Veille calme"
+    "stable": 23,
+    "trend": "up",
+    "trend_label": "Euro numérique sur les rails"
   },
   "signals": [
     {
@@ -24,7 +24,7 @@
       "horizon": "T-0",
       "title": "Portefeuille EUDI dans les 27 États",
       "when": "fin 2026",
-      "status": "En déploiement ; tests d'interopérabilité en cours.",
+      "status": "En déploiement ; transposition nationale en cours (projet de loi allemand DIdG) et socle de normes techniques ETSI publié pour l'interopérabilité.",
       "is_bascule": false,
       "prob": null,
       "prob_range": null,
@@ -120,7 +120,7 @@
       "horizon": "T-0",
       "title": "Règlement euro numérique",
       "when": "adoption visée 2026",
-      "status": "Phase préparatoire close ; pilote prévu 2027.",
+      "status": "Compromis trouvé entre groupes en commission ECON ; vote du rapport (rapporteur Navarrete) prévu le 23 juin 2026.",
       "is_bascule": false,
       "prob": null,
       "prob_range": null,
@@ -256,9 +256,9 @@
       "horizon": "T-2",
       "title": "Émission potentielle de l'euro numérique",
       "when": "~2029",
-      "status": "Conditionnée à l'adoption 2026. Première émission visée vers 2029.",
+      "status": "Conditionnée à l'adoption 2026. Compromis ECON (juin 2026) → file sur les rails ; première émission visée vers 2029.",
       "is_bascule": true,
-      "prob": 52,
+      "prob": 54,
       "prob_range": [
         45,
         60
@@ -267,12 +267,23 @@
         {
           "date": "2026-06-15",
           "prob": 52
+        },
+        {
+          "date": "2026-06-16",
+          "prob": 54
         }
       ],
       "up": "programmabilité / conditions activées (péremption, fléchage, restrictions d'usage).",
       "down": "garde-fous constitutionnels, résistance politique forte (usage comportemental P 10–25%).",
       "created": "2026-06-15",
-      "last_change": null
+      "last_change": {
+        "date": "2026-06-16",
+        "delta": 2,
+        "reason": "Compromis politique en commission ECON sur les points sensibles (limites de détention, fonctions en/hors ligne, frais) ; vote du rapport calé au 23 juin → adoption 2026 et trajectoire d'émission ~2029 confortées. Hausse contenue : le compromis renforce aussi les garde-fous de vie privée et l'inclusion.",
+        "sources": [
+          "src-1"
+        ]
+      }
     },
     {
       "id": "q-day",
@@ -470,32 +481,47 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "CNBC",
-      "date": "2026-06-12",
-      "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
-      "title": "SpaceX fait ses débuts au Nasdaq (SPCX)",
-      "summary": "Introduction en Bourse la plus importante jamais réalisée : action fixée à 135 $, ~75 Md$ levés, capitalisation portée au-delà de 2 000 Md$ le jour du lancement (clôture ~161 $, +19 %). Forte demande des particuliers. L'événement, déjà anticipé dans le référentiel du jour 0, confirme la trajectoire de concentration privée trans-couches sans la modifier ; pas d'impact sur les probabilités à ce stade.",
+      "name": "Agence Europe",
+      "date": "2026-06-16",
+      "url": "https://agenceurope.eu/en/bulletin/article/13882/24/european-parliaments-negotiations-on-digital-euro-pave-way-for-end-of-june-committee-vote",
+      "title": "Euro numérique — compromis en ECON, vote du 23 juin",
+      "summary": "Les négociateurs des groupes politiques de la commission ECON sont parvenus à une position commune sur les points les plus sensibles du règlement euro numérique (cadre des limites de détention, fonctions en et hors ligne, régime des frais), ouvrant la voie au vote du rapport Navarrete le 23 juin. Les eurodéputés veulent que la BCE fixe les plafonds de détention selon un cadre légal intégrant l'accessibilité et l'inclusion financière, pas seulement la stabilité financière. Fait matériel : avancée législative qui conforte l'adoption visée en 2026 et la trajectoire d'émission ~2029, tout en renforçant les garde-fous de vie privée.",
       "affects": [
-        "concentration-privee",
-        "scenario-b"
+        "euro-num-reglement",
+        "euro-num-pilote",
+        "euro-num-emission"
       ]
     },
     {
       "id": "src-2",
-      "name": "EDRi — CSA Regulation Document Pool",
+      "name": "Library of Congress — Global Legal Monitor",
       "date": "2026-06-15",
-      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
-      "title": "CSAR / Chat Control — suivi de procédure",
-      "summary": "Suivi : après l'expiration du scan volontaire (avril 2026), les négociations en trilogue se poursuivent, prochain rendez-vous politique attendu fin juin. La position du Parlement exclut le chiffrement de bout en bout du périmètre de détection volontaire. Aucun texte ni vote nouveau dans les 48 h : pas d'impact.",
-      "affects": []
+      "url": "https://www.loc.gov/item/global-legal-monitor/2026-06-15/germany-government-proposes-introduction-of-european-digital-identity-wallet-for-identification-and-documentation",
+      "title": "Allemagne — projet de loi sur l'identité numérique (DIdG) pour le portefeuille EUDI",
+      "summary": "Analyse publiée le 15 juin du projet de loi allemand sur les identités numériques (Digitale-Identitäten-Gesetz), adopté en conseil des ministres le 20 mai, qui pose le cadre d'introduction du portefeuille EUDI en Allemagne (autorité responsable : ministère fédéral du Numérique). Notamment, aucun plafond numérique au nombre de portefeuilles reconnus. Combiné à la publication par l'ETSI du socle de normes techniques d'interopérabilité, c'est un jalon de mise en œuvre vers l'échéance de fin 2026. Suivi de transposition : pas de bascule probabiliste.",
+      "affects": [
+        "eudi-wallet",
+        "eudi-prive"
+      ]
     },
     {
       "id": "src-3",
-      "name": "AMLA",
-      "date": "2026-06-09",
-      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-expects-high-standards-against-financial-crime-crypto-sector_en",
-      "title": "AMLA — exigences élevées contre le blanchiment dans le secteur crypto",
-      "summary": "Lors de sa première conférence (Francfort), l'autorité réaffirme la qualification du secteur crypto comme à haut risque (anonymat, opacité des bénéficiaires effectifs, transferts transfrontaliers). Posture de supervision, pas de mesure contraignante nouvelle : commentaire de suivi, pas de fait matériel.",
+      "name": "Phys.org",
+      "date": "2026-06-16",
+      "url": "https://phys.org/news/2026-06-atlantic-cold-blob-weakening-ocean.html",
+      "title": "Le « blob froid » de l'Atlantique attribué à un affaiblissement de l'AMOC",
+      "summary": "Une étude (Geophysical Research Letters), fondée sur des données de réanalyse issues d'observations directes plutôt que sur de la seule modélisation, conclut que la tache d'eau froide au sud du Groenland résulte surtout d'un ralentissement de l'AMOC réduisant le transport de chaleur océanique. Signal scientifique cohérent avec un point de bascule en approche ; renforce le suivi sans modifier la probabilité (le signal climat reste à horizon long et sans cote).",
+      "affects": [
+        "climat-15"
+      ]
+    },
+    {
+      "id": "src-4",
+      "name": "EDRi — CSA Regulation Document Pool",
+      "date": "2026-06-16",
+      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
+      "title": "CSAR / Chat Control — suivi de procédure",
+      "summary": "Suivi : après l'expiration du scan volontaire (avril 2026), les négociations en trilogue se poursuivent, prochain rendez-vous politique attendu le 29 juin. Aucun texte ni vote nouveau dans les 48 h : pas d'impact sur la probabilité.",
       "affects": []
     }
   ]
