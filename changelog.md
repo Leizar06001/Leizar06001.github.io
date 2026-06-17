@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-06-17 — 0 modifiée, 0 nouvelle
+- Jour calme : aucun fait matériel (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure — euro numérique : précisions sur le compromis (hors ligne limité au local, frais commerçants inchangés / hors ligne gratuit), vote ECON toujours calé au 23 juin ([heise](https://www.heise.de/en/news/EU-Parliament-Compromise-reached-for-digital-euro-11320315.html)). Déjà intégré le 16 juin, pas de nouveau mouvement.
+- Suivis sans impact : lignes directrices AI Act « haut-risque » en consultation jusqu'au 23 juin ([Commission UE](https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems)) et Chat Control/CSAR (prochain trilogue 29 juin ; [EDRi](https://edri.org/our-work/csa-regulation-document-pool/)).
+
 ## 2026-06-16 — 1 modifiée, 0 nouvelle
 - Fait matériel — euro numérique : compromis entre groupes en commission ECON sur les points sensibles (limites de détention, fonctions en/hors ligne, frais), vote du rapport Navarrete calé au 23 juin. Adoption 2026 et émission ~2029 confortées ⇒ `euro-num-emission` 52 → 54 (+2, mouvement contenu car les garde-fous vie privée/inclusion sont renforcés). [Agence Europe](https://agenceurope.eu/en/bulletin/article/13882/24/european-parliaments-negotiations-on-digital-euro-pave-way-for-end-of-june-committee-vote)
 - Suivi sans cote — identité : projet de loi allemand sur l'identité numérique (DIdG) et socle de normes ETSI publié, jalons de mise en œuvre du portefeuille EUDI vers fin 2026 ([Library of Congress](https://www.loc.gov/item/global-legal-monitor/2026-06-15/germany-government-proposes-introduction-of-european-digital-identity-wallet-for-identification-and-documentation)).

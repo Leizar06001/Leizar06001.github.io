@@ -209,8 +209,8 @@ PAGE = '''<!DOCTYPE html>
       <span><span class="bar up"></span> aggrave / <span class="bar dn"></span> freine</span>
     </div>
   </header>
-  {horizons}
   {sources}
+  {horizons}
   <div class="foot">
     <p>Les pourcentages sont des jugements structurés, pas des prévisions calibrées. Une probabilité ne bouge que sur un fait déclencheur matériel, sourcé, avec un delta plafonné.</p>
     <div class="nav">

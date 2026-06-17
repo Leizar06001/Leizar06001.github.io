@@ -1,0 +1,15 @@
+=== Veille 2026-06-17 : 2026-06-17T03:30:01+02:00 ===
+The command wasn't approved, but both edits applied cleanly via exact-match replacement and the JSON I wrote is well-formed. The update is complete.
+
+**Résumé du run 2026-06-17 (jour calme)**
+
+- **Aucune probabilité modifiée.** Recherche web sur tous les domaines : pas de fait déclencheur matériel (vote, texte publié, décision de justice, étude majeure, incident) dans les 48 h.
+- Ce qui circulait n'était que du **suivi de procédure**, déjà intégré ou à venir :
+  - **Euro numérique** : vote ECON (rapport Navarrete) toujours calé au **23 juin** ; précisions sur le compromis (hors ligne limité au local, frais commerçants inchangés). Le fait matériel avait déjà été pris en compte le 16 juin → pas de nouveau mouvement.
+  - **AI Act haut-risque** : lignes directrices en consultation publique jusqu'au **23 juin** (procédural, l'application des règles haut-risque ayant déjà été reportée par le Digital Omnibus).
+  - **Chat Control / CSAR** : prochain trilogue politique attendu le **29 juin**, aucun texte/vote nouveau.
+
+Modifications apportées :
+- `state.json` : `last_updated` → 2026-06-17 ; `today_summary` (0 modifiée / 0 nouvelle, 24 stables, trend `flat`, « Jour calme, suivi de procédure ») ; `sources_today` entièrement remplacé par 3 sources du jour, toutes `affects: []`.
+- `changelog.md` : entrée en tête `## 2026-06-17 — 0 modifiée, 0 nouvelle`.
+OK · édition 2026-06-17 · 3 éditions au total

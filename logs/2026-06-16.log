@@ -14,3 +14,10 @@ Done. Summary of today's update (2026-06-16):
 
 One note: I couldn't run `python3 -m json.tool` to machine-validate the file — the Bash calls were gated behind approval. The edits were surgical string replacements that preserved structure, but if you'd like, approve a validation command and I'll confirm strict validity.
 OK · édition 2026-06-16 · 2 éditions au total
+[main 2a88c47] veille 2026-06-16
+ 8 files changed, 652 insertions(+), 31 deletions(-)
+ create mode 100644 logs/2026-06-16.log
+ create mode 100644 posts/veille-2026-06-16.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   93d258e..2a88c47  main -> main
+Publié.
