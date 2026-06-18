@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-17",
+  "last_updated": "2026-06-18",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -481,29 +481,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "heise online",
-      "date": "2026-06-17",
-      "url": "https://www.heise.de/en/news/EU-Parliament-Compromise-reached-for-digital-euro-11320315.html",
-      "title": "Euro numérique — détails du compromis avant le vote ECON du 23 juin",
-      "summary": "Compte rendu confirmant le compromis interpartis sur le règlement euro numérique : paiement à la fois en ligne et hors ligne, le hors ligne étant initialement limité aux transactions locales entre particuliers ou via terminal ; sur les frais, les commerçants ne paieraient pas plus qu'aujourd'hui et le hors ligne serait gratuit. Le vote du rapport Navarrete en commission ECON reste calé au 23 juin, suivi d'un passage en plénière à Strasbourg avant la pause estivale. Suivi de procédure : ces précisions prolongent le fait matériel déjà intégré le 16 juin, sans nouveau mouvement de probabilité aujourd'hui.",
+      "name": "EDRi — CSA Regulation Document Pool",
+      "date": "2026-06-18",
+      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
+      "title": "CSAR / Chat Control — suivi de procédure avant le trilogue du 29 juin",
+      "summary": "Les négociations en trilogue se poursuivent sur la base de la position du Conseil (logique « évaluation/atténuation des risques » plutôt qu'ordres de détection explicites), avec un quatrième et probablement dernier rendez-vous politique attendu le 29 juin ; en cas d'accord, une adoption formelle pourrait suivre en juillet. Les points encore ouverts portent sur la vérification d'âge, les restrictions des magasins d'applications et la frontière entre surveillance ciblée et indiscriminée. Aucun texte ni vote nouveau dans les 48 h : pas d'impact sur la probabilité.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "Commission européenne — Shaping Europe's digital future",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems",
-      "title": "AI Act — consultation sur les lignes directrices « haut-risque »",
-      "summary": "Les lignes directrices de la Commission sur la classification des systèmes d'IA à haut risque (art. 6(2) et annexe III, ~167 pages, exemples sur biométrie, emploi, services essentiels, répression) restent en consultation publique jusqu'au 23 juin. Pour mémoire, l'accord Digital Omnibus de mai a reporté l'application des règles haut-risque (systèmes autonomes au 2 déc. 2027). Pur suivi de procédure : pas de texte contraignant ni de vote dans les 48 h, aucune cote modifiée.",
+      "title": "AI Act — consultation « haut-risque » ouverte jusqu'au 23 juin",
+      "summary": "La consultation ciblée des parties prenantes sur les lignes directrices de classification des systèmes d'IA à haut risque (art. 6(2) et annexe III) reste ouverte jusqu'au 23 juin ; les retours seront intégrés avant adoption par la Commission. Pour mémoire, l'accord Digital Omnibus de mai a reporté l'application des règles haut-risque (zones biométrie, infrastructures critiques, emploi, migration/asile au 2 déc. 2027), l'adoption formelle de l'omnibus étant attendue avant le 2 août. Pur suivi de procédure : pas de texte contraignant ni de vote dans les 48 h, aucune cote modifiée.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "EDRi — CSA Regulation Document Pool",
-      "date": "2026-06-17",
-      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
-      "title": "CSAR / Chat Control — suivi de procédure",
-      "summary": "Suivi : après l'expiration du scan volontaire (avril 2026), les négociations en trilogue se poursuivent sur la base de la position du Conseil (orientation « évaluation/atténuation des risques » plutôt qu'ordres de détection explicites), prochain rendez-vous politique attendu le 29 juin. Aucun texte ni vote nouveau dans les 48 h : pas d'impact sur la probabilité.",
+      "name": "Parlement européen — commission ECON (procédure)",
+      "date": "2026-06-18",
+      "url": "https://www.europarl.europa.eu/committees/en/econ/home/highlights",
+      "title": "Euro numérique — vote du rapport Navarrete toujours calé au 23 juin",
+      "summary": "Suivi : le compromis interpartis trouvé en ECON (limites de détention, fonctions en/hors ligne, frais) reste à confirmer par le vote du rapport prévu le 23 juin, avant passage en plénière. Le fait matériel a déjà été intégré le 16 juin (euro-num-emission 52 → 54) ; aucun mouvement de probabilité aujourd'hui en l'absence de vote.",
       "affects": []
     }
   ]

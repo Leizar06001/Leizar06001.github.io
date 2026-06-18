@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-06-18 — 0 modifiée, 0 nouvelle
+- Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure — euro numérique : vote du rapport Navarrete en commission ECON toujours calé au 23 juin (compromis déjà intégré le 16 juin, pas de nouveau mouvement) ; AI Act « haut-risque » en consultation jusqu'au 23 juin ([Commission UE](https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems)).
+- Suivi sans impact — Chat Control/CSAR : trilogue (probablement final) attendu le 29 juin, négociations toujours ouvertes (vérification d'âge, magasins d'applications, scan ciblé vs indiscriminé) ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)).
+
 ## 2026-06-17 — 0 modifiée, 0 nouvelle
 - Jour calme : aucun fait matériel (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
 - Suivi de procédure — euro numérique : précisions sur le compromis (hors ligne limité au local, frais commerçants inchangés / hors ligne gratuit), vote ECON toujours calé au 23 juin ([heise](https://www.heise.de/en/news/EU-Parliament-Compromise-reached-for-digital-euro-11320315.html)). Déjà intégré le 16 juin, pas de nouveau mouvement.

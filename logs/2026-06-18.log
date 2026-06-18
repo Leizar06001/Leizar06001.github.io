@@ -1,0 +1,18 @@
+=== Veille 2026-06-18 : 2026-06-18T03:30:01+02:00 ===
+Validation commands are being blocked by the permission prompt, so I'll rely on the edits themselves — both were exact replacements into already-valid JSON with balanced structure.
+
+**Veille du 2026-06-18 — jour calme, 0 modifiée, 0 nouvelle.**
+
+Balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat) : aucun **fait déclencheur matériel** dans les dernières 48 h. Ce qui circule est soit du contexte de fond, soit de la procédure déjà tracée :
+
+- **Euro numérique** — vote du rapport Navarrete en commission ECON toujours calé au **23 juin** (le compromis avait déjà été intégré le 16 juin, `euro-num-emission` 52→54 ; pas de nouveau mouvement aujourd'hui).
+- **AI Act « haut-risque »** — consultation des lignes directrices ouverte jusqu'au **23 juin**, omnibus à adopter avant le 2 août. Pure procédure.
+- **Chat Control / CSAR** — trilogue (probablement final) attendu le **29 juin**, négociations encore ouvertes. Pas de texte ni de vote → pas d'impact.
+
+Conformément aux garde-fous, **aucune probabilité n'a été touchée** (pas de fait matériel sourcé). Modifications apportées :
+
+- `state.json` : `last_updated` → 2026-06-18 ; `today_summary` inchangé (0/0/0/0, 24 stables, trend `flat`) ; `sources_today` entièrement remplacé par 3 sources de suivi de procédure (toutes `affects: []`), paraphrasées.
+- `changelog.md` : nouvelle entête `## 2026-06-18 — 0 modifiée, 0 nouvelle` avec trois puces de synthèse.
+
+Aucun autre fichier touché.
+OK · édition 2026-06-18 · 4 éditions au total

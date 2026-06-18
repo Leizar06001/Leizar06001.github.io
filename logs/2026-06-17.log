@@ -13,3 +13,10 @@ Modifications apportées :
 - `state.json` : `last_updated` → 2026-06-17 ; `today_summary` (0 modifiée / 0 nouvelle, 24 stables, trend `flat`, « Jour calme, suivi de procédure ») ; `sources_today` entièrement remplacé par 3 sources du jour, toutes `affects: []`.
 - `changelog.md` : entrée en tête `## 2026-06-17 — 0 modifiée, 0 nouvelle`.
 OK · édition 2026-06-17 · 3 éditions au total
+[main 883ea02] veille 2026-06-17
+ 9 files changed, 612 insertions(+), 42 deletions(-)
+ create mode 100644 logs/2026-06-17.log
+ create mode 100644 posts/veille-2026-06-17.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   2a88c47..883ea02  main -> main
+Publié.
