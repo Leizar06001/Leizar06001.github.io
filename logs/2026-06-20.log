@@ -1,0 +1,16 @@
+=== Veille 2026-06-20 : 2026-06-20T03:30:01+02:00 ===
+Done. No material trigger in the last 48 h, so all probabilities are unchanged. Summary of edits:
+
+**`state.json`**
+- `last_updated` → `2026-06-20`; `today_summary` stays flat (0 modifiée, 0 nouvelle, 24 stable).
+- `sources_today` fully replaced with today's three procedural-tracking sources (all `affects: []`):
+  - **Euro numérique** — vote ECON confirmé le 23 juin (décide aussi de l'ouverture des trilogues), plénière visée 6–9 juillet. Fait déjà intégré le 16 juin → pas de nouveau mouvement.
+  - **AI Act** — correction de calendrier : consultation « haut-risque » prolongée du 23 juin au **23 juillet**.
+  - **Chat Control/CSAR** — trilogue probablement final le 29 juin.
+- JSON validé (`jq empty` OK).
+
+**`changelog.md`**
+- Nouvelle entrée en tête `## 2026-06-20 — 0 modifiée, 0 nouvelle` avec trois puces (jour calme, correction AI Act, suivis euro numérique + Chat Control).
+
+Aucun autre fichier touché.
+OK · édition 2026-06-20 · 5 éditions au total

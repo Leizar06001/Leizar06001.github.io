@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-06-20 — 0 modifiée, 0 nouvelle
+- Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Correction de calendrier — AI Act : la consultation sur les lignes directrices « haut-risque » est prolongée du 23 juin au 23 juillet ; lignes directrices finales attendues fin 2026 ([Commission UE](https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-classification-high-risk-artificial-intelligence-systems)).
+- Suivi de procédure — euro numérique : vote ECON du rapport Navarrete confirmé au 23 juin (décide aussi de l'ouverture des trilogues), plénière visée vers le 6–9 juillet ; déjà intégré le 16 juin, pas de nouveau mouvement ([Parlement UE](https://www.europarl.europa.eu/legislative-train/theme-an-economy-that-works-for-people/file-digital-euro)). Chat Control/CSAR : trilogue probablement final le 29 juin ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)).
+
 ## 2026-06-18 — 0 modifiée, 0 nouvelle
 - Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
 - Suivi de procédure — euro numérique : vote du rapport Navarrete en commission ECON toujours calé au 23 juin (compromis déjà intégré le 16 juin, pas de nouveau mouvement) ; AI Act « haut-risque » en consultation jusqu'au 23 juin ([Commission UE](https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems)).

@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-18",
+  "last_updated": "2026-06-20",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -481,29 +481,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "EDRi — CSA Regulation Document Pool",
-      "date": "2026-06-18",
-      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
-      "title": "CSAR / Chat Control — suivi de procédure avant le trilogue du 29 juin",
-      "summary": "Les négociations en trilogue se poursuivent sur la base de la position du Conseil (logique « évaluation/atténuation des risques » plutôt qu'ordres de détection explicites), avec un quatrième et probablement dernier rendez-vous politique attendu le 29 juin ; en cas d'accord, une adoption formelle pourrait suivre en juillet. Les points encore ouverts portent sur la vérification d'âge, les restrictions des magasins d'applications et la frontière entre surveillance ciblée et indiscriminée. Aucun texte ni vote nouveau dans les 48 h : pas d'impact sur la probabilité.",
+      "name": "Parlement européen — Legislative Train (euro numérique)",
+      "date": "2026-06-20",
+      "url": "https://www.europarl.europa.eu/legislative-train/theme-an-economy-that-works-for-people/file-digital-euro",
+      "title": "Euro numérique — vote ECON confirmé le 23 juin, plénière visée 6–9 juillet",
+      "summary": "Le vote du rapport Navarrete en commission ECON est confirmé pour le 23 juin ; il décidera aussi de l'ouverture des trilogues avec le Conseil et la Commission. Les négociateurs s'accordent sur un euro numérique fonctionnant en ligne et hors ligne, avec frais commerçants inchangés et paiements hors ligne gratuits. Si le calendrier tient, un vote en plénière pourrait suivre vers le 6–9 juillet. Fait matériel déjà intégré le 16 juin (euro-num-emission 52 → 54) : aucun nouveau mouvement de probabilité en l'absence de vote effectif.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "Commission européenne — Shaping Europe's digital future",
-      "date": "2026-06-18",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems",
-      "title": "AI Act — consultation « haut-risque » ouverte jusqu'au 23 juin",
-      "summary": "La consultation ciblée des parties prenantes sur les lignes directrices de classification des systèmes d'IA à haut risque (art. 6(2) et annexe III) reste ouverte jusqu'au 23 juin ; les retours seront intégrés avant adoption par la Commission. Pour mémoire, l'accord Digital Omnibus de mai a reporté l'application des règles haut-risque (zones biométrie, infrastructures critiques, emploi, migration/asile au 2 déc. 2027), l'adoption formelle de l'omnibus étant attendue avant le 2 août. Pur suivi de procédure : pas de texte contraignant ni de vote dans les 48 h, aucune cote modifiée.",
+      "name": "Commission européenne — Shaping Europe's digital future (consultation IA)",
+      "date": "2026-06-20",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-classification-high-risk-artificial-intelligence-systems",
+      "title": "AI Act — consultation « haut-risque » prolongée jusqu'au 23 juillet",
+      "summary": "Correction de calendrier : la consultation ciblée sur les lignes directrices de classification des systèmes d'IA à haut risque (art. 6(2) et annexe III), publiées le 19 mai, est prolongée du 23 juin au 23 juillet pour laisser plus de temps aux parties prenantes. Les lignes directrices finales, non contraignantes, sont attendues d'ici fin 2026. Pur suivi de procédure : pas de texte contraignant ni de vote dans les 48 h, aucune cote modifiée.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Parlement européen — commission ECON (procédure)",
-      "date": "2026-06-18",
-      "url": "https://www.europarl.europa.eu/committees/en/econ/home/highlights",
-      "title": "Euro numérique — vote du rapport Navarrete toujours calé au 23 juin",
-      "summary": "Suivi : le compromis interpartis trouvé en ECON (limites de détention, fonctions en/hors ligne, frais) reste à confirmer par le vote du rapport prévu le 23 juin, avant passage en plénière. Le fait matériel a déjà été intégré le 16 juin (euro-num-emission 52 → 54) ; aucun mouvement de probabilité aujourd'hui en l'absence de vote.",
+      "name": "EDRi — CSA Regulation Document Pool",
+      "date": "2026-06-20",
+      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
+      "title": "CSAR / Chat Control — trilogue (probablement final) attendu le 29 juin",
+      "summary": "Les négociations en trilogue se poursuivent sous présidence chypriote, qui pousse pour un accord d'ici fin juin ; le rendez-vous politique du 29 juin est présenté comme probablement décisif. Restent ouverts la vérification d'âge, les restrictions des magasins d'applications et la frontière entre détection ciblée et indiscriminée, le Conseil privilégiant une logique d'évaluation/atténuation des risques plutôt que des ordres de détection explicites. Aucun texte ni vote nouveau dans les 48 h : pas d'impact sur la probabilité.",
       "affects": []
     }
   ]
