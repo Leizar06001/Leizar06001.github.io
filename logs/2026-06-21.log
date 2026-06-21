@@ -1,0 +1,8 @@
+=== Veille 2026-06-21 : 2026-06-21T03:30:01+02:00 ===
+Mise à jour terminée. Jour calme — aucun fait matériel dans les 48 h, aucune probabilité touchée.
+
+- **`state.json`** : `last_updated` → 2026-06-21 ; `sources_today` remplacé par 3 sources de suivi (toutes `affects: []`) — euro numérique (vote ECON J-2, le 23 juin), Chat Control/CSAR (trilogue maintenu au 29 juin), quantique (avancées incrémentales sans déplacer le « Q-Day »). `today_summary` reste 0 modifiée / 0 nouvelle / 24 stables, trend `flat`.
+- **`changelog.md`** : nouvelle entrée en tête `## 2026-06-21 — 0 modifiée, 0 nouvelle` avec 3 puces sourcées.
+
+À noter : la validation JSON par `python3` a demandé une autorisation que je n'ai pas forcée ; les éditions sont de simples remplacements de chaînes bien formés, mais si tu veux je peux relancer la validation une fois l'autorisation accordée.
+OK · édition 2026-06-21 · 6 éditions au total

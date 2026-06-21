@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-06-21 — 0 modifiée, 0 nouvelle
+- Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure (J-2) — euro numérique : vote du rapport Navarrete en commission ECON toujours calé au 23 juin (décide aussi de l'ouverture des trilogues) ; déjà intégré le 16 juin, pas de nouveau mouvement ([Parlement UE](https://www.europarl.europa.eu/legislative-train/theme-an-economy-that-works-for-people/file-digital-euro)). Chat Control/CSAR : trilogue probablement final maintenu au 29 juin ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)).
+- Suivi sans impact — quantique : Helios 98 qubits (Sandia/Quantinuum, 18 juin) et intrication distribuée Duke/IonQ (20 juin) ; avancées incrémentales très loin du seuil cryptographiquement pertinent ⇒ fenêtre « Q-Day » inchangée ([Quantum Computing Report](https://quantumcomputingreport.com/news/)).
+
 ## 2026-06-20 — 0 modifiée, 0 nouvelle
 - Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
 - Correction de calendrier — AI Act : la consultation sur les lignes directrices « haut-risque » est prolongée du 23 juin au 23 juillet ; lignes directrices finales attendues fin 2026 ([Commission UE](https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-classification-high-risk-artificial-intelligence-systems)).
