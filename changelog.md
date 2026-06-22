@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-06-22 — 0 modifiée, 0 nouvelle
+- Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure (J-1) — euro numérique : vote du rapport Navarrete en commission ECON confirmé pour demain 23 juin (décide aussi de l'ouverture des trilogues, donc de la possibilité même d'une loi puis d'une émission BCE) ; compromis stable, plénière visée en juillet. Déjà intégré le 16 juin, pas de nouveau mouvement ([Agence Europe](https://agenceurope.eu/en/bulletin/article/13882/24/european-parliaments-negotiations-on-digital-euro-pave-way-for-end-of-june-committee-vote)). Chat Control/CSAR : trilogue probablement final maintenu au 29 juin, Conseil orienté évaluation/atténuation des risques plutôt qu'ordres de détection ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)).
+- Suivi sans impact — crypto/AMLR : articles de synthèse rappelant l'exclusion des coins privés et le contrôle des wallets auto-hébergés > 1000 € (plein effet juillet 2027, AMLA en phase de sélection) ; cadre déjà « final » et intégré ⇒ cote `amlr-art79` inchangée ([The Crypto Times](https://www.cryptotimes.io/2026/06/20/eu-to-ban-privacy-coin-services-under-sweeping-aml-rules/)).
+
 ## 2026-06-21 — 0 modifiée, 0 nouvelle
 - Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
 - Suivi de procédure (J-2) — euro numérique : vote du rapport Navarrete en commission ECON toujours calé au 23 juin (décide aussi de l'ouverture des trilogues) ; déjà intégré le 16 juin, pas de nouveau mouvement ([Parlement UE](https://www.europarl.europa.eu/legislative-train/theme-an-economy-that-works-for-people/file-digital-euro)). Chat Control/CSAR : trilogue probablement final maintenu au 29 juin ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)).

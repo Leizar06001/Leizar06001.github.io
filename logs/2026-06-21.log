@@ -6,3 +6,10 @@ Mise à jour terminée. Jour calme — aucun fait matériel dans les 48 h, aucun
 
 À noter : la validation JSON par `python3` a demandé une autorisation que je n'ai pas forcée ; les éditions sont de simples remplacements de chaînes bien formés, mais si tu veux je peux relancer la validation une fois l'autorisation accordée.
 OK · édition 2026-06-21 · 6 éditions au total
+[main 1b0a44e] veille 2026-06-21
+ 8 files changed, 599 insertions(+), 17 deletions(-)
+ create mode 100644 logs/2026-06-21.log
+ create mode 100644 posts/veille-2026-06-21.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   4af691b..1b0a44e  main -> main
+Publié.

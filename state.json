@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-06-22",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 24,
     "trend": "flat",
-    "trend_label": "Jour calme, suivi de procédure"
+    "trend_label": "Jour calme, veille avant vote (J-1)"
   },
   "signals": [
     {
@@ -481,29 +481,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Parlement européen — Legislative Train (euro numérique)",
-      "date": "2026-06-21",
-      "url": "https://www.europarl.europa.eu/legislative-train/theme-an-economy-that-works-for-people/file-digital-euro",
-      "title": "Euro numérique — vote ECON attendu le 23 juin (J-2)",
-      "summary": "Veille de week-end avant l'échéance : le vote du rapport Navarrete en commission ECON reste calé au 23 juin et décidera aussi de l'ouverture des trilogues. Le compromis (fonctionnement en ligne et hors ligne, frais commerçants inchangés, hors ligne gratuit) est stable depuis la mi-juin. Fait matériel déjà intégré le 16 juin (euro-num-emission 52 → 54) : tant que le vote n'a pas eu lieu, aucune nouvelle cote.",
+      "name": "Agence Europe / Spazio Crypto — suivi euro numérique",
+      "date": "2026-06-22",
+      "url": "https://agenceurope.eu/en/bulletin/article/13882/24/european-parliaments-negotiations-on-digital-euro-pave-way-for-end-of-june-committee-vote",
+      "title": "Euro numérique — vote ECON demain 23 juin (J-1)",
+      "summary": "Veille à la veille de l'échéance : le vote du rapport Navarrete en commission ECON est confirmé pour le 23 juin et tranchera aussi l'ouverture des trilogues avec le Conseil et la Commission — sans mandat parlementaire, pas de négociation, donc pas de loi ni d'émission possible par la BCE. Le compromis reste stable (fonctionnement en ligne et hors ligne, le hors ligne d'abord limité aux paiements locaux entre particuliers ou en terminal, frais commerçants inchangés, hors ligne gratuit) ; plénière visée en juillet. Fait matériel déjà intégré le 16 juin (euro-num-emission 52 → 54) : tant que le vote n'a pas eu lieu, aucune nouvelle cote.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "EDRi — CSA Regulation Document Pool",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "url": "https://edri.org/our-work/csa-regulation-document-pool/",
       "title": "CSAR / Chat Control — trilogue (probablement final) attendu le 29 juin",
-      "summary": "Pas d'élément nouveau dans les 48 h : les négociations en trilogue restent ouvertes, avec un rendez-vous politique présenté comme décisif le 29 juin. Points encore en discussion : vérification d'âge, restrictions des magasins d'applications, frontière entre détection ciblée et indiscriminée, le Conseil privilégiant une logique d'évaluation/atténuation des risques plutôt que des ordres de détection explicites. Suivi de procédure, sans impact sur la probabilité.",
+      "summary": "Pas d'élément nouveau dans les 48 h : les négociations en trilogue restent ouvertes, avec un rendez-vous politique présenté comme décisif le 29 juin. La position du Conseil (présidence danoise) s'éloigne des « ordres de détection » explicites au profit d'obligations d'évaluation et d'atténuation des risques pour les fournisseurs ; le Parlement reste sur une ligne plus protectrice (refus du scan indiscriminé, garanties pour le chiffrement de bout en bout). Suivi de procédure, sans impact sur la probabilité.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Quantum Computing Report — actualités matériel",
-      "date": "2026-06-21",
-      "url": "https://quantumcomputingreport.com/news/",
-      "title": "Quantique — avancées incrémentales (Helios 98 qubits, intrication distribuée Duke/IonQ)",
-      "summary": "Suivi sans impact : validation par Sandia et Quantinuum d'un système à ions piégés Helios de 98 qubits (18 juin) et démonstration par Duke et IonQ d'une intrication tripartite distribuée sur un réseau à trois nœuds via interconnexions photoniques (20 juin). Progrès réels vers le calcul modulaire et la fidélité des portes, mais ces échelles restent très éloignées des milliers de qubits logiques nécessaires pour casser RSA/ECC : la fenêtre « Q-Day » (q-day) n'est pas matériellement déplacée.",
+      "name": "The Crypto Times — explainer AMLR / coins privés",
+      "date": "2026-06-20",
+      "url": "https://www.cryptotimes.io/2026/06/20/eu-to-ban-privacy-coin-services-under-sweeping-aml-rules/",
+      "title": "AMLR — rappel : services de coins privés exclus, wallets auto-hébergés sous contrôle (échéance juillet 2027)",
+      "summary": "Article de synthèse, pas un fait nouveau : reprise du cadre AMLR (règlement (UE) 2024/1624) déjà « final » — interdiction des services sur coins anonymes au sein des plateformes régulées, vérification du contrôle des wallets auto-hébergés pour les transferts > 1000 €, supervision directe par l'AMLA dont la sélection des entités s'amorce en 2026, plein effet au 10 juillet 2027. Aucun élément matériel inédit : la cote amlr-art79 reste inchangée.",
       "affects": []
     }
   ]

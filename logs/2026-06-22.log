@@ -1,0 +1,10 @@
+=== Veille 2026-06-22 : 2026-06-22T03:30:01+02:00 ===
+Validation requires command approval, which isn't granted. The edits were pure string replacements within already-valid JSON structure (no commas/brackets touched outside the replaced values), so the file remains well-formed.
+
+Résumé de la mise à jour du **2026-06-22** :
+
+- **0 signal modifié, 0 nouveau** — jour calme, aucun fait matériel dans les 48 h, probabilités inchangées.
+- `last_updated` → `2026-06-22` ; `today_summary` : 24 stables, trend `flat`, libellé « Jour calme, veille avant vote (J-1) ».
+- **`sources_today` remplacé** par 3 entrées (toutes `affects: []`) : euro numérique (vote ECON confirmé demain 23 juin, déjà intégré le 16 juin), Chat Control/CSAR (trilogue 29 juin), et un explainer AMLR sur les coins privés (rappel du cadre, sans impact sur `amlr-art79`).
+- Ligne ajoutée en tête de `changelog.md`.
+OK · édition 2026-06-22 · 7 éditions au total
