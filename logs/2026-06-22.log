@@ -8,3 +8,10 @@ Résumé de la mise à jour du **2026-06-22** :
 - **`sources_today` remplacé** par 3 entrées (toutes `affects: []`) : euro numérique (vote ECON confirmé demain 23 juin, déjà intégré le 16 juin), Chat Control/CSAR (trilogue 29 juin), et un explainer AMLR sur les coins privés (rappel du cadre, sans impact sur `amlr-art79`).
 - Ligne ajoutée en tête de `changelog.md`.
 OK · édition 2026-06-22 · 7 éditions au total
+[main 5715f88] veille 2026-06-22
+ 8 files changed, 600 insertions(+), 17 deletions(-)
+ create mode 100644 logs/2026-06-22.log
+ create mode 100644 posts/veille-2026-06-22.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   1b0a44e..5715f88  main -> main
+Publié.

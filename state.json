@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 24,
     "trend": "flat",
-    "trend_label": "Jour calme, veille avant vote (J-1)"
+    "trend_label": "Jour du vote ECON euro num. — résultat à confirmer"
   },
   "signals": [
     {
@@ -120,7 +120,7 @@
       "horizon": "T-0",
       "title": "Règlement euro numérique",
       "when": "adoption visée 2026",
-      "status": "Compromis trouvé entre groupes en commission ECON ; vote du rapport (rapporteur Navarrete) prévu le 23 juin 2026.",
+      "status": "Vote du rapport Navarrete en commission ECON le 23 juin 2026 (décide aussi de l'ouverture des trilogues) ; compromis stable, plénière visée 6-9 juillet. Résultat du vote à confirmer.",
       "is_bascule": false,
       "prob": null,
       "prob_range": null,
@@ -256,7 +256,7 @@
       "horizon": "T-2",
       "title": "Émission potentielle de l'euro numérique",
       "when": "~2029",
-      "status": "Conditionnée à l'adoption 2026. Compromis ECON (juin 2026) → file sur les rails ; première émission visée vers 2029.",
+      "status": "Conditionnée à l'adoption 2026. Vote ECON du rapport Navarrete le 23 juin (mandat de trilogue), plénière 6-9 juillet ; première émission visée vers 2029. Résultat du vote à confirmer.",
       "is_bascule": true,
       "prob": 54,
       "prob_range": [
@@ -481,29 +481,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Agence Europe / Spazio Crypto — suivi euro numérique",
-      "date": "2026-06-22",
-      "url": "https://agenceurope.eu/en/bulletin/article/13882/24/european-parliaments-negotiations-on-digital-euro-pave-way-for-end-of-june-committee-vote",
-      "title": "Euro numérique — vote ECON demain 23 juin (J-1)",
-      "summary": "Veille à la veille de l'échéance : le vote du rapport Navarrete en commission ECON est confirmé pour le 23 juin et tranchera aussi l'ouverture des trilogues avec le Conseil et la Commission — sans mandat parlementaire, pas de négociation, donc pas de loi ni d'émission possible par la BCE. Le compromis reste stable (fonctionnement en ligne et hors ligne, le hors ligne d'abord limité aux paiements locaux entre particuliers ou en terminal, frais commerçants inchangés, hors ligne gratuit) ; plénière visée en juillet. Fait matériel déjà intégré le 16 juin (euro-num-emission 52 → 54) : tant que le vote n'a pas eu lieu, aucune nouvelle cote.",
+      "name": "Ledger Insights / Agence Europe — euro numérique",
+      "date": "2026-06-23",
+      "url": "https://www.ledgerinsights.com/digital-euro-in-parliamentary-vote-this-month/",
+      "title": "Euro numérique — jour du vote ECON (23 juin), résultat à confirmer",
+      "summary": "Échéance du jour : la commission ECON vote le rapport Navarrete et l'ouverture des trilogues avec le Conseil et la Commission — sans mandat parlementaire, pas de négociation, donc pas de loi ni d'émission BCE possible. Le compromis entre groupes reste verrouillé (en ligne + hors ligne, hors ligne d'abord limité aux paiements locaux particuliers/terminal et gratuit, frais commerçants inchangés, plafonds de détention à fixer par la BCE dans le cadre des colégislateurs, garanties de vie privée renforcées pour le hors ligne) ; soutien large (sondage indicatif 420-158 en février), plénière visée 6-9 juillet, émission éventuelle ~2029. Le résultat du vote n'est pas encore confirmé par une source au moment de la mise à jour, et le compromis a déjà été coté le 16 juin (euro-num-emission 52 → 54) : aucune nouvelle cote tant que l'adoption et ses termes ne sont pas sourcés. À réévaluer dès confirmation.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "EDRi — CSA Regulation Document Pool",
-      "date": "2026-06-22",
+      "name": "EU Perspectives / EDRi — CSA Regulation",
+      "date": "2026-06-23",
       "url": "https://edri.org/our-work/csa-regulation-document-pool/",
       "title": "CSAR / Chat Control — trilogue (probablement final) attendu le 29 juin",
-      "summary": "Pas d'élément nouveau dans les 48 h : les négociations en trilogue restent ouvertes, avec un rendez-vous politique présenté comme décisif le 29 juin. La position du Conseil (présidence danoise) s'éloigne des « ordres de détection » explicites au profit d'obligations d'évaluation et d'atténuation des risques pour les fournisseurs ; le Parlement reste sur une ligne plus protectrice (refus du scan indiscriminé, garanties pour le chiffrement de bout en bout). Suivi de procédure, sans impact sur la probabilité.",
+      "summary": "Pas d'élément nouveau dans les 48 h : 4e trilogue présenté comme décisif maintenu au 29 juin, adoption formelle visée en juillet si accord. La présidence danoise s'éloigne des « ordres de détection » explicites au profit d'obligations d'évaluation/atténuation des risques (art. 5 : « contribuer effectivement » à la détection automatisée) ; le Parlement maintient une ligne protectrice (scan ciblé et proportionné, exclusion du chiffrement de bout en bout). Suivi de procédure, sans impact sur la cote chat-control.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "The Crypto Times — explainer AMLR / coins privés",
-      "date": "2026-06-20",
-      "url": "https://www.cryptotimes.io/2026/06/20/eu-to-ban-privacy-coin-services-under-sweeping-aml-rules/",
-      "title": "AMLR — rappel : services de coins privés exclus, wallets auto-hébergés sous contrôle (échéance juillet 2027)",
-      "summary": "Article de synthèse, pas un fait nouveau : reprise du cadre AMLR (règlement (UE) 2024/1624) déjà « final » — interdiction des services sur coins anonymes au sein des plateformes régulées, vérification du contrôle des wallets auto-hébergés pour les transferts > 1000 €, supervision directe par l'AMLA dont la sélection des entités s'amorce en 2026, plein effet au 10 juillet 2027. Aucun élément matériel inédit : la cote amlr-art79 reste inchangée.",
+      "name": "Quantum Zeitgeist / Physics World — quantique",
+      "date": "2026-06-23",
+      "url": "https://quantumzeitgeist.com/cryptographically-relevant-quantum-computer/",
+      "title": "Quantique — baisse des estimations de ressources, mais matériel toujours très en deçà du seuil",
+      "summary": "Suivi sans impact : les estimations théoriques de coût pour casser RSA-2048 continuent de baisser (sous le million de qubits physiques, voire ~100 000 selon des travaux récents ; ~1 200 qubits logiques évoqués pour l'ECC), mais le matériel 2026 plafonne autour de 1 000-1 200 qubits physiques. Aucun ordinateur quantique cryptographiquement pertinent n'existe ; avancées incrémentales, pas de fait matériel. Fenêtre « Q-Day » inchangée.",
       "affects": []
     }
   ]

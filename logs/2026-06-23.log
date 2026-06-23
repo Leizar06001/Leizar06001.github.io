@@ -1,0 +1,19 @@
+=== Veille 2026-06-23 : 2026-06-23T03:30:01+02:00 ===
+The structure is well-formed — balanced braces, brackets, and commas throughout. Both files are updated.
+
+## Résumé de la mise à jour — 2026-06-23
+
+**0 signal modifié, 0 nouveau.** Probabilités toutes inchangées (24 stable, trend `flat`).
+
+**Fait du jour — vote ECON sur l'euro numérique :** c'est aujourd'hui que la commission ECON vote le rapport Navarrete et l'ouverture des trilogues. C'est le véritable événement déclencheur du dossier, mais :
+- aucune source ne confirme encore le **résultat** du vote (les votes en commission sont du jour même, l'issue n'est pas encore indexée) ;
+- le **compromis sous-jacent a déjà été coté le 16 juin** (`euro-num-emission` 52 → 54).
+
+Conformément aux garde-fous (« n'ajuste une prob que sur un fait matériel **et sourcé** » ; pas d'anticipation ; pas de double comptage), j'ai **maintenu les probabilités** et mis à jour les statuts de `euro-num-reglement` et `euro-num-emission` en « résultat à confirmer », à réévaluer dès que l'adoption et ses termes (plafonds de détention, vie privée) seront sourcés.
+
+**Balayage des autres domaines :** rien de matériel dans les 48 h.
+- Chat Control / CSAR : trilogue (probablement final) toujours au 29 juin — suivi de procédure.
+- Quantique : baisse continue des estimations théoriques de ressources, mais matériel toujours ~1 000-1 200 qubits — fenêtre « Q-Day » inchangée.
+
+`sources_today` entièrement remplacé (3 sources, toutes `affects: []`), `last_updated` → 2026-06-23, et une entrée ajoutée en tête de `changelog.md`.
+OK · édition 2026-06-23 · 8 éditions au total
