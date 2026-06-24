@@ -1,0 +1,17 @@
+=== Veille 2026-06-24 : 2026-06-24T03:30:01+02:00 ===
+Mise à jour terminée pour le **2026-06-24**.
+
+## Fait matériel du jour
+La commission **ECON** a adopté le rapport Navarrete sur l'euro numérique par **43 voix contre 14** (23 juin), ouvrant le mandat de trilogue. C'était la confirmation que la mise à jour d'hier avait explicitement laissée en suspens (« à réévaluer dès confirmation de l'adoption »).
+
+## Changements `state.json`
+- **`euro-num-emission`** : `prob` 54 → **57** (+3, sous le `delta_cap` de 5). Mouvement contenu car le compromis avait déjà été partiellement coté le 16 juin ; le vote lève surtout le risque d'exécution. `prob_range` [45,60] → [48,62], `prob_history` et `last_change` mis à jour.
+- **`euro-num-reglement`** (prob `null`) : statut actualisé (adoption 43-14, trilogues ouverts, plénière 6-9 juillet).
+- **`sources_today`** entièrement remplacé : src-1 euro numérique (vote, impactant), src-2 Chat Control (29 juin, procédural), src-3 AI Act haut-risque (fin de consultation, sans impact).
+- `last_updated` → 2026-06-24 ; `today_summary` : 1 changée, 1 up, 23 stable, tendance `up`.
+
+## `changelog.md`
+Nouvelle entrée en tête : `## 2026-06-24 — 1 modifiée, 0 nouvelle` avec trois puces (euro numérique sourcé, Chat Control et AI Act en suivi sans impact).
+
+Note : je n'ai pas pu lancer la validation JSON (commande refusée par les permissions), mais les éditions étant des remplacements exacts sur un fichier déjà valide, la structure est préservée.
+OK · édition 2026-06-24 · 9 éditions au total

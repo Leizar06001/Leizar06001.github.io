@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-23",
+  "last_updated": "2026-06-24",
   "today_summary": {
-    "changed": 0,
+    "changed": 1,
     "new": 0,
-    "up": 0,
+    "up": 1,
     "down": 0,
-    "stable": 24,
-    "trend": "flat",
-    "trend_label": "Jour du vote ECON euro num. — résultat à confirmer"
+    "stable": 23,
+    "trend": "up",
+    "trend_label": "Euro num. : vote ECON acquis (43-14), trilogues ouverts"
   },
   "signals": [
     {
@@ -120,7 +120,7 @@
       "horizon": "T-0",
       "title": "Règlement euro numérique",
       "when": "adoption visée 2026",
-      "status": "Vote du rapport Navarrete en commission ECON le 23 juin 2026 (décide aussi de l'ouverture des trilogues) ; compromis stable, plénière visée 6-9 juillet. Résultat du vote à confirmer.",
+      "status": "Rapport Navarrete adopté en commission ECON le 23 juin 2026 par 43 voix contre 14, mandat de trilogue ouvert. Plénière visée 6-9 juillet, puis négociations avec Conseil et Commission.",
       "is_bascule": false,
       "prob": null,
       "prob_range": null,
@@ -256,12 +256,12 @@
       "horizon": "T-2",
       "title": "Émission potentielle de l'euro numérique",
       "when": "~2029",
-      "status": "Conditionnée à l'adoption 2026. Vote ECON du rapport Navarrete le 23 juin (mandat de trilogue), plénière 6-9 juillet ; première émission visée vers 2029. Résultat du vote à confirmer.",
+      "status": "Conditionnée à l'adoption 2026. Rapport Navarrete adopté en commission ECON le 23 juin par 43 voix contre 14 (mandat de trilogue ouvert) ; plénière 6-9 juillet, pilote BCE 2027, première émission visée vers 2029.",
       "is_bascule": true,
-      "prob": 54,
+      "prob": 57,
       "prob_range": [
-        45,
-        60
+        48,
+        62
       ],
       "prob_history": [
         {
@@ -271,15 +271,19 @@
         {
           "date": "2026-06-16",
           "prob": 54
+        },
+        {
+          "date": "2026-06-24",
+          "prob": 57
         }
       ],
       "up": "programmabilité / conditions activées (péremption, fléchage, restrictions d'usage).",
       "down": "garde-fous constitutionnels, résistance politique forte (usage comportemental P 10–25%).",
       "created": "2026-06-15",
       "last_change": {
-        "date": "2026-06-16",
-        "delta": 2,
-        "reason": "Compromis politique en commission ECON sur les points sensibles (limites de détention, fonctions en/hors ligne, frais) ; vote du rapport calé au 23 juin → adoption 2026 et trajectoire d'émission ~2029 confortées. Hausse contenue : le compromis renforce aussi les garde-fous de vie privée et l'inclusion.",
+        "date": "2026-06-24",
+        "delta": 3,
+        "reason": "Fait matériel acté : la commission ECON adopte le rapport Navarrete par 43 voix contre 14 (23 juin) et ouvre les trilogues. La trajectoire 2026 → pilote 2027 → émission ~2029 franchit l'étape commission avec une majorité confortable, levant le risque d'exécution que la cote du 16 juin avait laissé en suspens. Hausse contenue : compromis déjà partiellement coté le 16 juin, garde-fous vie privée / complémentarité du cash maintenus.",
         "sources": [
           "src-1"
         ]
@@ -481,29 +485,32 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Ledger Insights / Agence Europe — euro numérique",
-      "date": "2026-06-23",
-      "url": "https://www.ledgerinsights.com/digital-euro-in-parliamentary-vote-this-month/",
-      "title": "Euro numérique — jour du vote ECON (23 juin), résultat à confirmer",
-      "summary": "Échéance du jour : la commission ECON vote le rapport Navarrete et l'ouverture des trilogues avec le Conseil et la Commission — sans mandat parlementaire, pas de négociation, donc pas de loi ni d'émission BCE possible. Le compromis entre groupes reste verrouillé (en ligne + hors ligne, hors ligne d'abord limité aux paiements locaux particuliers/terminal et gratuit, frais commerçants inchangés, plafonds de détention à fixer par la BCE dans le cadre des colégislateurs, garanties de vie privée renforcées pour le hors ligne) ; soutien large (sondage indicatif 420-158 en février), plénière visée 6-9 juillet, émission éventuelle ~2029. Le résultat du vote n'est pas encore confirmé par une source au moment de la mise à jour, et le compromis a déjà été coté le 16 juin (euro-num-emission 52 → 54) : aucune nouvelle cote tant que l'adoption et ses termes ne sont pas sourcés. À réévaluer dès confirmation.",
-      "affects": []
+      "name": "CoinDesk / Cointelegraph — euro numérique",
+      "date": "2026-06-24",
+      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
+      "title": "Euro numérique — la commission ECON adopte le rapport Navarrete (43-14) et ouvre les trilogues",
+      "summary": "Fait matériel confirmé : le 23 juin, la commission des affaires économiques et monétaires (ECON) du Parlement européen adopte sa position sur le paquet euro numérique par 43 voix contre 14, validant le mandat de négociation avec le Conseil et la Commission. Le cadre retenu prévoit une version en ligne et une version hors ligne (cette dernière calquée sur le cash, avec protections de vie privée renforcées), des frais commerçants qui ne dépasseraient pas les niveaux actuels, des paiements hors ligne gratuits, des plafonds de détention à fixer par la BCE dans le cadre des colégislateurs, un pilote BCE en 2027 et une émission éventuelle vers 2029. Le rapporteur Navarrete insiste sur la complémentarité avec les espèces. Plénière visée 6-9 juillet. C'est la confirmation attendue depuis le 23 juin : la trajectoire 2026 → émission franchit l'étape commission ⇒ euro-num-emission 54 → 57 (+3, mouvement contenu car le compromis avait déjà été partiellement coté le 16 juin).",
+      "affects": [
+        "euro-num-emission",
+        "euro-num-reglement"
+      ]
     },
     {
       "id": "src-2",
-      "name": "EU Perspectives / EDRi — CSA Regulation",
-      "date": "2026-06-23",
+      "name": "EDRi — CSA Regulation",
+      "date": "2026-06-24",
       "url": "https://edri.org/our-work/csa-regulation-document-pool/",
       "title": "CSAR / Chat Control — trilogue (probablement final) attendu le 29 juin",
-      "summary": "Pas d'élément nouveau dans les 48 h : 4e trilogue présenté comme décisif maintenu au 29 juin, adoption formelle visée en juillet si accord. La présidence danoise s'éloigne des « ordres de détection » explicites au profit d'obligations d'évaluation/atténuation des risques (art. 5 : « contribuer effectivement » à la détection automatisée) ; le Parlement maintient une ligne protectrice (scan ciblé et proportionné, exclusion du chiffrement de bout en bout). Suivi de procédure, sans impact sur la cote chat-control.",
+      "summary": "Suivi de procédure, sans élément nouveau dans les 48 h : le trilogue présenté comme décisif reste calé au 29 juin, adoption formelle visée en juillet en cas d'accord. La présidence privilégie des obligations d'évaluation/atténuation des risques plutôt que des « ordres de détection » explicites ; le Parlement maintient une ligne protectrice (scan ciblé et proportionné, exclusion du chiffrement de bout en bout). Sans impact sur la cote chat-control.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Quantum Zeitgeist / Physics World — quantique",
-      "date": "2026-06-23",
-      "url": "https://quantumzeitgeist.com/cryptographically-relevant-quantum-computer/",
-      "title": "Quantique — baisse des estimations de ressources, mais matériel toujours très en deçà du seuil",
-      "summary": "Suivi sans impact : les estimations théoriques de coût pour casser RSA-2048 continuent de baisser (sous le million de qubits physiques, voire ~100 000 selon des travaux récents ; ~1 200 qubits logiques évoqués pour l'ECC), mais le matériel 2026 plafonne autour de 1 000-1 200 qubits physiques. Aucun ordinateur quantique cryptographiquement pertinent n'existe ; avancées incrémentales, pas de fait matériel. Fenêtre « Q-Day » inchangée.",
+      "name": "Commission UE — lignes directrices AI Act haut-risque",
+      "date": "2026-06-24",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems",
+      "title": "AI Act — fin de la consultation sur la classification « haut-risque »",
+      "summary": "Suivi de procédure, sans impact : la consultation ciblée sur les lignes directrices de classification des systèmes d'IA à haut risque arrive à échéance, lignes directrices finales attendues plus tard en 2026. Pour mémoire, le Digital Omnibus (accord politique du 7 mai, en cours d'adoption) reporterait l'application des règles haut-risque de l'Annexe III du 2 août 2026 à fin 2027 — élément déjà intégré au signal defence-omnibus, pas de fait nouveau aujourd'hui. Cote ai-act-haut-risque inchangée.",
       "affects": []
     }
   ]

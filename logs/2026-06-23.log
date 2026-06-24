@@ -17,3 +17,10 @@ Conformément aux garde-fous (« n'ajuste une prob que sur un fait matériel **e
 
 `sources_today` entièrement remplacé (3 sources, toutes `affects: []`), `last_updated` → 2026-06-23, et une entrée ajoutée en tête de `changelog.md`.
 OK · édition 2026-06-23 · 8 éditions au total
+[main 4ae9dde] veille 2026-06-23
+ 8 files changed, 612 insertions(+), 20 deletions(-)
+ create mode 100644 logs/2026-06-23.log
+ create mode 100644 posts/veille-2026-06-23.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   5715f88..4ae9dde  main -> main
+Publié.
