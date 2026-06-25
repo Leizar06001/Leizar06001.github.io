@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-24",
+  "last_updated": "2026-06-25",
   "today_summary": {
-    "changed": 1,
+    "changed": 0,
     "new": 0,
-    "up": 1,
+    "up": 0,
     "down": 0,
-    "stable": 23,
-    "trend": "up",
-    "trend_label": "Euro num. : vote ECON acquis (43-14), trilogues ouverts"
+    "stable": 24,
+    "trend": "flat",
+    "trend_label": "Jour calme : aucun fait matériel nouveau, probabilités inchangées"
   },
   "signals": [
     {
@@ -485,32 +485,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "CoinDesk / Cointelegraph — euro numérique",
-      "date": "2026-06-24",
-      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "title": "Euro numérique — la commission ECON adopte le rapport Navarrete (43-14) et ouvre les trilogues",
-      "summary": "Fait matériel confirmé : le 23 juin, la commission des affaires économiques et monétaires (ECON) du Parlement européen adopte sa position sur le paquet euro numérique par 43 voix contre 14, validant le mandat de négociation avec le Conseil et la Commission. Le cadre retenu prévoit une version en ligne et une version hors ligne (cette dernière calquée sur le cash, avec protections de vie privée renforcées), des frais commerçants qui ne dépasseraient pas les niveaux actuels, des paiements hors ligne gratuits, des plafonds de détention à fixer par la BCE dans le cadre des colégislateurs, un pilote BCE en 2027 et une émission éventuelle vers 2029. Le rapporteur Navarrete insiste sur la complémentarité avec les espèces. Plénière visée 6-9 juillet. C'est la confirmation attendue depuis le 23 juin : la trajectoire 2026 → émission franchit l'étape commission ⇒ euro-num-emission 54 → 57 (+3, mouvement contenu car le compromis avait déjà été partiellement coté le 16 juin).",
-      "affects": [
-        "euro-num-emission",
-        "euro-num-reglement"
-      ]
+      "name": "EDRi — CSA Regulation",
+      "date": "2026-06-25",
+      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
+      "title": "CSAR / Chat Control — trilogue (probablement final) attendu le 29 juin",
+      "summary": "Suivi de procédure, sans fait nouveau dans les 48 h : à J-4, le trilogue présenté comme décisif reste calé au 29 juin, adoption formelle par le Parlement et le Conseil visée en juillet en cas d'accord. Ligne de fracture inchangée : le texte du Conseil glisse vers un modèle de scan « volontaire » plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une position protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout, pas de scan des contenus). Sans impact sur la cote chat-control tant que l'issue n'est pas connue.",
+      "affects": []
     },
     {
       "id": "src-2",
-      "name": "EDRi — CSA Regulation",
-      "date": "2026-06-24",
-      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
-      "title": "CSAR / Chat Control — trilogue (probablement final) attendu le 29 juin",
-      "summary": "Suivi de procédure, sans élément nouveau dans les 48 h : le trilogue présenté comme décisif reste calé au 29 juin, adoption formelle visée en juillet en cas d'accord. La présidence privilégie des obligations d'évaluation/atténuation des risques plutôt que des « ordres de détection » explicites ; le Parlement maintient une ligne protectrice (scan ciblé et proportionné, exclusion du chiffrement de bout en bout). Sans impact sur la cote chat-control.",
+      "name": "CoinDesk — euro numérique",
+      "date": "2026-06-25",
+      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
+      "title": "Euro numérique — suite de l'adoption ECON, plénière puis trilogues",
+      "summary": "Suivi de procédure, sans fait nouveau : après l'adoption du rapport Navarrete en commission ECON le 23 juin (43-14) déjà cotée le 24 juin, l'étape suivante est le vote en plénière visé les 6-9 juillet, avant l'ouverture effective des négociations en trilogue avec le Conseil et la Commission (accord final recherché avant fin 2026). Calendrier de déploiement inchangé (pilote BCE de 12 mois en 2027, émission éventuelle ~2029). Pas de mouvement de cote aujourd'hui : le franchissement de l'étape commission est intégré, la prochaine réévaluation interviendra au vote plénier ou sur l'issue du trilogue.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Commission UE — lignes directrices AI Act haut-risque",
-      "date": "2026-06-24",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems",
-      "title": "AI Act — fin de la consultation sur la classification « haut-risque »",
-      "summary": "Suivi de procédure, sans impact : la consultation ciblée sur les lignes directrices de classification des systèmes d'IA à haut risque arrive à échéance, lignes directrices finales attendues plus tard en 2026. Pour mémoire, le Digital Omnibus (accord politique du 7 mai, en cours d'adoption) reporterait l'application des règles haut-risque de l'Annexe III du 2 août 2026 à fin 2027 — élément déjà intégré au signal defence-omnibus, pas de fait nouveau aujourd'hui. Cote ai-act-haut-risque inchangée.",
+      "name": "Quantum Computing Report — partenariats du 24 juin",
+      "date": "2026-06-25",
+      "url": "https://quantumcomputingreport.com/news/",
+      "title": "Quantique — partenariats matériels-logiciels (24 juin), avancées incrémentales",
+      "summary": "Suivi sans impact : annonces du 24 juin essentiellement industrielles et incrémentales (partenariat Bull / Alice & Bob sur l'intégration HPC autour des cat-qubits, intégration de compilateurs distribués avec CUDA-Q, baisses des taux d'erreur logiques). Côté théorie, les estimations de ressources pour casser RSA-2048 continuent de baisser (architectures sous 100 000 qubits physiques évoquées), mais le matériel réel reste autour du millier de qubits, très loin du seuil cryptographiquement pertinent ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
       "affects": []
     }
   ]

@@ -15,3 +15,10 @@ Nouvelle entrée en tête : `## 2026-06-24 — 1 modifiée, 0 nouvelle` avec tro
 
 Note : je n'ai pas pu lancer la validation JSON (commande refusée par les permissions), mais les éditions étant des remplacements exacts sur un fichier déjà valide, la structure est préservée.
 OK · édition 2026-06-24 · 9 éditions au total
+[main 26520b0] veille 2026-06-24
+ 8 files changed, 628 insertions(+), 31 deletions(-)
+ create mode 100644 logs/2026-06-24.log
+ create mode 100644 posts/veille-2026-06-24.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   4ae9dde..26520b0  main -> main
+Publié.

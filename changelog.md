@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-06-25 — 0 modifiée, 0 nouvelle
+- Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure sans impact — Chat Control/CSAR (J-4) : trilogue probablement final maintenu au 29 juin, Conseil orienté scan « volontaire » plutôt qu'ordres de détection, Parlement protecteur du chiffrement de bout en bout ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)). Euro numérique : après l'adoption ECON du 23 juin (déjà cotée), prochaines étapes plénière 6-9 juillet puis trilogues ⇒ pas de nouveau mouvement ([CoinDesk](https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip)).
+- Suivi sans impact — quantique : partenariats matériels-logiciels du 24 juin (Bull/Alice & Bob, intégrations CUDA-Q) et baisses théoriques des ressources pour casser RSA-2048, mais matériel réel toujours loin du seuil cryptographiquement pertinent ⇒ fenêtre « Q-Day » inchangée ([Quantum Computing Report](https://quantumcomputingreport.com/news/)).
+
 ## 2026-06-24 — 1 modifiée, 0 nouvelle
 - Fait matériel — euro numérique : la commission ECON adopte le rapport Navarrete par **43 voix contre 14** (23 juin) et ouvre les trilogues avec le Conseil et la Commission. Cadre confirmé (en ligne + hors ligne calqué sur le cash, frais commerçants plafonnés au niveau actuel, hors ligne gratuit, plafonds de détention fixés par la BCE, vie privée renforcée) ; plénière 6-9 juillet, pilote BCE 2027, émission éventuelle ~2029. Confirmation attendue depuis hier ⇒ `euro-num-emission` 54 → 57 (+3, mouvement contenu car compromis déjà partiellement coté le 16 juin) ([CoinDesk](https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip)).
 - Suivi de procédure sans impact — Chat Control/CSAR : trilogue (probablement final) maintenu au 29 juin, Conseil orienté évaluation/atténuation des risques plutôt qu'ordres de détection, Parlement protecteur du chiffrement de bout en bout ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)).

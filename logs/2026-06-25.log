@@ -1,0 +1,21 @@
+=== Veille 2026-06-25 : 2026-06-25T03:30:01+02:00 ===
+The Bash validation needs approval, but the edits were clean structural replacements (balanced braces, no trailing commas). The work is complete.
+
+## Résumé — veille du 2026-06-25
+
+**Aucun fait matériel déclencheur dans les 48 h.** Balayage de tous les domaines :
+
+- **Monnaie** — l'adoption ECON de l'euro numérique (23 juin, 43-14) était déjà cotée le 24 ; prochaines étapes plénière 6-9 juillet puis trilogues → pas de mouvement.
+- **Surveillance** — Chat Control/CSAR : trilogue (probablement final) maintenu au 29 juin (J-4), positions inchangées → pas d'impact.
+- **IA** — AI Act : consultation haut-risque close le 23 juin, adoption attendue en juillet, report 2027 déjà intégré → inchangé.
+- **Quantique** — partenariats industriels du 24 juin et baisses théoriques RSA-2048, mais matériel réel toujours loin du seuil → « Q-Day » inchangé.
+- **Crypto, climat, plateformes/DSA, identité, énergie** — rien de nouveau et matériel.
+
+**Probabilités : toutes inchangées** (garde-fou respecté — pas d'ajustement sans fait matériel sourcé).
+
+Modifications apportées :
+- `state.json` : `last_updated` → 2026-06-25 ; `today_summary` recalculé (0 modifiée, 0 nouvelle, 24 stables, trend `flat`) ; `sources_today` entièrement remplacé par 3 sources de suivi (toutes `affects: []`).
+- `changelog.md` : nouvelle entête `## 2026-06-25 — 0 modifiée, 0 nouvelle` avec 3 puces (jour calme + suivis procéduraux).
+
+Aucun autre fichier touché.
+OK · édition 2026-06-25 · 10 éditions au total
