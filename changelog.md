@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-06-26 — 0 modifiée, 0 nouvelle
+- Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure sans impact — Chat Control/CSAR (J-3) : trilogue probablement final maintenu au 29 juin, Conseil orienté scan « volontaire » plutôt qu'ordres de détection, Parlement protecteur du chiffrement de bout en bout ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)). Euro numérique : après l'adoption ECON du 23 juin (déjà cotée), prochaines étapes plénière 6-9 juillet puis trilogues ⇒ pas de nouveau mouvement ([CoinDesk](https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip)).
+- Suivi sans impact — quantique : architecture « transversale STAR » de QuEra/Los Alamos (24 juin) qui réduit le surcoût en qubits pour la simulation tolérante aux fautes (1 500-3 000 qubits via codes qLDPC), mais optimisation de simulation sans lien avec le déchiffrement et matériel réel toujours loin du seuil cryptographiquement pertinent ⇒ fenêtre « Q-Day » inchangée ([Quantum Computing Report](https://quantumcomputingreport.com/news/)).
+
 ## 2026-06-25 — 0 modifiée, 0 nouvelle
 - Jour calme : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
 - Suivi de procédure sans impact — Chat Control/CSAR (J-4) : trilogue probablement final maintenu au 29 juin, Conseil orienté scan « volontaire » plutôt qu'ordres de détection, Parlement protecteur du chiffrement de bout en bout ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)). Euro numérique : après l'adoption ECON du 23 juin (déjà cotée), prochaines étapes plénière 6-9 juillet puis trilogues ⇒ pas de nouveau mouvement ([CoinDesk](https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip)).

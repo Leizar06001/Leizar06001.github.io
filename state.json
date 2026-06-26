@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -486,28 +486,28 @@
     {
       "id": "src-1",
       "name": "EDRi — CSA Regulation",
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "url": "https://edri.org/our-work/csa-regulation-document-pool/",
       "title": "CSAR / Chat Control — trilogue (probablement final) attendu le 29 juin",
-      "summary": "Suivi de procédure, sans fait nouveau dans les 48 h : à J-4, le trilogue présenté comme décisif reste calé au 29 juin, adoption formelle par le Parlement et le Conseil visée en juillet en cas d'accord. Ligne de fracture inchangée : le texte du Conseil glisse vers un modèle de scan « volontaire » plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une position protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout, pas de scan des contenus). Sans impact sur la cote chat-control tant que l'issue n'est pas connue.",
+      "summary": "Suivi de procédure, sans fait nouveau dans les 48 h : à J-3, le trilogue présenté comme décisif reste calé au 29 juin, adoption formelle par le Parlement et le Conseil visée en juillet en cas d'accord. Ligne de fracture inchangée : le texte du Conseil glisse vers un modèle de scan « volontaire » plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une position protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout, pas de scan généralisé des contenus). Sans impact sur la cote chat-control tant que l'issue n'est pas connue ; réévaluation prévue après le 29 juin.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "CoinDesk — euro numérique",
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
       "title": "Euro numérique — suite de l'adoption ECON, plénière puis trilogues",
-      "summary": "Suivi de procédure, sans fait nouveau : après l'adoption du rapport Navarrete en commission ECON le 23 juin (43-14) déjà cotée le 24 juin, l'étape suivante est le vote en plénière visé les 6-9 juillet, avant l'ouverture effective des négociations en trilogue avec le Conseil et la Commission (accord final recherché avant fin 2026). Calendrier de déploiement inchangé (pilote BCE de 12 mois en 2027, émission éventuelle ~2029). Pas de mouvement de cote aujourd'hui : le franchissement de l'étape commission est intégré, la prochaine réévaluation interviendra au vote plénier ou sur l'issue du trilogue.",
+      "summary": "Suivi de procédure, sans fait nouveau : après l'adoption du rapport Navarrete en commission ECON le 23 juin (43-14) déjà cotée le 24 juin, l'étape suivante reste le vote en plénière visé les 6-9 juillet, avant l'ouverture effective des négociations en trilogue avec le Conseil et la Commission (accord final recherché avant fin 2026). Calendrier de déploiement inchangé (pilote BCE de 12 mois en 2027, émission éventuelle ~2029). Pas de mouvement de cote aujourd'hui : le franchissement de l'étape commission est intégré, la prochaine réévaluation interviendra au vote plénier ou sur l'issue du trilogue.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Quantum Computing Report — partenariats du 24 juin",
-      "date": "2026-06-25",
+      "name": "Quantum Computing Report — architecture STAR (24 juin)",
+      "date": "2026-06-26",
       "url": "https://quantumcomputingreport.com/news/",
-      "title": "Quantique — partenariats matériels-logiciels (24 juin), avancées incrémentales",
-      "summary": "Suivi sans impact : annonces du 24 juin essentiellement industrielles et incrémentales (partenariat Bull / Alice & Bob sur l'intégration HPC autour des cat-qubits, intégration de compilateurs distribués avec CUDA-Q, baisses des taux d'erreur logiques). Côté théorie, les estimations de ressources pour casser RSA-2048 continuent de baisser (architectures sous 100 000 qubits physiques évoquées), mais le matériel réel reste autour du millier de qubits, très loin du seuil cryptographiquement pertinent ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
+      "title": "Quantique — architecture transversale STAR (QuEra / Los Alamos), avancée incrémentale",
+      "summary": "Suivi sans impact : QuEra et Los Alamos présentent (24 juin) l'architecture co-conçue « transversale STAR » qui réduit le surcoût en qubits et accélère la simulation tolérante aux fautes (gain ~250× sur des calculs de science des matériaux), avec recours aux codes qLDPC ramenant le besoin à 1 500-3 000 qubits physiques pour ces tâches ciblées. Il s'agit d'optimisations de simulation, sans rapport avec le déchiffrement : le matériel réel reste autour du millier de qubits, très loin du seuil cryptographiquement pertinent ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
       "affects": []
     }
   ]

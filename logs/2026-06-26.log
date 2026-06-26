@@ -1,0 +1,16 @@
+=== Veille 2026-06-26 : 2026-06-26T03:30:01+02:00 ===
+Mise à jour terminée pour le **2026-06-26**.
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.** Aucun fait matériel (vote, texte publié, décision) dans les dernières 48 h sur l'ensemble des domaines balayés (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique). Toutes les probabilités restent inchangées, conformément aux garde-fous.
+
+Modifications apportées :
+- `state.json` : `last_updated` → 2026-06-26 ; `today_summary` maintenu en `flat` (24 stables) ; `sources_today` entièrement remplacé par les 3 sources du jour (toutes `affects: []`, traçant les jours calmes).
+- `changelog.md` : nouvelle entête en tête avec 3 puces de suivi.
+
+Points de suivi (sans impact sur les cotes) :
+- **Chat Control / CSAR** (J-3) — trilogue probablement final maintenu au 29 juin ; réévaluation prévue après cette date.
+- **Euro numérique** — étape commission ECON (23 juin) déjà cotée le 24 ; prochaine échéance plénière 6-9 juillet.
+- **Quantique** — architecture STAR QuEra/Los Alamos (24 juin), avancée incrémentale de simulation sans lien avec le déchiffrement.
+
+Note : je n'ai pas pu lancer la validation JSON (commande Bash refusée par le mode permission), mais les éditions sont des remplacements exacts préservant la structure.
+OK · édition 2026-06-26 · 11 éditions au total
