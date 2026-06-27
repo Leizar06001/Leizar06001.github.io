@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-27",
   "today_summary": {
-    "changed": 0,
+    "changed": 1,
     "new": 0,
-    "up": 0,
+    "up": 1,
     "down": 0,
-    "stable": 24,
-    "trend": "flat",
-    "trend_label": "Jour calme : aucun fait matériel nouveau, probabilités inchangées"
+    "stable": 23,
+    "trend": "up",
+    "trend_label": "Décrets quantiques US (Quantum Genesis) : Q-Day légèrement relevé, reste du tableau stable"
   },
   "signals": [
     {
@@ -240,7 +240,7 @@
       "horizon": "T-1",
       "title": "CNSA 2.0 — exigences PQC sécurité nat.",
       "when": "dès 2027 (US)",
-      "status": "Échéances contraignantes sur les nouveaux systèmes de sécurité nationale américains.",
+      "status": "Échéances contraignantes sur les nouveaux systèmes de sécurité nationale américains. Décret US « Securing the Nation Against Advanced Cryptographic Attacks » (22 juin 2026) : migration PQC obligatoire pour les agences fédérales et leurs contractants d'ici fin 2030/2031.",
       "is_bascule": false,
       "prob": null,
       "prob_range": null,
@@ -295,23 +295,34 @@
       "horizon": "T-2",
       "title": "Fenêtre « Q-Day » (avant 2032)",
       "when": "2030 – 2037",
-      "status": "Contesté. Consensus ~2030 ±2 ; travaux 2026 évoquant 10 000 qubits.",
+      "status": "Contesté. Consensus ~2030 ±2. Décret US (22 juin 2026) + initiative DOE « Quantum Genesis » visant un calculateur tolérant aux fautes scientifiquement pertinent (centaines de qubits logiques) dès 2028 : accélération étatique, mais cible scientifique sous-cryptographique.",
       "is_bascule": true,
-      "prob": 28,
+      "prob": 30,
       "prob_range": [
-        20,
-        35
+        22,
+        36
       ],
       "prob_history": [
         {
           "date": "2026-06-15",
           "prob": 28
+        },
+        {
+          "date": "2026-06-27",
+          "prob": 30
         }
       ],
       "up": "percée précoce détenue par un seul État → déchiffrement de décennies de trafic archivé.",
       "down": "migration PQC achevée avant la rupture (théorème de Mosca tenu).",
       "created": "2026-06-15",
-      "last_change": null
+      "last_change": {
+        "date": "2026-06-27",
+        "delta": 2,
+        "reason": "Fait matériel étatique : deux décrets US signés le 22 juin 2026. « Ushering the Next Frontier of Quantum Innovation » lance l'initiative DOE « Quantum Genesis » (compétition fédérale, spécifications techniques publiées sous 90 jours) visant un calculateur tolérant aux fautes dès 2028 ; le décret jumeau « Securing the Nation Against Advanced Cryptographic Attacks » impose une migration PQC contraignante aux agences fédérales et contractants d'ici fin 2030/2031. L'engagement budgétaire et le calendrier dur d'un État accélèrent la dynamique de « course au Q-Day » qui sous-tend le scénario haut. Hausse contenue : la cible 2028 est explicitement scientifique (chimie, matériaux, plasma, centaines de qubits logiques), très en deçà du seuil cryptographiquement pertinent, et les échéances PQC 2030/2031 restent cohérentes avec le consensus ~2030 déjà coté.",
+        "sources": [
+          "src-1"
+        ]
+      }
     },
     {
       "id": "ia-emploi",
@@ -485,29 +496,32 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "EDRi — CSA Regulation",
-      "date": "2026-06-26",
-      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
-      "title": "CSAR / Chat Control — trilogue (probablement final) attendu le 29 juin",
-      "summary": "Suivi de procédure, sans fait nouveau dans les 48 h : à J-3, le trilogue présenté comme décisif reste calé au 29 juin, adoption formelle par le Parlement et le Conseil visée en juillet en cas d'accord. Ligne de fracture inchangée : le texte du Conseil glisse vers un modèle de scan « volontaire » plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une position protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout, pas de scan généralisé des contenus). Sans impact sur la cote chat-control tant que l'issue n'est pas connue ; réévaluation prévue après le 29 juin.",
-      "affects": []
+      "name": "US DOE — Quantum Genesis",
+      "date": "2026-06-23",
+      "url": "https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first",
+      "title": "Décrets quantiques US (22 juin) : initiative DOE « Quantum Genesis » (FTQC visé 2028) + échéances PQC fédérales contraignantes",
+      "summary": "Fait matériel : le 22 juin 2026, deux décrets présidentiels sont signés. « Ushering the Next Frontier of Quantum Innovation » charge le DOE de lancer l'initiative « Quantum Genesis » — une compétition fédérale visant à concevoir et déployer dès 2028 le premier calculateur tolérant aux fautes scientifiquement pertinent (quelques centaines de qubits logiques, pour la chimie, les matériaux, la physique des plasmas et des hautes énergies) ; les spécifications techniques doivent être publiées sous 90 jours (vers le 20 sept.). Le décret jumeau « Securing the Nation Against Advanced Cryptographic Attacks » fixe des échéances contraignantes de migration vers la cryptographie post-quantique pour toutes les agences fédérales et leurs contractants (d'ici fin 2030/2031). L'engagement étatique et le calendrier dur accélèrent la dynamique de « course au Q-Day », sans pour autant viser un seuil cryptographiquement pertinent : la cible 2028 reste scientifique et sous-cryptographique.",
+      "affects": [
+        "q-day",
+        "cnsa2"
+      ]
     },
     {
       "id": "src-2",
-      "name": "CoinDesk — euro numérique",
-      "date": "2026-06-26",
-      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "title": "Euro numérique — suite de l'adoption ECON, plénière puis trilogues",
-      "summary": "Suivi de procédure, sans fait nouveau : après l'adoption du rapport Navarrete en commission ECON le 23 juin (43-14) déjà cotée le 24 juin, l'étape suivante reste le vote en plénière visé les 6-9 juillet, avant l'ouverture effective des négociations en trilogue avec le Conseil et la Commission (accord final recherché avant fin 2026). Calendrier de déploiement inchangé (pilote BCE de 12 mois en 2027, émission éventuelle ~2029). Pas de mouvement de cote aujourd'hui : le franchissement de l'étape commission est intégré, la prochaine réévaluation interviendra au vote plénier ou sur l'issue du trilogue.",
+      "name": "EDRi — CSA Regulation",
+      "date": "2026-06-27",
+      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
+      "title": "Chat Control / CSAR — trilogue (probablement final) attendu le 29 juin (J-2)",
+      "summary": "Suivi de procédure, sans fait nouveau dans les 48 h : à J-2, le trilogue présenté comme décisif reste calé au 29 juin, adoption formelle par le Parlement et le Conseil visée en juillet en cas d'accord. Ligne de fracture inchangée : le texte du Conseil glisse vers un modèle de scan « volontaire » plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une position protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout, pas de scan généralisé). Sans impact sur la cote chat-control tant que l'issue n'est pas connue ; réévaluation prévue après le 29 juin.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Quantum Computing Report — architecture STAR (24 juin)",
-      "date": "2026-06-26",
-      "url": "https://quantumcomputingreport.com/news/",
-      "title": "Quantique — architecture transversale STAR (QuEra / Los Alamos), avancée incrémentale",
-      "summary": "Suivi sans impact : QuEra et Los Alamos présentent (24 juin) l'architecture co-conçue « transversale STAR » qui réduit le surcoût en qubits et accélère la simulation tolérante aux fautes (gain ~250× sur des calculs de science des matériaux), avec recours aux codes qLDPC ramenant le besoin à 1 500-3 000 qubits physiques pour ces tâches ciblées. Il s'agit d'optimisations de simulation, sans rapport avec le déchiffrement : le matériel réel reste autour du millier de qubits, très loin du seuil cryptographiquement pertinent ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
+      "name": "Conseil UE / Parlement — calendrier numérique",
+      "date": "2026-06-27",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
+      "title": "Digital Omnibus (IA) — adoption formelle au Conseil attendue le 29 juin ; euro numérique — plénière 6-9 juillet",
+      "summary": "Suivi de procédure, sans fait nouveau : après le vote final du Parlement le 16 juin sur le Digital Omnibus (volet IA), l'adoption formelle par le Conseil est attendue le 29 juin avant publication au Journal officiel — étape déjà intégrée depuis l'accord politique provisoire de mai (report des obligations « haut-risque » Annexe III au 2 déc. 2027, interdiction explicite des outils de nudification/CSAM). Côté monnaie, l'euro numérique attend le vote en plénière des 6-9 juillet pour confirmer le mandat de trilogue, après l'adoption ECON du 23 juin déjà cotée. Aucun mouvement de cote aujourd'hui sur defence-omnibus ni euro-num-emission : faits matériels attendus aux dates à venir.",
       "affects": []
     }
   ]

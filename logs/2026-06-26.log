@@ -14,3 +14,10 @@ Points de suivi (sans impact sur les cotes) :
 
 Note : je n'ai pas pu lancer la validation JSON (commande Bash refusée par le mode permission), mais les éditions sont des remplacements exacts préservant la structure.
 OK · édition 2026-06-26 · 11 éditions au total
+[main 997349c] veille 2026-06-26
+ 8 files changed, 601 insertions(+), 12 deletions(-)
+ create mode 100644 logs/2026-06-26.log
+ create mode 100644 posts/veille-2026-06-26.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   a72de3a..997349c  main -> main
+Publié.

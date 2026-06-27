@@ -1,0 +1,12 @@
+=== Veille 2026-06-27 : 2026-06-27T03:30:01+02:00 ===
+Done. Summary of today's update (2026-06-27):
+
+**1 signal modified, 0 new.**
+
+- **Material fact — `q-day` 28 → 30 (+2):** Two US executive orders signed June 22, 2026 — the DOE **Quantum Genesis** initiative (fault-tolerant quantum computer targeted by 2028, low hundreds of logical qubits, specs within 90 days) and a companion "Securing the Nation Against Advanced Cryptographic Attacks" imposing binding federal PQC migration deadlines (2030/2031). This is the first state-driven acceleration of the "Q-Day race" dynamic since the socle. Move kept contained (within `delta_cap`) because the 2028 target is explicitly *scientific* / sub-cryptographic, and the 2030/2031 PQC deadlines stay consistent with the already-priced ~2030 consensus. Updated `prob`, `prob_range` (20-35 → 22-36), `prob_history`, `last_change`, and status text. `cnsa2` status refreshed (no prob — it's an unscored signal).
+- **Procedural, no impact:** Chat Control/CSAR trilogue (J-2, June 29), Digital Omnibus Council formal adoption expected June 29 (already integrated), euro numérique plenary July 6-9 ahead.
+
+`sources_today` fully replaced (src-1 quantum/material, src-2 Chat Control, src-3 EU calendar), `last_updated` and `today_summary` recalculated (changed 1, up 1, stable 23, trend up), and a changelog entry added at the top. Only `state.json` and `changelog.md` were touched.
+
+Note: Bash was unavailable (approval declined), so I couldn't run a JSON linter — but all edits were exact-match and well-formed, so the structure is intact.
+OK · édition 2026-06-27 · 12 éditions au total
