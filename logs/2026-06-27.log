@@ -10,3 +10,10 @@ Done. Summary of today's update (2026-06-27):
 
 Note: Bash was unavailable (approval declined), so I couldn't run a JSON linter — but all edits were exact-match and well-formed, so the structure is intact.
 OK · édition 2026-06-27 · 12 éditions au total
+[main b9efd22] veille 2026-06-27
+ 8 files changed, 629 insertions(+), 31 deletions(-)
+ create mode 100644 logs/2026-06-27.log
+ create mode 100644 posts/veille-2026-06-27.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   997349c..b9efd22  main -> main
+Publié.

@@ -1,0 +1,18 @@
+=== Veille 2026-06-28 : 2026-06-28T03:30:01+02:00 ===
+Validation par Bash bloquée par les permissions, mais les deux éditions sont des substitutions de chaînes propres qui préservent la structure JSON (objets `sources_today` complets, virgules et accolades intactes).
+
+## Résumé — 2026-06-28 : 0 modifiée, 0 nouvelle
+
+Jour calme (dimanche, **J-1** avant deux échéances UE du 29 juin). Balayage des dix domaines : aucun fait matériel nouveau dans les 48 h → **toutes les probabilités laissées inchangées**, conformément aux garde-fous.
+
+**`state.json`**
+- `last_updated` → `2026-06-28`
+- `today_summary` : 0 changée / 0 nouvelle, 24 stables, `trend: flat`, libellé mis à jour
+- `sources_today` remplacé par 2 sources de suivi de procédure (`affects: []`) :
+  - **CSAR / Chat Control** (EDRi) — trilogue probablement final maintenu au 29 juin ; ligne de fracture Conseil (scan « volontaire ») vs Parlement (protection du chiffrement E2E) inchangée
+  - **Digital Omnibus (IA) + euro numérique** (Conseil UE) — adoption formelle du Conseil attendue le 29 juin (fenêtre contrainte par le 2 août), plénière euro numérique 6-9 juillet ; étapes déjà cotées
+
+**`changelog.md`** : nouvelle entrée en tête (jour calme + 2 puces de suivi sourcées).
+
+Aucun autre fichier touché. Réévaluation des cotes `chat-control`, `defence-omnibus` et `euro-num-emission` à prévoir après les votes du 29 juin.
+OK · édition 2026-06-28 · 13 éditions au total

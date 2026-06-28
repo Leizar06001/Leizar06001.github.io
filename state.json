@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-06-28",
   "today_summary": {
-    "changed": 1,
+    "changed": 0,
     "new": 0,
-    "up": 1,
+    "up": 0,
     "down": 0,
-    "stable": 23,
-    "trend": "up",
-    "trend_label": "Décrets quantiques US (Quantum Genesis) : Q-Day légèrement relevé, reste du tableau stable"
+    "stable": 24,
+    "trend": "flat",
+    "trend_label": "Jour calme (J-1 avant trilogue CSAR et adoption Conseil du Digital Omnibus le 29 juin) : aucun fait matériel, probabilités inchangées"
   },
   "signals": [
     {
@@ -496,32 +496,20 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "US DOE — Quantum Genesis",
-      "date": "2026-06-23",
-      "url": "https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first",
-      "title": "Décrets quantiques US (22 juin) : initiative DOE « Quantum Genesis » (FTQC visé 2028) + échéances PQC fédérales contraignantes",
-      "summary": "Fait matériel : le 22 juin 2026, deux décrets présidentiels sont signés. « Ushering the Next Frontier of Quantum Innovation » charge le DOE de lancer l'initiative « Quantum Genesis » — une compétition fédérale visant à concevoir et déployer dès 2028 le premier calculateur tolérant aux fautes scientifiquement pertinent (quelques centaines de qubits logiques, pour la chimie, les matériaux, la physique des plasmas et des hautes énergies) ; les spécifications techniques doivent être publiées sous 90 jours (vers le 20 sept.). Le décret jumeau « Securing the Nation Against Advanced Cryptographic Attacks » fixe des échéances contraignantes de migration vers la cryptographie post-quantique pour toutes les agences fédérales et leurs contractants (d'ici fin 2030/2031). L'engagement étatique et le calendrier dur accélèrent la dynamique de « course au Q-Day », sans pour autant viser un seuil cryptographiquement pertinent : la cible 2028 reste scientifique et sous-cryptographique.",
-      "affects": [
-        "q-day",
-        "cnsa2"
-      ]
-    },
-    {
-      "id": "src-2",
       "name": "EDRi — CSA Regulation",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "url": "https://edri.org/our-work/csa-regulation-document-pool/",
-      "title": "Chat Control / CSAR — trilogue (probablement final) attendu le 29 juin (J-2)",
-      "summary": "Suivi de procédure, sans fait nouveau dans les 48 h : à J-2, le trilogue présenté comme décisif reste calé au 29 juin, adoption formelle par le Parlement et le Conseil visée en juillet en cas d'accord. Ligne de fracture inchangée : le texte du Conseil glisse vers un modèle de scan « volontaire » plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une position protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout, pas de scan généralisé). Sans impact sur la cote chat-control tant que l'issue n'est pas connue ; réévaluation prévue après le 29 juin.",
+      "title": "Chat Control / CSAR — trilogue (probablement final) attendu demain 29 juin (J-1)",
+      "summary": "Suivi de procédure, sans fait nouveau dans les 48 h : à J-1, le trilogue présenté comme potentiellement décisif reste calé au 29 juin ; en cas d'accord, adoption formelle par le Parlement et le Conseil visée en juillet. Ligne de fracture inchangée : le texte du Conseil glisse vers un modèle de scan « volontaire » (avec prolongation possible de la dérogation intérimaire) plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une position protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout, refus du scan généralisé). Sans impact sur la cote chat-control tant que l'issue n'est pas connue ; réévaluation prévue après le 29 juin.",
       "affects": []
     },
     {
-      "id": "src-3",
+      "id": "src-2",
       "name": "Conseil UE / Parlement — calendrier numérique",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
-      "title": "Digital Omnibus (IA) — adoption formelle au Conseil attendue le 29 juin ; euro numérique — plénière 6-9 juillet",
-      "summary": "Suivi de procédure, sans fait nouveau : après le vote final du Parlement le 16 juin sur le Digital Omnibus (volet IA), l'adoption formelle par le Conseil est attendue le 29 juin avant publication au Journal officiel — étape déjà intégrée depuis l'accord politique provisoire de mai (report des obligations « haut-risque » Annexe III au 2 déc. 2027, interdiction explicite des outils de nudification/CSAM). Côté monnaie, l'euro numérique attend le vote en plénière des 6-9 juillet pour confirmer le mandat de trilogue, après l'adoption ECON du 23 juin déjà cotée. Aucun mouvement de cote aujourd'hui sur defence-omnibus ni euro-num-emission : faits matériels attendus aux dates à venir.",
+      "title": "Digital Omnibus (IA) — adoption formelle au Conseil attendue demain 29 juin ; euro numérique — plénière 6-9 juillet",
+      "summary": "Suivi de procédure, sans fait nouveau : après le vote final du Parlement le 16 juin sur le Digital Omnibus (volet IA), l'adoption formelle par le Conseil est attendue le 29 juin avant signature des présidents des deux institutions et publication au Journal officiel — étape déjà intégrée depuis l'accord politique provisoire de mai (report des obligations « haut-risque » Annexe III, interdiction explicite des outils de nudification/CSAM). La fenêtre est contrainte par l'échéance du 2 août. Côté monnaie, l'euro numérique attend le vote en plénière des 6-9 juillet pour confirmer le mandat de trilogue, après l'adoption ECON du 23 juin déjà cotée. Aucun mouvement de cote aujourd'hui sur defence-omnibus ni euro-num-emission : faits matériels attendus aux dates à venir.",
       "affects": []
     }
   ]
