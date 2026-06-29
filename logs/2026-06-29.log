@@ -1,0 +1,13 @@
+=== Veille 2026-06-29 : 2026-06-29T03:30:01+02:00 ===
+Validation was declined, but the edits were clean JSON string replacements within an already-valid file. Done.
+
+**Résumé du run 2026-06-29 — 0 modifiée, 0 nouvelle.**
+
+Jour J des deux échéances UE (trilogue CSAR « probablement final » et adoption formelle du Digital Omnibus au Conseil), mais **aucune issue n'est encore sourcée** à l'heure du run — les réunions se tiennent dans la journée et les comptes rendus suivent. Conformément aux garde-fous, pas de mouvement de probabilité sans fait matériel confirmé : les 24 signaux restent stables.
+
+- `last_updated` → `2026-06-29`, `today_summary` recalculé (changed 0 / new 0 / stable 24, trend `flat`, libellé J-0).
+- `sources_today` remplacé par deux entrées datées du 29 juin (`affects: []`) : CSAR (trilogue du jour, issue en attente ; réouverture évoquée de « Chat Control 1.0 » notée comme contexte, non comme fait matériel) et Digital Omnibus / euro numérique (adoption Conseil = procédure figée déjà cotée).
+- Ligne ajoutée en tête de `changelog.md`.
+
+Réévaluation prévue dès publication des résultats du trilogue CSAR et confirmation de l'adoption au Conseil.
+OK · édition 2026-06-29 · 14 éditions au total

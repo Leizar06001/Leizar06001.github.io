@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-28",
+  "last_updated": "2026-06-29",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 24,
     "trend": "flat",
-    "trend_label": "Jour calme (J-1 avant trilogue CSAR et adoption Conseil du Digital Omnibus le 29 juin) : aucun fait matériel, probabilités inchangées"
+    "trend_label": "Jour J (29 juin) : trilogue CSAR « probablement final » et adoption formelle du Digital Omnibus au Conseil se tiennent aujourd'hui, mais aucune issue encore sourcée. Pas de fait matériel confirmé : probabilités inchangées, réévaluation dès publication des résultats"
   },
   "signals": [
     {
@@ -496,20 +496,20 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "EDRi — CSA Regulation",
-      "date": "2026-06-28",
-      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
-      "title": "Chat Control / CSAR — trilogue (probablement final) attendu demain 29 juin (J-1)",
-      "summary": "Suivi de procédure, sans fait nouveau dans les 48 h : à J-1, le trilogue présenté comme potentiellement décisif reste calé au 29 juin ; en cas d'accord, adoption formelle par le Parlement et le Conseil visée en juillet. Ligne de fracture inchangée : le texte du Conseil glisse vers un modèle de scan « volontaire » (avec prolongation possible de la dérogation intérimaire) plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une position protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout, refus du scan généralisé). Sans impact sur la cote chat-control tant que l'issue n'est pas connue ; réévaluation prévue après le 29 juin.",
+      "name": "Euronews / EDRi — CSA Regulation",
+      "date": "2026-06-29",
+      "url": "https://www.euronews.com/my-europe/2026/06/26/eu-countries-move-to-revive-temporary-message-scanning-regime-but-it-could-backfire",
+      "title": "Chat Control / CSAR — trilogue « probablement final » aujourd'hui 29 juin (J-0), issue non encore sourcée",
+      "summary": "Le trilogue présenté comme potentiellement décisif se tient aujourd'hui, mais aucune issue n'est encore confirmée par une source : un éventuel accord ne se traduirait par une adoption formelle (Parlement + Conseil) qu'en juillet. Ligne de fracture inchangée : le Conseil glisse vers un modèle de scan « volontaire » (avec relance possible de la dérogation intérimaire expirée le 3 avril) plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une ligne protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout). Élément de contexte signalé à J-0 : la présidente du Parlement aurait évoqué une réouverture du volet « Chat Control 1.0 » (scan volontaire des plateformes), manœuvre politique critiquée mais sans valeur de fait matériel. Cote chat-control inchangée tant que le résultat du trilogue n'est pas publié ; réévaluation dès confirmation.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "Conseil UE / Parlement — calendrier numérique",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
-      "title": "Digital Omnibus (IA) — adoption formelle au Conseil attendue demain 29 juin ; euro numérique — plénière 6-9 juillet",
-      "summary": "Suivi de procédure, sans fait nouveau : après le vote final du Parlement le 16 juin sur le Digital Omnibus (volet IA), l'adoption formelle par le Conseil est attendue le 29 juin avant signature des présidents des deux institutions et publication au Journal officiel — étape déjà intégrée depuis l'accord politique provisoire de mai (report des obligations « haut-risque » Annexe III, interdiction explicite des outils de nudification/CSAM). La fenêtre est contrainte par l'échéance du 2 août. Côté monnaie, l'euro numérique attend le vote en plénière des 6-9 juillet pour confirmer le mandat de trilogue, après l'adoption ECON du 23 juin déjà cotée. Aucun mouvement de cote aujourd'hui sur defence-omnibus ni euro-num-emission : faits matériels attendus aux dates à venir.",
+      "title": "Digital Omnibus (IA) — adoption formelle au Conseil prévue aujourd'hui 29 juin ; euro numérique — plénière 6-9 juillet",
+      "summary": "Après le vote final du Parlement le 16 juin (423 pour, 57 contre, 174 abstentions), l'adoption formelle par le Conseil est prévue aujourd'hui 29 juin, avant signature des présidents des deux institutions et publication au Journal officiel — son achèvement n'est pas encore confirmé par une source. Étape de pure procédure dont le contenu est figé depuis l'accord de mai (report des obligations « haut-risque » Annexe III autonomes au 2 décembre 2027, interdiction explicite des outils de nudification/CSAM, transparence art. 50 toujours due au 2 août) : entièrement intégrée à la cote defence-omnibus, elle n'en modifie pas l'équilibre, donc aucun mouvement. Côté monnaie, l'euro numérique attend le vote en plénière des 6-9 juillet pour confirmer le mandat de trilogue, après l'adoption ECON du 23 juin déjà cotée. Aucun mouvement aujourd'hui sur defence-omnibus ni euro-num-emission.",
       "affects": []
     }
   ]

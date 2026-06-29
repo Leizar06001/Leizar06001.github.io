@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-06-29 — 0 modifiée, 0 nouvelle
+- Jour J sans issue encore sourcée : les deux échéances UE du 29 juin se tiennent aujourd'hui mais aucun résultat n'est publié à l'heure du run ⇒ aucun fait matériel confirmé, toutes les probabilités inchangées (réévaluation dès parution des résultats).
+- Suivi de procédure sans impact — Chat Control/CSAR (J-0) : trilogue « probablement final » aujourd'hui, Conseil orienté scan « volontaire », Parlement protecteur du chiffrement de bout en bout ; contexte signalé sans valeur de fait matériel : évocation d'une réouverture du volet « Chat Control 1.0 » côté Parlement ([Euronews](https://www.euronews.com/my-europe/2026/06/26/eu-countries-move-to-revive-temporary-message-scanning-regime-but-it-could-backfire)).
+- Suivi de procédure sans impact — Digital Omnibus (IA) : adoption formelle au Conseil prévue aujourd'hui (puis signature et JO), étape de pure procédure au contenu figé depuis mai, déjà intégrée ⇒ defence-omnibus inchangé ; euro numérique en attente de la plénière 6-9 juillet ([Conseil UE](https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/)).
+
 ## 2026-06-28 — 0 modifiée, 0 nouvelle
 - Jour calme (dimanche, J-1 avant deux échéances UE du 29 juin) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
 - Suivi de procédure sans impact — Chat Control/CSAR (J-1) : trilogue probablement final maintenu au 29 juin, Conseil orienté scan « volontaire » (prolongation possible de la dérogation), Parlement protecteur du chiffrement de bout en bout ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)).
