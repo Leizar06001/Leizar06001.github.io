@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 24,
     "trend": "flat",
-    "trend_label": "Jour J (29 juin) : trilogue CSAR « probablement final » et adoption formelle du Digital Omnibus au Conseil se tiennent aujourd'hui, mais aucune issue encore sourcée. Pas de fait matériel confirmé : probabilités inchangées, réévaluation dès publication des résultats"
+    "trend_label": "Lendemain du Jour J : le 5e trilogue CSAR (29 juin, « probablement final ») s'est tenu sans accord sourcé — deal d'été désormais jugé incertain, adoption renvoyée à juillet en cas d'accord. Adoption Conseil du Digital Omnibus = pure procédure déjà intégrée. Aucun fait matériel : probabilités inchangées"
   },
   "signals": [
     {
@@ -72,7 +72,7 @@
       "horizon": "T-0",
       "title": "Chat Control / CSAR — scan des messages",
       "when": "trilogue · juil 2026",
-      "status": "Scan volontaire expiré (avr. 2026) ; négociations sur le règlement permanent.",
+      "status": "Scan volontaire expiré (avr. 2026). 5e trilogue (29 juin), présenté comme « final » sous présidence chypriote, clos sans accord sourcé ; un éventuel deal serait adopté en juillet, mais un accord d'été est jugé incertain (négociations en retard).",
       "is_bascule": true,
       "prob": 38,
       "prob_range": [
@@ -496,20 +496,20 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Euronews / EDRi — CSA Regulation",
-      "date": "2026-06-29",
-      "url": "https://www.euronews.com/my-europe/2026/06/26/eu-countries-move-to-revive-temporary-message-scanning-regime-but-it-could-backfire",
-      "title": "Chat Control / CSAR — trilogue « probablement final » aujourd'hui 29 juin (J-0), issue non encore sourcée",
-      "summary": "Le trilogue présenté comme potentiellement décisif se tient aujourd'hui, mais aucune issue n'est encore confirmée par une source : un éventuel accord ne se traduirait par une adoption formelle (Parlement + Conseil) qu'en juillet. Ligne de fracture inchangée : le Conseil glisse vers un modèle de scan « volontaire » (avec relance possible de la dérogation intérimaire expirée le 3 avril) plutôt que des ordres de détection obligatoires, tandis que le Parlement maintient une ligne protectrice (mesures ciblées et proportionnées, exclusion explicite du chiffrement de bout en bout). Élément de contexte signalé à J-0 : la présidente du Parlement aurait évoqué une réouverture du volet « Chat Control 1.0 » (scan volontaire des plateformes), manœuvre politique critiquée mais sans valeur de fait matériel. Cote chat-control inchangée tant que le résultat du trilogue n'est pas publié ; réévaluation dès confirmation.",
+      "name": "EDRi / State of Surveillance — CSA Regulation",
+      "date": "2026-06-30",
+      "url": "https://edri.org/our-work/chat-control-is-in-the-final-stretch-but-it-could-be-a-marathon-not-a-sprint/",
+      "title": "Chat Control / CSAR — le 5e trilogue « final » du 29 juin se clôt sans accord sourcé ; deal d'été incertain",
+      "summary": "Le cinquième tour de négociation, présenté comme « final » par la présidence chypriote, s'est tenu le 29 juin mais ne débouche sur aucun accord confirmé par une source : les pourparlers prennent du retard et un accord avant l'été est désormais jugé incertain. La ligne de fracture demeure : le Conseil pousse un cadre de scan « volontaire » (avec couverture juridique pour les plateformes qui choisissent de scanner, obligations de vérification d'âge et d'atténuation des risques, ordres de détection par empreintes pour le CSAM connu sur services non chiffrés), tandis que le Parlement tient une ligne protectrice excluant le chiffrement de bout en bout. En l'absence d'accord publié, un éventuel compromis n'irait à l'adoption formelle (Parlement + Conseil) qu'en juillet. Cote chat-control inchangée ; statut actualisé pour acter l'absence d'issue, réévaluation dès qu'un texte est arrêté.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "Conseil UE / Parlement — calendrier numérique",
-      "date": "2026-06-29",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
-      "title": "Digital Omnibus (IA) — adoption formelle au Conseil prévue aujourd'hui 29 juin ; euro numérique — plénière 6-9 juillet",
-      "summary": "Après le vote final du Parlement le 16 juin (423 pour, 57 contre, 174 abstentions), l'adoption formelle par le Conseil est prévue aujourd'hui 29 juin, avant signature des présidents des deux institutions et publication au Journal officiel — son achèvement n'est pas encore confirmé par une source. Étape de pure procédure dont le contenu est figé depuis l'accord de mai (report des obligations « haut-risque » Annexe III autonomes au 2 décembre 2027, interdiction explicite des outils de nudification/CSAM, transparence art. 50 toujours due au 2 août) : entièrement intégrée à la cote defence-omnibus, elle n'en modifie pas l'équilibre, donc aucun mouvement. Côté monnaie, l'euro numérique attend le vote en plénière des 6-9 juillet pour confirmer le mandat de trilogue, après l'adoption ECON du 23 juin déjà cotée. Aucun mouvement aujourd'hui sur defence-omnibus ni euro-num-emission.",
+      "name": "Cabinets juridiques / Parlement UE — calendrier numérique",
+      "date": "2026-06-30",
+      "url": "https://www.whitecase.com/insight-alert/eu-agrees-digital-omnibus-deal-simplify-ai-rules",
+      "title": "Digital Omnibus (IA) — adoption formelle au Conseil = procédure déjà intégrée ; euro numérique — mandat de trilogue annoncé en plénière de juillet",
+      "summary": "Après le vote du Parlement le 16 juin, l'adoption formelle du Digital Omnibus par le Conseil était calée au 29 juin, avant signature et publication au Journal officiel (calendrier contraint par l'échéance du 2 août). Étape de pure procédure au contenu figé depuis l'accord de mai (report des obligations « haut-risque » Annexe III autonomes au 2 décembre 2027, report Annexe I au 2 août 2028, interdiction des outils de nudification/CSAM, fenêtre de transparence ramenée à 3 mois) : entièrement intégrée à la cote defence-omnibus, sans effet sur son équilibre. Côté monnaie, le mandat de trilogue de l'euro numérique sera formellement annoncé à l'ouverture de la plénière de juillet (6-9 juillet), après l'adoption ECON du 23 juin déjà cotée. Aucun mouvement sur defence-omnibus ni euro-num-emission.",
       "affects": []
     }
   ]

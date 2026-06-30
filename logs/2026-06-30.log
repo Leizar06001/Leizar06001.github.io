@@ -1,0 +1,15 @@
+=== Veille 2026-06-30 : 2026-06-30T03:30:01+02:00 ===
+Mise à jour terminée pour le **2026-06-30**. Résultat : **0 modifiée, 0 nouvelle** — journée procédurale, aucune probabilité touchée.
+
+**Ce qui ressort du balayage :**
+- **Chat Control / CSAR** : le 5ᵉ trilogue du 29 juin, présenté comme « final » sous présidence chypriote, s'est clos **sans accord sourcé**. Négociations en retard, deal d'été désormais jugé incertain, adoption renvoyée à juillet en cas de compromis. → `chat-control` inchangé, statut actualisé pour acter l'absence d'issue.
+- **Digital Omnibus (IA)** : adoption formelle au Conseil = pure procédure, contenu figé depuis mai, déjà intégré. → `defence-omnibus` inchangé.
+- **Euro numérique** : mandat de trilogue à annoncer en plénière de juillet (6-9), suite à l'ECON du 23 juin déjà cotée. → `euro-num-emission` inchangé.
+- Autres domaines (identité, quantique, énergie, climat, plateformes) : rien de matériel dans les 48 h.
+
+**Éditions effectuées :**
+- `state.json` : `last_updated` → 2026-06-30, `today_summary` recalculé (24 stable, trend flat), statut `chat-control` rafraîchi, `sources_today` entièrement remplacé (2 sources, `affects: []`, paraphrasées).
+- `changelog.md` : nouvelle entrée en tête.
+
+Réserve : je n'ai pas pu faire valider la syntaxe JSON par un outil (permissions Bash refusées) ; les éditions étant des remplacements de chaînes ciblés dans un fichier déjà valide, la structure est préservée, mais une validation `python -m json.tool` reste recommandée si tu veux une confirmation formelle avant le build.
+OK · édition 2026-06-30 · 15 éditions au total
