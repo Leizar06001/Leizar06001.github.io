@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-07-01 — 0 modifiée, 0 nouvelle
+- Jour calme entre deux échéances : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure sans impact — Chat Control/CSAR : deux jours après le 5e trilogue « final » (29 juin) clos sans accord sourcé, aucun texte de compromis publié ; adoption formelle renvoyée à juillet si accord ⇒ `chat-control` inchangé ([EDRi](https://edri.org/our-work/csa-regulation-document-pool/)). Euro numérique : mandat de trilogue attendu à la plénière du 6-9 juillet, après l'adoption ECON du 23 juin déjà cotée ⇒ `euro-num-emission` inchangé ([CoinDesk](https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip)).
+- Suivi sans impact — quantique : interface nanophotonique diamant de QuTech (29 juin) reliant qubits solides et photoniques ; brique de calcul modulaire incrémentale, sans lien avec le déchiffrement et loin du seuil cryptographiquement pertinent ⇒ fenêtre « Q-Day » inchangée ([Quantum Computing Report](https://quantumcomputingreport.com/news/)).
+
 ## 2026-06-30 — 0 modifiée, 0 nouvelle
 - Lendemain du Jour J, sans fait matériel : le 5e trilogue CSAR (29 juin), présenté comme « final » par la présidence chypriote, s'est clos **sans accord sourcé** ; négociations en retard, accord avant l'été jugé incertain, adoption formelle renvoyée à juillet si compromis ⇒ `chat-control` inchangé (statut actualisé pour acter l'absence d'issue) ([EDRi](https://edri.org/our-work/chat-control-is-in-the-final-stretch-but-it-could-be-a-marathon-not-a-sprint/)).
 - Suivi de procédure sans impact — Digital Omnibus (IA) : adoption formelle au Conseil (calée au 29 juin, puis signature et JO) = pure procédure au contenu figé depuis mai, déjà intégrée ⇒ `defence-omnibus` inchangé ([White & Case](https://www.whitecase.com/insight-alert/eu-agrees-digital-omnibus-deal-simplify-ai-rules)).

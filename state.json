@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-06-30",
+  "last_updated": "2026-07-01",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 24,
     "trend": "flat",
-    "trend_label": "Lendemain du Jour J : le 5e trilogue CSAR (29 juin, « probablement final ») s'est tenu sans accord sourcé — deal d'été désormais jugé incertain, adoption renvoyée à juillet en cas d'accord. Adoption Conseil du Digital Omnibus = pure procédure déjà intégrée. Aucun fait matériel : probabilités inchangées"
+    "trend_label": "Jour calme entre deux échéances : après le 5e trilogue CSAR clos sans accord sourcé (29 juin), aucun texte publié ; l'euro numérique attend son mandat de trilogue à la plénière du 6-9 juillet (adoption ECON du 23 juin déjà cotée) et la consultation « haut-risque » de l'AI Act court jusqu'au 23 juillet. Aucun fait matériel dans les 48 h : probabilités inchangées"
   },
   "signals": [
     {
@@ -496,20 +496,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "EDRi / State of Surveillance — CSA Regulation",
-      "date": "2026-06-30",
-      "url": "https://edri.org/our-work/chat-control-is-in-the-final-stretch-but-it-could-be-a-marathon-not-a-sprint/",
-      "title": "Chat Control / CSAR — le 5e trilogue « final » du 29 juin se clôt sans accord sourcé ; deal d'été incertain",
-      "summary": "Le cinquième tour de négociation, présenté comme « final » par la présidence chypriote, s'est tenu le 29 juin mais ne débouche sur aucun accord confirmé par une source : les pourparlers prennent du retard et un accord avant l'été est désormais jugé incertain. La ligne de fracture demeure : le Conseil pousse un cadre de scan « volontaire » (avec couverture juridique pour les plateformes qui choisissent de scanner, obligations de vérification d'âge et d'atténuation des risques, ordres de détection par empreintes pour le CSAM connu sur services non chiffrés), tandis que le Parlement tient une ligne protectrice excluant le chiffrement de bout en bout. En l'absence d'accord publié, un éventuel compromis n'irait à l'adoption formelle (Parlement + Conseil) qu'en juillet. Cote chat-control inchangée ; statut actualisé pour acter l'absence d'issue, réévaluation dès qu'un texte est arrêté.",
+      "name": "EDRi — CSA Regulation Document Pool",
+      "date": "2026-07-01",
+      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
+      "title": "Chat Control / CSAR — suivi post-trilogue : aucun texte publié depuis le 29 juin, adoption renvoyée à juillet si compromis",
+      "summary": "Deux jours après le 5e trilogue (29 juin) présenté comme « final » sous présidence chypriote, aucun accord ni texte de compromis n'est publié par une source primaire. Le clivage demeure inchangé : le Conseil défend un cadre de scan « volontaire » assorti de couverture juridique, de vérification d'âge et d'ordres de détection par empreintes du CSAM connu sur services non chiffrés, tandis que le Parlement maintient une ligne protectrice du chiffrement de bout en bout. En l'absence de compromis arrêté, une adoption formelle (Parlement + Conseil) ne pourrait intervenir qu'en juillet. Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte est arrêté.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "Cabinets juridiques / Parlement UE — calendrier numérique",
-      "date": "2026-06-30",
-      "url": "https://www.whitecase.com/insight-alert/eu-agrees-digital-omnibus-deal-simplify-ai-rules",
-      "title": "Digital Omnibus (IA) — adoption formelle au Conseil = procédure déjà intégrée ; euro numérique — mandat de trilogue annoncé en plénière de juillet",
-      "summary": "Après le vote du Parlement le 16 juin, l'adoption formelle du Digital Omnibus par le Conseil était calée au 29 juin, avant signature et publication au Journal officiel (calendrier contraint par l'échéance du 2 août). Étape de pure procédure au contenu figé depuis l'accord de mai (report des obligations « haut-risque » Annexe III autonomes au 2 décembre 2027, report Annexe I au 2 août 2028, interdiction des outils de nudification/CSAM, fenêtre de transparence ramenée à 3 mois) : entièrement intégrée à la cote defence-omnibus, sans effet sur son équilibre. Côté monnaie, le mandat de trilogue de l'euro numérique sera formellement annoncé à l'ouverture de la plénière de juillet (6-9 juillet), après l'adoption ECON du 23 juin déjà cotée. Aucun mouvement sur defence-omnibus ni euro-num-emission.",
+      "name": "CoinDesk / Parlement UE — euro numérique",
+      "date": "2026-07-01",
+      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
+      "title": "Euro numérique — mandat de trilogue attendu à la plénière du 6-9 juillet ; accord final visé fin 2026",
+      "summary": "Après l'adoption du rapport Navarrete en commission ECON le 23 juin (déjà cotée), la position du Parlement doit être formellement confirmée et le mandat de trilogue annoncé à l'ouverture de la plénière du 6-9 juillet ; s'ouvriront ensuite les négociations avec le Conseil et la Commission (plafonds de détention et partage des coûts restant les points sensibles), pour un accord visé avant fin 2026, pilote BCE 2027 et émission éventuelle ~2029. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés.",
+      "affects": []
+    },
+    {
+      "id": "src-3",
+      "name": "QuTech / Quantum Computing Report — interface nanophotonique",
+      "date": "2026-06-29",
+      "url": "https://quantumcomputingreport.com/news/",
+      "title": "Quantique — QuTech démontre une interface nanophotonique diamant (centres tin-vacancy) reliant qubits solides et photons",
+      "summary": "Le 29 juin, des chercheurs de QuTech ont présenté une interface nanophotonique efficace fondée sur des centres colorés tin-vacancy dans le diamant, créant un lien cohérent entre qubits solides stationnaires et qubits photoniques volants — une brique pour le calcul quantique modulaire. Avancée d'infrastructure incrémentale, sans lien avec le déchiffrement et très en deçà du seuil cryptographiquement pertinent (consensus ~2029-milieu 2030s) : fenêtre « Q-Day » inchangée.",
       "affects": []
     }
   ]

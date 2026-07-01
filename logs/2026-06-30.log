@@ -13,3 +13,10 @@ Mise à jour terminée pour le **2026-06-30**. Résultat : **0 modifiée, 0 nouv
 
 Réserve : je n'ai pas pu faire valider la syntaxe JSON par un outil (permissions Bash refusées) ; les éditions étant des remplacements de chaînes ciblés dans un fichier déjà valide, la structure est préservée, mais une validation `python -m json.tool` reste recommandée si tu veux une confirmation formelle avant le build.
 OK · édition 2026-06-30 · 15 éditions au total
+[main 52cd945] veille 2026-06-30
+ 8 files changed, 596 insertions(+), 16 deletions(-)
+ create mode 100644 logs/2026-06-30.log
+ create mode 100644 posts/veille-2026-06-30.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   f1b710c..52cd945  main -> main
+Publié.
