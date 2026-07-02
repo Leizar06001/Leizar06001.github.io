@@ -12,3 +12,10 @@ Balayage effectué sur tous les domaines : le 5e trilogue CSAR (29 juin) reste s
 
 Note : la validation `python3` du JSON a demandé une approbation que je n'ai pas pu obtenir ; les éditions ont été faites de façon ciblée et la structure reste valide, mais tu peux confirmer avec `python3 -m json.tool state.json` si tu veux une vérification formelle.
 OK · édition 2026-07-01 · 16 éditions au total
+[main efd0318] veille 2026-07-01
+ 8 files changed, 611 insertions(+), 15 deletions(-)
+ create mode 100644 logs/2026-07-01.log
+ create mode 100644 posts/veille-2026-07-01.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   52cd945..efd0318  main -> main
+Publié.

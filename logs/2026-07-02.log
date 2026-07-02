@@ -1,0 +1,17 @@
+=== Veille 2026-07-02 : 2026-07-02T03:30:01+02:00 ===
+Bash is gated in this session, so I couldn't run the validator — but both edits were exact string replacements that preserved the surrounding JSON structure (commas, braces, array closes all intact).
+
+## Résumé du run 2026-07-02
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.** Aucun fait matériel dans les 48 h, toutes les probabilités restent inchangées (24 signaux stables, tendance `flat`).
+
+**Balayage des domaines :**
+- **Monnaie** — Euro numérique : le vote formel (position du Parlement + mandat de trilogue) est confirmé à l'agenda de la plénière de Strasbourg du 6-9 juillet, mais **pas encore tenu**. L'adoption ECON du 23 juin est déjà cotée → `euro-num-emission` inchangé.
+- **Surveillance** — Chat Control/CSAR : toujours en trilogue, **aucun accord publié** après le 29 juin, un compromis n'étant que « visé » pour juillet → `chat-control` inchangé.
+- **Identité** — EUDI : point de calendrier (déploiement obligatoire visé fin 2026), actes d'exécution/normes/certification incomplets, préparation inégale des États ; analyse, pas un fait → inchangé.
+- Crypto (AMLR), IA (AI Act, consultation haut-risque jusqu'au 23 juillet), quantique (news incrémentales sous-cryptographiques), énergie, climat (études 2026 mais rien de nouveau sur 48 h), pouvoir/plateformes : rien de matériel.
+
+**Fichiers modifiés :**
+- `state.json` : `last_updated` → 2026-07-02, `today_summary` recalculé, `sources_today` entièrement remplacé (3 sources de suivi, toutes `affects: []`).
+- `changelog.md` : nouvelle entrée en tête.
+OK · édition 2026-07-02 · 17 éditions au total

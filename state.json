@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-01",
+  "last_updated": "2026-07-02",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 24,
     "trend": "flat",
-    "trend_label": "Jour calme entre deux échéances : après le 5e trilogue CSAR clos sans accord sourcé (29 juin), aucun texte publié ; l'euro numérique attend son mandat de trilogue à la plénière du 6-9 juillet (adoption ECON du 23 juin déjà cotée) et la consultation « haut-risque » de l'AI Act court jusqu'au 23 juillet. Aucun fait matériel dans les 48 h : probabilités inchangées"
+    "trend_label": "Jour calme, veille de plénière : le vote de l'euro numérique est confirmé à l'agenda du 6-9 juillet à Strasbourg mais n'a pas encore eu lieu (adoption ECON du 23 juin déjà cotée) ; le CSAR reste en trilogue sans accord publié après le 29 juin, un compromis n'étant que « visé » pour juillet ; la consultation « haut-risque » de l'AI Act court jusqu'au 23 juillet. Aucun fait matériel dans les 48 h : probabilités inchangées"
   },
   "signals": [
     {
@@ -496,29 +496,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "EDRi — CSA Regulation Document Pool",
-      "date": "2026-07-01",
-      "url": "https://edri.org/our-work/csa-regulation-document-pool/",
-      "title": "Chat Control / CSAR — suivi post-trilogue : aucun texte publié depuis le 29 juin, adoption renvoyée à juillet si compromis",
-      "summary": "Deux jours après le 5e trilogue (29 juin) présenté comme « final » sous présidence chypriote, aucun accord ni texte de compromis n'est publié par une source primaire. Le clivage demeure inchangé : le Conseil défend un cadre de scan « volontaire » assorti de couverture juridique, de vérification d'âge et d'ordres de détection par empreintes du CSAM connu sur services non chiffrés, tandis que le Parlement maintient une ligne protectrice du chiffrement de bout en bout. En l'absence de compromis arrêté, une adoption formelle (Parlement + Conseil) ne pourrait intervenir qu'en juillet. Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte est arrêté.",
+      "name": "EU Perspectives / State of Surveillance — CSAR",
+      "date": "2026-07-02",
+      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
+      "title": "Chat Control / CSAR — toujours en trilogue : aucun accord publié après le 29 juin, compromis seulement « visé » pour juillet",
+      "summary": "Trois jours après le 5e trilogue (29 juin) présenté comme « final » sous présidence chypriote, aucun accord ni texte de compromis n'est publié par une source primaire ; un accord politique reste seulement visé pour le courant du mois de juillet. Le clivage demeure inchangé : le Conseil défend un cadre de scan « volontaire » à portée réglementaire (couverture juridique, vérification d'âge, hash-matching du CSAM connu sur services non chiffrés), tandis que le Parlement maintient une ligne protectrice du chiffrement de bout en bout. Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte est arrêté.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "CoinDesk / Parlement UE — euro numérique",
-      "date": "2026-07-01",
-      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "title": "Euro numérique — mandat de trilogue attendu à la plénière du 6-9 juillet ; accord final visé fin 2026",
-      "summary": "Après l'adoption du rapport Navarrete en commission ECON le 23 juin (déjà cotée), la position du Parlement doit être formellement confirmée et le mandat de trilogue annoncé à l'ouverture de la plénière du 6-9 juillet ; s'ouvriront ensuite les négociations avec le Conseil et la Commission (plafonds de détention et partage des coûts restant les points sensibles), pour un accord visé avant fin 2026, pilote BCE 2027 et émission éventuelle ~2029. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés.",
+      "name": "Euronews / Parlement UE — euro numérique",
+      "date": "2026-07-02",
+      "url": "https://www.euronews.com/business/2026/06/23/european-parliament-backs-long-awaited-digital-euro-to-reduce-us-dominance-in-payments",
+      "title": "Euro numérique — vote confirmé à l'agenda de la plénière du 6-9 juillet à Strasbourg ; pas encore tenu",
+      "summary": "Après l'adoption du rapport Navarrete en commission ECON le 23 juin par 43 voix contre 14 (déjà cotée), le vote formel confirmant la position du Parlement et ouvrant le mandat de trilogue est attendu à la plénière de Strasbourg du 6-9 juillet ; il n'a pas encore eu lieu à la date du run. S'ouvriront ensuite les négociations avec le Conseil et la Commission (plafonds de détention et partage des coûts restant les points sensibles), pour un accord visé avant fin 2026, pilote BCE 2027 et émission éventuelle ~2029. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "QuTech / Quantum Computing Report — interface nanophotonique",
-      "date": "2026-06-29",
-      "url": "https://quantumcomputingreport.com/news/",
-      "title": "Quantique — QuTech démontre une interface nanophotonique diamant (centres tin-vacancy) reliant qubits solides et photons",
-      "summary": "Le 29 juin, des chercheurs de QuTech ont présenté une interface nanophotonique efficace fondée sur des centres colorés tin-vacancy dans le diamant, créant un lien cohérent entre qubits solides stationnaires et qubits photoniques volants — une brique pour le calcul quantique modulaire. Avancée d'infrastructure incrémentale, sans lien avec le déchiffrement et très en deçà du seuil cryptographiquement pertinent (consensus ~2029-milieu 2030s) : fenêtre « Q-Day » inchangée.",
+      "name": "Biometric Update — EUDI Wallet",
+      "date": "2026-07-02",
+      "url": "https://www.biometricupdate.com/202512/will-the-eudi-wallet-be-ready-in-2026-experts-say-probably-not",
+      "title": "Identité — EUDI : déploiement obligatoire visé fin 2026, mais retards signalés (actes d'exécution, normes, certification incomplets)",
+      "summary": "Point de situation sur le portefeuille EUDI, dont la fourniture par les États membres est attendue d'ici fin 2026 : de nombreux actes d'exécution, normes techniques et exigences de certification restent à publier, et la préparation est inégale d'un État à l'autre, plusieurs experts jugeant improbable une disponibilité complète dans les délais. L'obligation d'acceptation par le privé (banques, télécoms, grandes plateformes) suit fin 2027. Analyse de calendrier sans fait matériel nouveau : eudi-wallet et eudi-prive inchangés.",
       "affects": []
     }
   ]
