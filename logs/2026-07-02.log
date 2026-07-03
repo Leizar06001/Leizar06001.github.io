@@ -15,3 +15,10 @@ Bash is gated in this session, so I couldn't run the validator — but both edit
 - `state.json` : `last_updated` → 2026-07-02, `today_summary` recalculé, `sources_today` entièrement remplacé (3 sources de suivi, toutes `affects: []`).
 - `changelog.md` : nouvelle entrée en tête.
 OK · édition 2026-07-02 · 17 éditions au total
+[main bf3630f] veille 2026-07-02
+ 8 files changed, 610 insertions(+), 20 deletions(-)
+ create mode 100644 logs/2026-07-02.log
+ create mode 100644 posts/veille-2026-07-02.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   efd0318..bf3630f  main -> main
+Publié.

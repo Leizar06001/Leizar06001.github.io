@@ -1,0 +1,10 @@
+=== Veille 2026-07-03 : 2026-07-03T03:30:01+02:00 ===
+Done. Both files updated for **2026-07-03**.
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.** Balayage des domaines effectué ; aucun fait matériel ne franchit le seuil de mouvement d'une bascule, donc toutes les probabilités restent inchangées.
+
+- **`state.json`** : `last_updated` → 2026-07-03 ; `today_summary` recalculé (24 stable, trend `flat`) ; `sources_today` entièrement remplacé par les trois sources du jour.
+- **`changelog.md`** : nouvelle entrée en tête.
+
+Point notable des 48 h : l'échéance MiCA du 1er juillet (fin du régime transitoire, plateformes crypto non agréées contraintes de suspendre/restreindre, >10 M d'utilisateurs déplacés). Fait matériel réel, mais **d'agrément/licence** — mécanisme distinct de la fin de l'anonymat visée par l'AMLR art. 79 (plein effet 2027) — donc noté comme enforcement **sans mouvement de cote** sur `amlr-art79`. Euro numérique (plénière 6-9 juillet non encore tenue) et CSAR (toujours sans accord publié) restent du suivi de procédure.
+OK · édition 2026-07-03 · 18 éditions au total
