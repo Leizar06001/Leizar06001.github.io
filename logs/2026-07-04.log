@@ -1,0 +1,14 @@
+=== Veille 2026-07-04 : 2026-07-04T03:30:01+02:00 ===
+Validation needs approval to run; my edits were surgical and structurally balanced. Both files are updated.
+
+**Résumé du run 2026-07-04 — 0 modifiée, 0 nouvelle**
+
+Jour calme (samedi, veille de plénière). Balayage complet des domaines, aucun fait matériel dans les 48 h franchissant le seuil de mouvement :
+
+- **Euro numérique** — vote de plénière (6-9 juillet, Strasbourg) toujours pas tenu ; adoption ECON du 23 juin déjà cotée → `euro-num-emission`/`euro-num-reglement` inchangés.
+- **Chat Control/CSAR** — aucun accord publié depuis le 5e trilogue du 29 juin, compromis seulement « visé » pour juillet → `chat-control` inchangé.
+- **Quantique** — signature quantique « one-shot » (QPerfect/BTQ, 1er juillet), brique incrémentale sans lien avec le déchiffrement → `q-day` inchangé.
+- **AI Act, climat, énergie, plateformes** — reports déjà intégrés / études déjà au référentiel.
+
+Toutes les probabilités inchangées, `trend: flat`. `sources_today` remplacé par 3 sources (toutes `affects: []`, traçage de jour calme). `last_updated` → 2026-07-04. Ligne ajoutée en tête du changelog.
+OK · édition 2026-07-04 · 19 éditions au total
