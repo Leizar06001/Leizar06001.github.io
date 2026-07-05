@@ -42,7 +42,9 @@ ni `style.css`, ni les pages HTML : elles sont générées automatiquement aprè
 - Mets `last_updated = AUJOURD'HUI` (format AAAA-MM-JJ).
 - Recalcule `today_summary` : `changed` (signaux dont `last_change.date == aujourd'hui` avec
   delta non nul), `new` (signaux `created == aujourd'hui`), `up`/`down` (selon le signe des
-  deltas), `stable` (le reste), `trend` ∈ {up, down, flat} et `trend_label` court en français.
+  deltas), `stable` (le reste), `trend` ∈ {up, down, flat} et `trend_label` : phrase courte en
+  français, **100 caractères maximum** (aucune exception). Un seul fait clé ou une seule
+  tendance, pas de liste, pas d'énumération.
 - Écris un JSON strictement valide (UTF-8, pas de commentaire, pas de virgule traînante).
 - Ajoute une ligne en tête de `changelog.md` :
   `## AAAA-MM-JJ — N modifiées, M nouvelle(s)` suivie d'une à trois puces résumant les
