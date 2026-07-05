@@ -1,0 +1,15 @@
+=== Veille 2026-07-05 : 2026-07-05T03:30:01+02:00 ===
+Mise à jour terminée pour le **5 juillet 2026**.
+
+**Bilan : 0 signal modifié, 0 nouveau — jour calme (dimanche, veille de plénière).**
+
+Le balayage des dix domaines n'a fait ressortir aucun **fait matériel** dans les 48 h (pas de vote tenu, de texte publié ni de décision) :
+- **Euro numérique** : le vote formel de la plénière est attendu début juillet à Strasbourg (session 6-9 juillet) mais n'a pas encore eu lieu ; l'adoption ECON du 23 juin est déjà cotée. Négociations Conseil ensuite → `euro-num-emission` (57) et `euro-num-reglement` inchangés.
+- **Chat Control / CSAR** : toujours en trilogue, aucun accord ni texte de compromis publié depuis le 29 juin, deal seulement « visé » pour juillet → `chat-control` (38) inchangé.
+- **AI Act** : dernière fenêtre avant l'applicabilité du 2 août ; report des obligations haut-risque au 2 déc. 2027 déjà intégré → inchangé.
+- **Quantique** (signature « one-shot » QPerfect/BTQ) et **climat** (étude AMOC PIK) : incrémentaux ou déjà au référentiel.
+
+Toutes les probabilités restent ancrées sur la veille. J'ai actualisé `last_updated`, `today_summary` (24 stable, trend `flat`), remplacé `sources_today` par les trois sources de suivi du jour (`affects: []`), et ajouté l'entrée en tête de `changelog.md`.
+
+Note : je n'ai pas pu faire valider le JSON par `python3` (commande refusée par le bac à sable) ; les éditions étant des remplacements de chaînes ciblés préservant la structure, le fichier reste bien formé. Dis-moi si tu veux que je relance la validation.
+OK · édition 2026-07-05 · 20 éditions au total

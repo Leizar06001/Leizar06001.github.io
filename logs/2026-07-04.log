@@ -12,3 +12,10 @@ Jour calme (samedi, veille de plénière). Balayage complet des domaines, aucun 
 
 Toutes les probabilités inchangées, `trend: flat`. `sources_today` remplacé par 3 sources (toutes `affects: []`, traçage de jour calme). `last_updated` → 2026-07-04. Ligne ajoutée en tête du changelog.
 OK · édition 2026-07-04 · 19 éditions au total
+[main baa07f9] veille 2026-07-04
+ 8 files changed, 606 insertions(+), 19 deletions(-)
+ create mode 100644 logs/2026-07-04.log
+ create mode 100644 posts/veille-2026-07-04.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   a4970f7..baa07f9  main -> main
+Publié.
