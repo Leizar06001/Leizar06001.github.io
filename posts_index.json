@@ -6,7 +6,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme (dimanche, veille de plénière) : aucun fait matériel, probabilités inchangées"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-07-04",
@@ -15,7 +15,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme (samedi, veille de plénière) : aucun fait matériel, probabilités inchangées"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-07-03",
@@ -24,7 +24,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Fin période transitoire MiCA, veille de plénière : aucun fait déclencheur, probabilités inchangées"
+    "trend_label": "Fin transitoire MiCA"
   },
   {
     "date": "2026-07-02",
@@ -33,7 +33,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Veille de plénière : euro numérique et CSAR en attente, AI Act consultatif — probabilités inchangées"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-07-01",
@@ -42,7 +42,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Entre deux échéances : CSAR sans accord, euro numérique en attente — probabilités inchangées"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-06-30",
@@ -51,7 +51,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "5e trilogue CSAR sans accord — deal d'été incertain, renvoyé à juillet, probabilités inchangées"
+    "trend_label": "5e trilogue CSAR sans accord"
   },
   {
     "date": "2026-06-29",
@@ -60,7 +60,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "29 juin — trilogue CSAR final + adoption Digital Omnibus : aucune issue sourcée, proba inchangées"
+    "trend_label": "CSAR + Digital Omnibus : pas d'issue"
   },
   {
     "date": "2026-06-28",
@@ -69,7 +69,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "J-1 CSAR + adoption Digital Omnibus : aucun fait matériel, probabilités inchangées"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-06-27",
@@ -87,7 +87,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme : aucun fait matériel nouveau, probabilités inchangées"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-06-25",
@@ -96,7 +96,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme : aucun fait matériel nouveau, probabilités inchangées"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-06-24",
@@ -114,7 +114,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour du vote ECON euro num. — résultat à confirmer"
+    "trend_label": "Vote ECON euro num. en cours"
   },
   {
     "date": "2026-06-22",
@@ -123,7 +123,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme, veille avant vote (J-1)"
+    "trend_label": "Veille vote ECON"
   },
   {
     "date": "2026-06-21",
@@ -132,7 +132,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme, suivi de procédure"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-06-20",
@@ -141,7 +141,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme, suivi de procédure"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-06-18",
@@ -150,7 +150,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme, suivi de procédure"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-06-17",
@@ -159,7 +159,7 @@
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend_label": "Jour calme, suivi de procédure"
+    "trend_label": "Jour calme"
   },
   {
     "date": "2026-06-16",

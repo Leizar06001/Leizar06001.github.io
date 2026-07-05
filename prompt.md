@@ -44,7 +44,8 @@ ni `style.css`, ni les pages HTML : elles sont générées automatiquement aprè
   delta non nul), `new` (signaux `created == aujourd'hui`), `up`/`down` (selon le signe des
   deltas), `stable` (le reste), `trend` ∈ {up, down, flat} et `trend_label` : phrase courte en
   français, **100 caractères maximum** (aucune exception). Un seul fait clé ou une seule
-  tendance, pas de liste, pas d'énumération.
+  tendance, pas de liste, pas d'énumération. Si aucun fait matériel aujourd'hui : 2 ou 3 mots
+  seulement (ex. « Jour calme », « Stable », « Veille tranquille ») — pas d'explication.
 - Écris un JSON strictement valide (UTF-8, pas de commentaire, pas de virgule traînante).
 - Ajoute une ligne en tête de `changelog.md` :
   `## AAAA-MM-JJ — N modifiées, M nouvelle(s)` suivie d'une à trois puces résumant les
