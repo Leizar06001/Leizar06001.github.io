@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -497,28 +497,19 @@
     {
       "id": "src-1",
       "name": "Euronews — euro numérique",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "url": "https://www.euronews.com/business/2026/06/23/european-parliament-backs-long-awaited-digital-euro-to-reduce-us-dominance-in-payments",
-      "title": "Euro numérique — vote en plénière attendu début juillet à Strasbourg, puis négociations avec le Conseil dès septembre",
-      "summary": "Après l'adoption du rapport Navarrete en commission ECON le 23 juin par 43 voix contre 14 (déjà cotée), le vote formel de la plénière confirmant la position du Parlement est attendu début juillet à Strasbourg (session du 6-9 juillet) ; à la date du run (dimanche 5 juillet) il n'a pas encore eu lieu. Les négociations avec les 27 États membres du Conseil s'ouvriraient ensuite, avec l'objectif d'un accord avant fin 2026, un pilote possible dès mi-2027 et une émission éventuelle vers 2029. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés.",
+      "title": "Euro numérique — ouverture de la session plénière de Strasbourg (6-9 juillet), vote formel attendu en cours de semaine",
+      "summary": "La session plénière de Strasbourg s'ouvre aujourd'hui (lundi 6 juillet) ; les mandats de négociation sur les fichiers de l'euro numérique doivent y être annoncés et le vote formel confirmant la position du Parlement (après l'adoption ECON du 23 juin par 43 voix contre 14, déjà cotée) est attendu en cours de semaine, mais n'a pas encore eu lieu à la date du run. Les négociations avec les 27 États membres du Conseil s'ouvriraient ensuite, avec l'objectif d'un accord avant fin 2026, un pilote possible dès mi-2027 et une émission éventuelle vers 2029. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés, réévaluation dès la tenue et la confirmation du vote.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "State of Surveillance — CSAR",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR — toujours en trilogue : aucun accord publié après le 29 juin, deal encore « visé » pour juillet",
-      "summary": "Aucun accord ni texte de compromis publié par une source primaire depuis le 5e trilogue du 29 juin présenté comme « final » ; un accord politique reste seulement visé pour le courant de juillet. Le clivage demeure sur la vérification d'âge, le hash-matching et la portée du scan « volontaire » à valeur réglementaire, le Parlement maintenant une ligne protectrice du chiffrement de bout en bout après l'expiration (3 avril) de la dérogation ePrivacy. Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte est arrêté.",
-      "affects": []
-    },
-    {
-      "id": "src-3",
-      "name": "Biometric Update / Commission UE — AI Act",
-      "date": "2026-07-05",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "title": "AI Act — dernière fenêtre de préparation avant l'applicabilité des règles haut-risque du 2 août 2026",
-      "summary": "Juillet 2026 est présenté comme l'ultime fenêtre de préparation avant l'entrée en application, le 2 août, du gros des règles « haut-risque » de l'AI Act (biométrie, application de la loi, migration, justice). Point de situation de calendrier sans fait matériel nouveau : le report des obligations pour les développeurs de systèmes haut-risque au 2 décembre 2027 (via le Digital Omnibus) est déjà intégré au référentiel, l'identification biométrique « temps réel » restant limitée à des cas graves et le « post » soumis à autorisation judiciaire. Suivi sans impact : ai-act-haut-risque et defence-omnibus inchangés.",
+      "title": "Chat Control / CSAR — toujours pas d'accord confirmé après le 29 juin, deal encore « visé » pour juillet",
+      "summary": "Aucun accord ni texte de compromis publié par une source primaire depuis le 5e trilogue du 29 juin présenté comme « final » ; un accord politique reste seulement visé pour le courant de juillet, à défaut de quoi les négociations se poursuivent. Le clivage demeure sur la vérification d'âge, le hash-matching et la portée du scan « volontaire » à valeur réglementaire, le Parlement maintenant une ligne protectrice du chiffrement de bout en bout après l'expiration (3 avril) de la dérogation ePrivacy. Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte est arrêté.",
       "affects": []
     }
   ]

@@ -13,3 +13,10 @@ Toutes les probabilités restent ancrées sur la veille. J'ai actualisé `last_u
 
 Note : je n'ai pas pu faire valider le JSON par `python3` (commande refusée par le bac à sable) ; les éditions étant des remplacements de chaînes ciblés préservant la structure, le fichier reste bien formé. Dis-moi si tu veux que je relance la validation.
 OK · édition 2026-07-05 · 20 éditions au total
+[main 371be8d] veille 2026-07-05
+ 8 files changed, 605 insertions(+), 17 deletions(-)
+ create mode 100644 logs/2026-07-05.log
+ create mode 100644 posts/veille-2026-07-05.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   baa07f9..371be8d  main -> main
+Publié.

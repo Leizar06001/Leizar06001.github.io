@@ -1,0 +1,14 @@
+=== Veille 2026-07-06 : 2026-07-06T03:30:01+02:00 ===
+Fait. Journée calme confirmée, aucun fait matériel dans les 48 h.
+
+**Ce que j'ai vérifié (sources primaires/spécialisées) :**
+- **Euro numérique** — la plénière de Strasbourg (6-9 juillet) s'ouvre aujourd'hui ; mandats de négociation à annoncer et vote formel attendu en cours de semaine, **pas encore tenu**. L'adoption ECON du 23 juin est déjà cotée. → inchangé
+- **Chat Control / CSAR** — toujours aucun accord confirmé depuis le trilogue « final » du 29 juin, deal encore « visé » pour juillet. → inchangé
+- Balayage identité (EUDI), AI Act (applicabilité 2 août), crypto, quantique, énergie, plateformes, climat, géopolitique → aucun déclencheur matériel.
+
+**Éditions :**
+- `state.json` : `last_updated → 2026-07-06`, `today_summary` inchangé (0/0, flat, « Jour calme », 24 stables), `sources_today` remplacé par les 2 sources du jour (`affects: []`, suivi de procédure). Toutes les probabilités inchangées. JSON validé.
+- `changelog.md` : nouvelle entête `## 2026-07-06 — 0 modifiée, 0 nouvelle` + 2 puces.
+
+Aucun autre fichier touché.
+OK · édition 2026-07-06 · 21 éditions au total
