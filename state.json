@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -496,17 +496,17 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Euronews — euro numérique",
-      "date": "2026-07-06",
-      "url": "https://www.euronews.com/business/2026/06/23/european-parliament-backs-long-awaited-digital-euro-to-reduce-us-dominance-in-payments",
-      "title": "Euro numérique — ouverture de la session plénière de Strasbourg (6-9 juillet), vote formel attendu en cours de semaine",
-      "summary": "La session plénière de Strasbourg s'ouvre aujourd'hui (lundi 6 juillet) ; les mandats de négociation sur les fichiers de l'euro numérique doivent y être annoncés et le vote formel confirmant la position du Parlement (après l'adoption ECON du 23 juin par 43 voix contre 14, déjà cotée) est attendu en cours de semaine, mais n'a pas encore eu lieu à la date du run. Les négociations avec les 27 États membres du Conseil s'ouvriraient ensuite, avec l'objectif d'un accord avant fin 2026, un pilote possible dès mi-2027 et une émission éventuelle vers 2029. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés, réévaluation dès la tenue et la confirmation du vote.",
+      "name": "Il Sole 24 Ore — euro numérique",
+      "date": "2026-07-07",
+      "url": "https://en.ilsole24ore.com/art/digital-euro-green-light-from-the-economic-affairs-committee-for-a-negotiating-mandate-AIvA6gpD",
+      "title": "Euro numérique — mandat de négociation confirmé sans vote plénier sauf objection de 72 députés, trilogues ouverts le 13 juillet",
+      "summary": "Précision de procédure pendant la session plénière de Strasbourg (6-9 juillet) : sauf objection déposée par au moins 72 eurodéputés, le texte adopté en commission ECON le 23 juin (43 voix contre 14, déjà coté) devient directement le mandat de négociation, sans vote de confirmation en plénière. Les trilogues avec le Conseil doivent s'ouvrir le 13 juillet sous présidence irlandaise, l'objectif restant un accord avant fin 2026, un pilote dès mi-2027 et une émission éventuelle vers 2029. Aucune objection n'était sourcée à la date du run. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés, réévaluation dès l'ouverture effective des trilogues ou une objection.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "State of Surveillance — CSAR",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
       "title": "Chat Control / CSAR — toujours pas d'accord confirmé après le 29 juin, deal encore « visé » pour juillet",
       "summary": "Aucun accord ni texte de compromis publié par une source primaire depuis le 5e trilogue du 29 juin présenté comme « final » ; un accord politique reste seulement visé pour le courant de juillet, à défaut de quoi les négociations se poursuivent. Le clivage demeure sur la vérification d'âge, le hash-matching et la portée du scan « volontaire » à valeur réglementaire, le Parlement maintenant une ligne protectrice du chiffrement de bout en bout après l'expiration (3 avril) de la dérogation ePrivacy. Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte est arrêté.",
