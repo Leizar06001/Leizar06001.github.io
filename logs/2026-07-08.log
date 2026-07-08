@@ -1,0 +1,12 @@
+=== Veille 2026-07-08 : 2026-07-08T03:30:01+02:00 ===
+Fait. Résumé du run du **2026-07-08** :
+
+**Aucun fait matériel** dans les 48 h → **0 modifiée, 0 nouvelle**, toutes les probabilités inchangées (`trend: flat`, « Jour calme »).
+
+- **Chat Control/CSAR** : le 5e trilogue du 29 juin (« final ») a échoué sur le scan indiscriminé, aucun texte de compromis publié ; le dossier passe à la présidence irlandaise → `chat-control` inchangé.
+- **Euro numérique** : mandat ECON du 23 juin (déjà coté) sert de base aux trilogues, ouverture visée mi-juillet sous présidence irlandaise → `euro-num-emission` / `euro-num-reglement` inchangés.
+- **AI Act, EUDI, AMLR** : rien de nouveau, tout déjà intégré.
+- **Quantique** : accélération PQC vers 2029 chez Microsoft/Cloudflare — planification d'entreprise, pas de rupture matérielle → `q-day` / `pqc-plans` inchangés.
+
+`state.json` mis à jour (`last_updated`, `sources_today` remplacé par 3 sources de suivi, JSON validé) et ligne ajoutée en tête de `changelog.md`. Rien d'autre touché.
+OK · édition 2026-07-08 · 23 éditions au total
