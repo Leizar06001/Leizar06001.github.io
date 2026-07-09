@@ -1,0 +1,7 @@
+=== Veille 2026-07-09 : 2026-07-09T03:30:01+02:00 ===
+Fait. Journée du 2026-07-09 : **jour calme, 0 modifiée, 0 nouvelle**.
+
+- Balayage complet des domaines : aucun fait matériel dans les 48 h. Les dossiers actifs (CSAR toujours sans accord sous présidence irlandaise, trilogues euro numérique reportés au S2 2026, échéances AI Act et actes d'exécution EUDI déjà intégrés, quantique incrémental) restent des suivis de procédure → toutes les `prob` inchangées.
+- `state.json` : `last_updated` → 2026-07-09, `today_summary` inchangé (24 stables, flat, « Jour calme »), `sources_today` entièrement remplacé par 3 sources du jour (`affects: []`), dont une étude climat AMOC/Groenland (Science Advances) plutôt orientée « down », sans impact de cote.
+- `changelog.md` : entrée en tête ajoutée. JSON validé.
+OK · édition 2026-07-09 · 24 éditions au total

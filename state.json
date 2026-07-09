@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-08",
+  "last_updated": "2026-07-09",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -497,28 +497,28 @@
     {
       "id": "src-1",
       "name": "State of Surveillance — CSAR",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR — 5e trilogue du 29 juin échoué, négociations reprises sous présidence irlandaise",
-      "summary": "Le 5e trilogue du 29 juin, présenté comme « final » sous présidence chypriote, s'est effondré sur la question du scan indiscriminé ; aucun accord ni texte de compromis publié depuis. Le dossier passe à la présidence irlandaise, qui reprend les négociations sans calendrier ferme. Le clivage de fond reste entier : le Conseil pousse un scan « volontaire » assorti de larges obligations d'atténuation des risques qui incitent au scan, le Parlement exige un ciblage sur suspicion individuelle et un ordre judiciaire, et défend le chiffrement de bout en bout après l'expiration (3 avril) de la dérogation ePrivacy. Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte de compromis est arrêté.",
+      "title": "Chat Control / CSAR — toujours sans accord, dossier repris par la présidence irlandaise sans calendrier ferme",
+      "summary": "Dix jours après l'effondrement du 5e trilogue « final » (29 juin) sur le scan indiscriminé, toujours aucun accord ni texte de compromis publié. La présidence irlandaise reprend les négociations sans calendrier ferme ; un progrès partiel est rapporté sur l'exclusion de la vérification d'âge obligatoire, mais le clivage de fond demeure entier (Conseil poussant un scan « volontaire » assorti d'obligations d'atténuation incitant au scan, Parlement exigeant un ciblage sur suspicion individuelle et un ordre judiciaire, avec défense du chiffrement de bout en bout). Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte de compromis est arrêté.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "Parlement UE — legislative train / euro numérique",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "url": "https://www.europarl.europa.eu/legislative-train/theme-an-economy-that-works-for-people/file-digital-euro",
-      "title": "Euro numérique — mandat ECON du 23 juin en base de négociation, trilogues à ouvrir mi-juillet sous présidence irlandaise",
-      "summary": "Après la plénière de Strasbourg, le mandat de négociation issu de la commission ECON (adopté le 23 juin, 43 voix contre 14, déjà coté) sert de base aux trilogues avec le Conseil et la Commission, que la présidence irlandaise vise à ouvrir mi-juillet avec un objectif d'accord avant fin 2026, un pilote dès mi-2027 et une émission éventuelle vers 2029. Les points en discussion (qui fixe les limites de détention, frais, financement inter-PSP, garanties de vie privée) restent ceux déjà intégrés. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés, réévaluation dès l'ouverture effective des trilogues.",
+      "title": "Euro numérique — mandat ECON du 23 juin en base de négociation, trilogues planifiés au 2e semestre 2026",
+      "summary": "À la clôture de la plénière de Strasbourg, le mandat de négociation issu de la commission ECON (adopté le 23 juin, 43 voix contre 14, déjà coté) sert de base aux trilogues avec le Conseil et la Commission, planifiés pour le second semestre 2026 avec un objectif d'accord avant fin 2026, un pilote dès mi-2027 et une émission éventuelle vers 2029. Les points en discussion (qui fixe les limites de détention, frais, financement inter-PSP, garanties de vie privée) restent ceux déjà intégrés. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés, réévaluation dès l'ouverture effective des trilogues.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "The Hacker News — migration PQC",
-      "date": "2026-07-08",
-      "url": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
-      "title": "Microsoft et Cloudflare accélèrent leur migration post-quantique vers 2029",
-      "summary": "Des acteurs majeurs de l'infrastructure (Microsoft, Cloudflare) annoncent accélérer le déploiement de la cryptographie post-quantique en visant une couverture complète dès 2029, invoquant l'éventualité d'un calculateur cryptographiquement pertinent plus tôt qu'anticipé. Feuilles de route d'entreprise, pas de fait matériel étatique ni de rupture matérielle : ces plans jouent plutôt dans le sens d'une migration PQC effective (« down » du q-day) mais restent des annonces de planification déjà cohérentes avec le consensus ~2030. Fenêtre « Q-Day » et plans PQC inchangés.",
+      "name": "Phys.org — étude AMOC / eau de fonte du Groenland",
+      "date": "2026-07-09",
+      "url": "https://phys.org/news/2026-07-greenland-meltwater-amoc-weakening-sight.html",
+      "title": "L'eau de fonte du Groenland affaiblit l'AMOC mais un nouveau modèle n'y voit pas de basculement imminent",
+      "summary": "Une étude de juillet 2026 (Science Advances) intégrant l'apport d'eau douce de la fonte groenlandaise conclut que celle-ci contribue à affaiblir la circulation atlantique (AMOC), surtout après 2100, mais ne provoque pas d'effondrement abrupt d'ici 2300 dans le modèle retenu. Résultat qui tempère plutôt le risque de bascule à court terme (orienté « down » du signal climat) sans constituer un fait matériel modifiant la trajectoire déjà intégrée ; le corpus reste contesté (d'autres études 2026 jugent la dynamique plus rapide). Suivi sans impact : climat-15 inchangé.",
       "affects": []
     }
   ]

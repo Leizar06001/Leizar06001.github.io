@@ -10,3 +10,10 @@ Fait. Résumé du run du **2026-07-08** :
 
 `state.json` mis à jour (`last_updated`, `sources_today` remplacé par 3 sources de suivi, JSON validé) et ligne ajoutée en tête de `changelog.md`. Rien d'autre touché.
 OK · édition 2026-07-08 · 23 éditions au total
+[main 2ef9e74] veille 2026-07-08
+ 8 files changed, 608 insertions(+), 14 deletions(-)
+ create mode 100644 logs/2026-07-08.log
+ create mode 100644 posts/veille-2026-07-08.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   b9184f9..2ef9e74  main -> main
+Publié.
