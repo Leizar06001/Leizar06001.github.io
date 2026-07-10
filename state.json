@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-07-10",
   "today_summary": {
-    "changed": 0,
+    "changed": 2,
     "new": 0,
-    "up": 0,
+    "up": 2,
     "down": 0,
-    "stable": 24,
-    "trend": "flat",
-    "trend_label": "Jour calme"
+    "stable": 22,
+    "trend": "up",
+    "trend_label": "Votes du 9 juillet : Parlement UE fait avancer surveillance et euro numérique"
   },
   "signals": [
     {
@@ -71,24 +71,35 @@
       "domain": "Surveillance",
       "horizon": "T-0",
       "title": "Chat Control / CSAR — scan des messages",
-      "when": "trilogue · juil 2026",
-      "status": "Scan volontaire expiré (avr. 2026). 5e trilogue (29 juin), présenté comme « final » sous présidence chypriote, clos sans accord sourcé ; un éventuel deal serait adopté en juillet, mais un accord d'été est jugé incertain (négociations en retard).",
+      "when": "trilogue · automne 2026",
+      "status": "Dérogation « scan volontaire » (Chat Control 1.0) rétablie : le 9 juillet, le Parlement échoue à réunir la majorité absolue (314/361) pour rejeter la position de 2e lecture du Conseil ; le scan volontaire du CSAM redevient légal dans l'UE jusqu'en 2028, après son expiration en avril. Amendement exemptant le chiffrement de bout en bout renvoyé au Conseil (échéance ~9 oct.). CSAR 2.0 (scan obligatoire / client-side) toujours sans accord, négociations reprises sous présidence irlandaise à l'automne.",
       "is_bascule": true,
-      "prob": 38,
+      "prob": 40,
       "prob_range": [
-        30,
-        45
+        32,
+        46
       ],
       "prob_history": [
         {
           "date": "2026-06-15",
           "prob": 38
+        },
+        {
+          "date": "2026-07-10",
+          "prob": 40
         }
       ],
       "up": "réintroduction du scan obligatoire / client-side scanning sur messageries chiffrées.",
       "down": "blocage parlementaire récurrent (3 reculs), opposition allemande, menace de départ de Signal.",
       "created": "2026-06-15",
-      "last_change": null
+      "last_change": {
+        "date": "2026-07-10",
+        "delta": 2,
+        "reason": "Fait matériel : le 9 juillet, le Parlement échoue à réunir la majorité absolue (314 voix pour le rejet, 47 sous le seuil de 361/720) contre la position de 2e lecture du Conseil ; faute de blocage, la dérogation « scan volontaire » du CSAM (Chat Control 1.0) redevient légale dans l'UE jusqu'en 2028, après son expiration en avril. L'architecture de scan, un temps caduque, est réactivée — mouvement haussier. Hausse contenue : il s'agit du régime volontaire, non du scan obligatoire / client-side visé par la bascule, et le Parlement a simultanément adopté une exemption explicite du chiffrement de bout en bout (renvoyée au Conseil, échéance ~9 oct.) ; le CSAR 2.0 reste sans accord.",
+        "sources": [
+          "src-1"
+        ]
+      }
     },
     {
       "id": "defence-omnibus",
@@ -120,7 +131,7 @@
       "horizon": "T-0",
       "title": "Règlement euro numérique",
       "when": "adoption visée 2026",
-      "status": "Rapport Navarrete adopté en commission ECON le 23 juin 2026 par 43 voix contre 14, mandat de trilogue ouvert. Plénière visée 6-9 juillet, puis négociations avec Conseil et Commission.",
+      "status": "Position du Parlement adoptée en plénière le 9 juillet 2026 (416 pour, 169 contre, 22 abstentions) ; trilogues ouverts avec la présidence irlandaise (Conseil) et la Commission, accord visé avant fin 2026.",
       "is_bascule": false,
       "prob": null,
       "prob_range": null,
@@ -256,12 +267,12 @@
       "horizon": "T-2",
       "title": "Émission potentielle de l'euro numérique",
       "when": "~2029",
-      "status": "Conditionnée à l'adoption 2026. Rapport Navarrete adopté en commission ECON le 23 juin par 43 voix contre 14 (mandat de trilogue ouvert) ; plénière 6-9 juillet, pilote BCE 2027, première émission visée vers 2029.",
+      "status": "Conditionnée à l'adoption 2026. Position du Parlement adoptée en plénière le 9 juillet (416 pour, 169 contre, 22 abstentions) ; trilogues ouverts avec la présidence irlandaise. Pilote BCE 2027, lancement BCE visé au 1er janvier 2029.",
       "is_bascule": true,
-      "prob": 57,
+      "prob": 59,
       "prob_range": [
-        48,
-        62
+        50,
+        64
       ],
       "prob_history": [
         {
@@ -275,17 +286,21 @@
         {
           "date": "2026-06-24",
           "prob": 57
+        },
+        {
+          "date": "2026-07-10",
+          "prob": 59
         }
       ],
       "up": "programmabilité / conditions activées (péremption, fléchage, restrictions d'usage).",
       "down": "garde-fous constitutionnels, résistance politique forte (usage comportemental P 10–25%).",
       "created": "2026-06-15",
       "last_change": {
-        "date": "2026-06-24",
-        "delta": 3,
-        "reason": "Fait matériel acté : la commission ECON adopte le rapport Navarrete par 43 voix contre 14 (23 juin) et ouvre les trilogues. La trajectoire 2026 → pilote 2027 → émission ~2029 franchit l'étape commission avec une majorité confortable, levant le risque d'exécution que la cote du 16 juin avait laissé en suspens. Hausse contenue : compromis déjà partiellement coté le 16 juin, garde-fous vie privée / complémentarité du cash maintenus.",
+        "date": "2026-07-10",
+        "delta": 2,
+        "reason": "Fait matériel : la plénière du 9 juillet adopte formellement la position de négociation du Parlement (416 pour, 169 contre, 22 abstentions) et ouvre les trilogues avec la présidence irlandaise du Conseil ; la BCE réaffirme un lancement visé au 1er janvier 2029, précédé d'une phase d'expérimentation. L'étape plénière, jusqu'ici seulement attendue, est franchie avec une majorité nette, levant le risque d'objection résiduel et engageant réellement les trilogues. Hausse contenue : l'adoption ECON était déjà cotée (+3 le 24 juin), et les garde-fous vie privée / complémentarité du cash sont maintenus dans le mandat.",
         "sources": [
-          "src-1"
+          "src-2"
         ]
       }
     },
@@ -496,29 +511,34 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "State of Surveillance — CSAR",
+      "name": "The Register",
       "date": "2026-07-09",
-      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR — toujours sans accord, dossier repris par la présidence irlandaise sans calendrier ferme",
-      "summary": "Dix jours après l'effondrement du 5e trilogue « final » (29 juin) sur le scan indiscriminé, toujours aucun accord ni texte de compromis publié. La présidence irlandaise reprend les négociations sans calendrier ferme ; un progrès partiel est rapporté sur l'exclusion de la vérification d'âge obligatoire, mais le clivage de fond demeure entier (Conseil poussant un scan « volontaire » assorti d'obligations d'atténuation incitant au scan, Parlement exigeant un ciblage sur suspicion individuelle et un ordre judiciaire, avec défense du chiffrement de bout en bout). Suivi de procédure sans fait matériel : cote chat-control inchangée, réévaluation dès qu'un texte de compromis est arrêté.",
-      "affects": []
+      "url": "https://www.theregister.com/security/2026/07/09/meps-fail-to-prevent-chat-control-snoopfest-revival/",
+      "title": "Le Parlement européen ne parvient pas à bloquer la relance du « scan volontaire » (Chat Control 1.0)",
+      "summary": "Le 9 juillet, 314 eurodéputés ont voté pour rejeter la position de 2e lecture du Conseil rétablissant la dérogation ePrivacy qui autorise le scan volontaire du CSAM, mais 47 voix ont manqué pour atteindre la majorité absolue requise (361/720). Faute de blocage, le régime « Chat Control 1.0 » redevient légal dans l'UE jusqu'en 2028, après son expiration en avril. Le Parlement a en revanche adopté un amendement exemptant explicitement le chiffrement de bout en bout, désormais renvoyé au Conseil (échéance vers le 9 octobre). Le règlement CSAR 2.0 (scan obligatoire / client-side) reste sans accord, les négociations reprenant sous présidence irlandaise à l'automne.",
+      "affects": [
+        "chat-control"
+      ]
     },
     {
       "id": "src-2",
-      "name": "Parlement UE — legislative train / euro numérique",
+      "name": "The Sofia Globe",
       "date": "2026-07-09",
-      "url": "https://www.europarl.europa.eu/legislative-train/theme-an-economy-that-works-for-people/file-digital-euro",
-      "title": "Euro numérique — mandat ECON du 23 juin en base de négociation, trilogues planifiés au 2e semestre 2026",
-      "summary": "À la clôture de la plénière de Strasbourg, le mandat de négociation issu de la commission ECON (adopté le 23 juin, 43 voix contre 14, déjà coté) sert de base aux trilogues avec le Conseil et la Commission, planifiés pour le second semestre 2026 avec un objectif d'accord avant fin 2026, un pilote dès mi-2027 et une émission éventuelle vers 2029. Les points en discussion (qui fixe les limites de détention, frais, financement inter-PSP, garanties de vie privée) restent ceux déjà intégrés. Suivi de procédure sans nouveau fait matériel : euro-num-emission et euro-num-reglement inchangés, réévaluation dès l'ouverture effective des trilogues.",
-      "affects": []
+      "url": "https://sofiaglobe.com/2026/07/09/european-parliament-votes-to-open-negotiations-on-the-digital-euro/",
+      "title": "La plénière du Parlement européen ouvre les négociations sur l'euro numérique",
+      "summary": "Le 9 juillet, la plénière du Parlement a formellement adopté sa position de négociation sur l'euro numérique (416 voix pour, 169 contre, 22 abstentions), ainsi que le volet « cours légal » de l'euro, ouvrant les trilogues avec le Conseil et la Commission. Une première réunion avec la présidence irlandaise du Conseil est prévue à brève échéance ; le rapporteur Navarrete conduit l'équipe du Parlement. Le texte réaffirme la complémentarité avec les espèces, une fonction hors ligne et des plafonds de détention fixés par la BCE, laquelle vise un lancement au 1er janvier 2029 précédé d'une phase d'expérimentation. Étape qui convertit la plénière attendue en fait acquis et lève le risque d'objection résiduel.",
+      "affects": [
+        "euro-num-emission",
+        "euro-num-reglement"
+      ]
     },
     {
       "id": "src-3",
-      "name": "Phys.org — étude AMOC / eau de fonte du Groenland",
-      "date": "2026-07-09",
-      "url": "https://phys.org/news/2026-07-greenland-meltwater-amoc-weakening-sight.html",
-      "title": "L'eau de fonte du Groenland affaiblit l'AMOC mais un nouveau modèle n'y voit pas de basculement imminent",
-      "summary": "Une étude de juillet 2026 (Science Advances) intégrant l'apport d'eau douce de la fonte groenlandaise conclut que celle-ci contribue à affaiblir la circulation atlantique (AMOC), surtout après 2100, mais ne provoque pas d'effondrement abrupt d'ici 2300 dans le modèle retenu. Résultat qui tempère plutôt le risque de bascule à court terme (orienté « down » du signal climat) sans constituer un fait matériel modifiant la trajectoire déjà intégrée ; le corpus reste contesté (d'autres études 2026 jugent la dynamique plus rapide). Suivi sans impact : climat-15 inchangé.",
+      "name": "Docusign — AMLR / AMLA",
+      "date": "2026-07-10",
+      "url": "https://www.docusign.com/en-gb/blog/amlr-what-changes-in-2027",
+      "title": "AMLR — échéance du 10 juillet pour les premières normes techniques de l'AMLA, sans impact de cote",
+      "summary": "Rappel de calendrier : l'AMLA doit produire une première série de normes techniques réglementaires d'ici le 10 juillet 2026, en amont de l'applicabilité directe des principales obligations AMLR le 10 juillet 2027 (les prestataires de services crypto figurant parmi les entités assujetties). Il s'agit d'une échéance de procédure préparatoire ; aucune norme publiée modifiant le mécanisme d'anonymat de l'article 79 n'est sourcée à ce jour. Suivi sans impact : amlr-art79 inchangé, réévaluation à la publication effective des textes.",
       "affects": []
     }
   ]

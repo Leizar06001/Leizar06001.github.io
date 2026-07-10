@@ -5,3 +5,10 @@ Fait. Journée du 2026-07-09 : **jour calme, 0 modifiée, 0 nouvelle**.
 - `state.json` : `last_updated` → 2026-07-09, `today_summary` inchangé (24 stables, flat, « Jour calme »), `sources_today` entièrement remplacé par 3 sources du jour (`affects: []`), dont une étude climat AMOC/Groenland (Science Advances) plutôt orientée « down », sans impact de cote.
 - `changelog.md` : entrée en tête ajoutée. JSON validé.
 OK · édition 2026-07-09 · 24 éditions au total
+[main 4186742] veille 2026-07-09
+ 8 files changed, 595 insertions(+), 15 deletions(-)
+ create mode 100644 logs/2026-07-09.log
+ create mode 100644 posts/veille-2026-07-09.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   2ef9e74..4186742  main -> main
+Publié.

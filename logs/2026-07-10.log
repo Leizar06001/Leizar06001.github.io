@@ -1,0 +1,12 @@
+=== Veille 2026-07-10 : 2026-07-10T03:30:01+02:00 ===
+Terminé. Résumé de la mise à jour du 2026-07-10 :
+
+**2 signaux modifiés (fait matériel : votes du Parlement européen le 9 juillet, dans les 48 h) :**
+
+- **`chat-control` : 38 → 40 (+2)** — Le Parlement n'a pas réuni la majorité absolue (314/361) pour rejeter la position de 2ᵉ lecture du Conseil ; le régime « scan volontaire » (Chat Control 1.0) redevient légal jusqu'en 2028 après son expiration en avril. Hausse contenue : régime volontaire et non le scan obligatoire visé par la bascule, exemption du chiffrement de bout en bout adoptée, CSAR 2.0 toujours sans accord.
+- **`euro-num-emission` : 57 → 59 (+2)** — La plénière a formellement adopté la position du Parlement (416-169-22) et ouvert les trilogues avec la présidence irlandaise ; lancement BCE visé au 1er janvier 2029. Hausse contenue : l'adoption ECON était déjà cotée le 24 juin. Statut de `euro-num-reglement` actualisé (prob null inchangée).
+
+**Sans impact :** échéance AMLA du 10 juillet (procédure préparatoire, `amlr-art79` inchangé), quantique (décrets US du 22 juin déjà cotés), climat.
+
+`today_summary` recalculé (changed 2, up 2, stable 22, trend `up`), `last_updated` = 2026-07-10, `sources_today` remplacées, JSON validé, et une entrée ajoutée en tête de `changelog.md`. Aucun autre fichier touché.
+OK · édition 2026-07-10 · 25 éditions au total
