@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-11",
   "today_summary": {
-    "changed": 2,
+    "changed": 0,
     "new": 0,
-    "up": 2,
+    "up": 0,
     "down": 0,
-    "stable": 22,
-    "trend": "up",
-    "trend_label": "Votes du 9 juillet : Parlement UE fait avancer surveillance et euro numérique"
+    "stable": 24,
+    "trend": "flat",
+    "trend_label": "Jour calme"
   },
   "signals": [
     {
@@ -511,34 +511,20 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "The Register",
-      "date": "2026-07-09",
-      "url": "https://www.theregister.com/security/2026/07/09/meps-fail-to-prevent-chat-control-snoopfest-revival/",
-      "title": "Le Parlement européen ne parvient pas à bloquer la relance du « scan volontaire » (Chat Control 1.0)",
-      "summary": "Le 9 juillet, 314 eurodéputés ont voté pour rejeter la position de 2e lecture du Conseil rétablissant la dérogation ePrivacy qui autorise le scan volontaire du CSAM, mais 47 voix ont manqué pour atteindre la majorité absolue requise (361/720). Faute de blocage, le régime « Chat Control 1.0 » redevient légal dans l'UE jusqu'en 2028, après son expiration en avril. Le Parlement a en revanche adopté un amendement exemptant explicitement le chiffrement de bout en bout, désormais renvoyé au Conseil (échéance vers le 9 octobre). Le règlement CSAR 2.0 (scan obligatoire / client-side) reste sans accord, les négociations reprenant sous présidence irlandaise à l'automne.",
-      "affects": [
-        "chat-control"
-      ]
+      "name": "financialregulations.eu",
+      "date": "2026-07-11",
+      "url": "https://financialregulations.eu/blog/eu-aml-package-amla-amlr-guide",
+      "title": "Suivi crypto/AMLR : échéance du 10 juillet pour les projets de normes techniques de l'AMLA, sans impact de cote",
+      "summary": "Le lendemain de l'échéance du 10 juillet, le point de situation confirme que l'AMLA devait remettre à la Commission une première série de projets de normes techniques de niveau 2/3 (dont celles précisant la vigilance clientèle pour les prestataires de services crypto, seuil abaissé à 1000 € pour les transactions occasionnelles), en amont de l'applicabilité directe des principales obligations AMLR le 10 juillet 2027. Il s'agit de projets soumis à la Commission, non de textes adoptés et publiés ; aucun ne modifie à ce jour le mécanisme d'anonymat de l'article 79. Suivi sans impact : amlr-art79 inchangé, réévaluation à l'adoption effective des normes.",
+      "affects": []
     },
     {
       "id": "src-2",
-      "name": "The Sofia Globe",
-      "date": "2026-07-09",
-      "url": "https://sofiaglobe.com/2026/07/09/european-parliament-votes-to-open-negotiations-on-the-digital-euro/",
-      "title": "La plénière du Parlement européen ouvre les négociations sur l'euro numérique",
-      "summary": "Le 9 juillet, la plénière du Parlement a formellement adopté sa position de négociation sur l'euro numérique (416 voix pour, 169 contre, 22 abstentions), ainsi que le volet « cours légal » de l'euro, ouvrant les trilogues avec le Conseil et la Commission. Une première réunion avec la présidence irlandaise du Conseil est prévue à brève échéance ; le rapporteur Navarrete conduit l'équipe du Parlement. Le texte réaffirme la complémentarité avec les espèces, une fonction hors ligne et des plafonds de détention fixés par la BCE, laquelle vise un lancement au 1er janvier 2029 précédé d'une phase d'expérimentation. Étape qui convertit la plénière attendue en fait acquis et lève le risque d'objection résiduel.",
-      "affects": [
-        "euro-num-emission",
-        "euro-num-reglement"
-      ]
-    },
-    {
-      "id": "src-3",
-      "name": "Docusign — AMLR / AMLA",
+      "name": "IEU Monitoring",
       "date": "2026-07-10",
-      "url": "https://www.docusign.com/en-gb/blog/amlr-what-changes-in-2027",
-      "title": "AMLR — échéance du 10 juillet pour les premières normes techniques de l'AMLA, sans impact de cote",
-      "summary": "Rappel de calendrier : l'AMLA doit produire une première série de normes techniques réglementaires d'ici le 10 juillet 2026, en amont de l'applicabilité directe des principales obligations AMLR le 10 juillet 2027 (les prestataires de services crypto figurant parmi les entités assujetties). Il s'agit d'une échéance de procédure préparatoire ; aucune norme publiée modifiant le mécanisme d'anonymat de l'article 79 n'est sourcée à ce jour. Suivi sans impact : amlr-art79 inchangé, réévaluation à la publication effective des textes.",
+      "url": "https://ieu-monitoring.com/editorial/eu-parliament-clears-digital-euro-talks-while-reinforcing-cash-protections/1245290",
+      "title": "Euro numérique : après le vote du 9 juillet, ouverture des trilogues sans nouveau fait matériel",
+      "summary": "Suite au vote en plénière du 9 juillet (déjà coté), la couverture confirme l'entrée en trilogue avec le Conseil et la Commission, sans étape décisionnelle nouvelle : le plafond de détention et le partage des coûts restent les principaux points de friction à trancher, la protection du cash et la fonction hors ligne étant réaffirmées dans le mandat du Parlement. Aucun accord ni texte de compromis publié depuis le 9 juillet. Suivi sans impact : euro-num-emission et euro-num-reglement inchangés.",
       "affects": []
     }
   ]

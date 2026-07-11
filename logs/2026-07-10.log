@@ -10,3 +10,10 @@ Terminé. Résumé de la mise à jour du 2026-07-10 :
 
 `today_summary` recalculé (changed 2, up 2, stable 22, trend `up`), `last_updated` = 2026-07-10, `sources_today` remplacées, JSON validé, et une entrée ajoutée en tête de `changelog.md`. Aucun autre fichier touché.
 OK · édition 2026-07-10 · 25 éditions au total
+[main d9e4c2f] veille 2026-07-10
+ 8 files changed, 644 insertions(+), 39 deletions(-)
+ create mode 100644 logs/2026-07-10.log
+ create mode 100644 posts/veille-2026-07-10.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   4186742..d9e4c2f  main -> main
+Publié.

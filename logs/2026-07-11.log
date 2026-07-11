@@ -1,0 +1,11 @@
+=== Veille 2026-07-11 : 2026-07-11T03:30:01+02:00 ===
+Terminé. Journée du 2026-07-11 traitée comme **jour calme**, sans fait matériel dans les 48 h.
+
+Ce qui a été fait :
+- **Veille web** sur tous les domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique). Les seuls faits récents — votes du 9 juillet sur Chat Control 1.0 et l'euro numérique — avaient déjà été cotés le 10 juillet. L'échéance AMLA du 10 juillet n'est qu'un dépôt de **projets** de normes techniques auprès de la Commission (procédural, ne touche pas l'anonymat de l'art. 79).
+- **`state.json`** : `last_updated` → 2026-07-11 ; `today_summary` remis à 0 modif / 0 nouvelle, 24 stables, `trend: flat`, `trend_label: "Jour calme"` (10 car.) ; **aucune probabilité modifiée** ; `sources_today` remplacé par deux entrées de suivi sans impact (`affects: []`).
+- **`changelog.md`** : nouvelle entête `## 2026-07-11 — 0 modifiée, 0 nouvelle` avec 3 puces.
+- JSON validé (strictement valide, 24 signaux, 2 sources).
+
+Aucun autre fichier touché.
+OK · édition 2026-07-11 · 26 éditions au total
