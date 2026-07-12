@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-07-12 — 0 modifiée, 0 nouvelle
+- Jour calme (dimanche, plénière close) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées. Les votes du 9 juillet (Chat Control 1.0, euro numérique) ont déjà été cotés le 10 juillet.
+- Suivi de procédure sans impact — euro numérique : premier trilogue Parlement-Conseil-Commission programmé le 13 juillet (pas encore tenu au 12), équipe menée par le rapporteur Navarrete, accord visé fin 2026 sous présidence irlandaise ; plafond de détention et partage des coûts restant les points de friction, aucun texte de compromis publié ⇒ `euro-num-emission` / `euro-num-reglement` inchangés ([eunews.it](https://www.eunews.it/en/2026/07/09/digital-euro-parliament-says-yes-inter-institutional-negotiations-to-start-on-13-july/)).
+- Suivi de procédure sans impact — Chat Control/CSAR : après le vote du 9 juillet (déjà coté), le dossier est renvoyé au Conseil (horloge ~3 mois pour l'exemption du chiffrement de bout en bout) ; CSAR 2.0 (scan obligatoire) toujours sans accord depuis l'échec du 5e trilogue du 29 juin, prochain round attendu à l'automne ⇒ `chat-control` inchangé ([State of Surveillance](https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/)).
+
 ## 2026-07-11 — 0 modifiée, 0 nouvelle
 - Jour calme (samedi, plénière close) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées. Les votes du 9 juillet (Chat Control 1.0, euro numérique) ont déjà été cotés le 10 juillet.
 - Suivi sans impact — crypto/AMLR : au lendemain de l'échéance du 10 juillet, l'AMLA a remis à la Commission ses projets de normes techniques (dont la vigilance clientèle crypto, seuil 1000 €), mais il s'agit de projets non adoptés ; aucun ne modifie le mécanisme d'anonymat de l'art. 79 ⇒ `amlr-art79` inchangé ([financialregulations.eu](https://financialregulations.eu/blog/eu-aml-package-amla-amlr-guide)).

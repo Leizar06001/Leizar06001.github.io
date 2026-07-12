@@ -1,0 +1,9 @@
+=== Veille 2026-07-12 : 2026-07-12T03:30:01+02:00 ===
+Terminé. Mise à jour du 2026-07-12 (dimanche, jour calme).
+
+**Résultat : 0 signal modifié, 0 nouveau.** Aucun fait matériel dans les 48 h — les votes du 9 juillet (Chat Control 1.0, euro numérique) avaient déjà été cotés le 10 juillet, et le balayage des autres domaines (identité, AI Act, quantique/PQC, crypto/AMLR, énergie, plateformes, climat, géopolitique) n'a rien donné de matériel. Toutes les probabilités restent ancrées sur la veille.
+
+Éditions effectuées :
+- `state.json` : `last_updated` → 2026-07-12 ; `today_summary` → trend `flat`, `trend_label` « Dimanche calme », 24 stables ; `sources_today` remplacé par deux suivis de procédure (`affects: []`) — trilogue euro numérique programmé le 13 juillet (non tenu) et renvoi CSAR au Conseil. JSON validé.
+- `changelog.md` : nouvelle entrée en tête avec les deux suivis sans impact.
+OK · édition 2026-07-12 · 27 éditions au total
