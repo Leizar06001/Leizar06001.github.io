@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-07-13 — 0 modifiée, 0 nouvelle
+- Jour calme (lundi) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure sans impact — euro numérique : ouverture aujourd'hui du premier trilogue Parlement-Conseil-Commission après le vote du 9 juillet (déjà coté), équipe menée par le rapporteur Navarrete ; le « modèle de compensation » des intermédiaires et le plafond de détention restent à trancher, aucun texte de compromis publié ⇒ `euro-num-emission` / `euro-num-reglement` inchangés ([Table.Briefings](https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin)).
+- Suivi sans impact — Chat Control/CSAR 2.0 toujours sans accord (6e trilogue attendu à l'automne sous présidence irlandaise ; [State of Surveillance](https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/)) ; quantique (réductions théoriques de ressources pour RSA-2048 sans matériel au seuil pertinent), crypto/AMLR (RTS du 10 juillet, projets non adoptés) et climat (modélisation AMOC/Groenland déjà intégrée) sans nouveau fait matériel ⇒ cotes inchangées.
+
 ## 2026-07-12 — 0 modifiée, 0 nouvelle
 - Jour calme (dimanche, plénière close) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées. Les votes du 9 juillet (Chat Control 1.0, euro numérique) ont déjà été cotés le 10 juillet.
 - Suivi de procédure sans impact — euro numérique : premier trilogue Parlement-Conseil-Commission programmé le 13 juillet (pas encore tenu au 12), équipe menée par le rapporteur Navarrete, accord visé fin 2026 sous présidence irlandaise ; plafond de détention et partage des coûts restant les points de friction, aucun texte de compromis publié ⇒ `euro-num-emission` / `euro-num-reglement` inchangés ([eunews.it](https://www.eunews.it/en/2026/07/09/digital-euro-parliament-says-yes-inter-institutional-negotiations-to-start-on-13-july/)).

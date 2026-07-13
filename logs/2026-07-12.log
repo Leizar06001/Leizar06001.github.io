@@ -7,3 +7,10 @@ Terminé. Mise à jour du 2026-07-12 (dimanche, jour calme).
 - `state.json` : `last_updated` → 2026-07-12 ; `today_summary` → trend `flat`, `trend_label` « Dimanche calme », 24 stables ; `sources_today` remplacé par deux suivis de procédure (`affects: []`) — trilogue euro numérique programmé le 13 juillet (non tenu) et renvoi CSAR au Conseil. JSON validé.
 - `changelog.md` : nouvelle entrée en tête avec les deux suivis sans impact.
 OK · édition 2026-07-12 · 27 éditions au total
+[main 28857fc] veille 2026-07-12
+ 8 files changed, 588 insertions(+), 14 deletions(-)
+ create mode 100644 logs/2026-07-12.log
+ create mode 100644 posts/veille-2026-07-12.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   83cece2..28857fc  main -> main
+Publié.

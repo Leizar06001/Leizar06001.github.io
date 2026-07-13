@@ -1,0 +1,14 @@
+=== Veille 2026-07-13 : 2026-07-13T03:30:01+02:00 ===
+Terminé. Journée calme du lundi 13 juillet, aucun fait matériel dans les 48 h.
+
+**Balayage effectué** (sources primaires/spécialisées) :
+- **Monnaie** — ouverture du 1ᵉʳ trilogue euro numérique aujourd'hui : étape de procédure déjà cotée le 10 juillet, aucun texte de compromis publié → inchangé.
+- **Surveillance** — CSAR 2.0 toujours sans accord, 6ᵉ trilogue attendu en septembre → inchangé.
+- **Quantique** — réductions théoriques de ressources (RSA-2048), matériel loin du seuil → inchangé.
+- **Crypto** — RTS AMLA du 10 juillet, projets non adoptés → inchangé.
+- **Climat, identité (EUDI), IA Act, énergie, plateformes** — rien de matériel neuf.
+
+**Modifications apportées :**
+- `state.json` : `last_updated` → 2026-07-13, `today_summary` (flat, « Lundi calme »), `sources_today` remplacées par 2 sources de suivi (`affects: []`). JSON validé. Aucune probabilité touchée.
+- `changelog.md` : nouvelle entrée en tête « 2026-07-13 — 0 modifiée, 0 nouvelle ».
+OK · édition 2026-07-13 · 28 éditions au total

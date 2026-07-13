@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-13",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 24,
     "trend": "flat",
-    "trend_label": "Dimanche calme"
+    "trend_label": "Lundi calme"
   },
   "signals": [
     {
@@ -511,11 +511,11 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "eunews.it",
-      "date": "2026-07-09",
-      "url": "https://www.eunews.it/en/2026/07/09/digital-euro-parliament-says-yes-inter-institutional-negotiations-to-start-on-13-july/",
-      "title": "Euro numérique : premier trilogue programmé le 13 juillet, sans nouveau fait matériel ce week-end",
-      "summary": "Après le vote en plénière du 9 juillet (déjà coté), les négociations interinstitutionnelles Parlement-Conseil-Commission doivent démarrer le 13 juillet, l'équipe du Parlement étant conduite par le rapporteur Navarrete ; un accord sur le cadre est visé d'ici fin 2026 sous présidence irlandaise. Au dimanche 12 juillet, le premier trilogue n'a pas encore eu lieu et aucun texte de compromis n'est publié : le plafond de détention et le partage des coûts restent les points de friction à trancher. Suivi de procédure sans impact : euro-num-emission et euro-num-reglement inchangés.",
+      "name": "Table.Briefings",
+      "date": "2026-07-13",
+      "url": "https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin",
+      "title": "Euro numérique : ouverture du premier trilogue le 13 juillet, étape de procédure déjà cotée",
+      "summary": "Le premier trilogue interinstitutionnel Parlement-Conseil-Commission sur le règlement euro numérique s'ouvre aujourd'hui, après le vote de position du 9 juillet (déjà coté le 10). L'équipe du Parlement est menée par le rapporteur Navarrete ; le point le plus délicat reste le « modèle de compensation » des intermédiaires (qui indemniser, combien, comment), aux côtés du plafond de détention. Objectif d'accord sur le cadre d'ici fin 2026 sous présidence irlandaise, pilote BCE 2027, disponibilité visée 2029. Aucun texte de compromis publié à l'ouverture : suivi de procédure sans impact, euro-num-emission et euro-num-reglement inchangés.",
       "affects": []
     },
     {
@@ -523,8 +523,8 @@
       "name": "State of Surveillance",
       "date": "2026-07-10",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control/CSAR : dossier renvoyé au Conseil, prochaine étape à l'automne, sans nouveau fait",
-      "summary": "Après le vote du 9 juillet (déjà coté) — échec du Parlement à réunir la majorité absolue pour rejeter la dérogation « scan volontaire » du CSAM, prolongée jusqu'en 2028, doublé de l'exemption explicite du chiffrement de bout en bout renvoyée au Conseil (horloge de ~3 mois) — le volet CSAR 2.0 (scan obligatoire / client-side) reste sans accord après l'échec du 5e trilogue du 29 juin ; le prochain round est attendu sous présidence irlandaise, vraisemblablement en septembre. Aucune décision ni texte nouveau ce week-end. Suivi de procédure sans impact : chat-control inchangé.",
+      "title": "Chat Control/CSAR 2.0 : toujours sans accord, prochain round attendu à l'automne",
+      "summary": "Après le vote du 9 juillet (déjà coté) — échec du Parlement à réunir la majorité absolue pour rejeter la dérogation « scan volontaire » du CSAM, prolongée jusqu'en 2028, doublé de l'exemption explicite du chiffrement de bout en bout renvoyée au Conseil (horloge de ~3 mois) — le volet CSAR 2.0 (scan obligatoire / client-side) reste sans accord après l'échec du 5e trilogue du 29 juin ; le 6e round est attendu sous présidence irlandaise, vraisemblablement en septembre. Aucune décision ni texte nouveau. Suivi de procédure sans impact : chat-control inchangé.",
       "affects": []
     }
   ]
