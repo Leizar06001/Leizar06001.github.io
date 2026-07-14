@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-07-14 — 0 modifiée, 0 nouvelle
+- Jour calme (mardi, 14 juillet) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Suivi de procédure sans impact — euro numérique : au lendemain de l'ouverture du premier trilogue (13 juillet, déjà coté), aucun texte de compromis publié ; « modèle de compensation » des intermédiaires et plafond de détention restant ouverts, accord visé fin 2026 sous présidence irlandaise ⇒ `euro-num-emission` / `euro-num-reglement` inchangés ([Table.Briefings](https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin)).
+- Suivi sans impact — Chat Control/CSAR 2.0 toujours sans accord, reprise des trilogues confirmée en septembre sous présidence irlandaise ([State of Surveillance](https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/)) ; quantique (aucune rupture matérielle au seuil cryptographiquement pertinent), crypto/AMLR et climat (études AMOC/overshoot déjà intégrées) sans nouveau fait matériel ⇒ cotes inchangées.
+
 ## 2026-07-13 — 0 modifiée, 0 nouvelle
 - Jour calme (lundi) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
 - Suivi de procédure sans impact — euro numérique : ouverture aujourd'hui du premier trilogue Parlement-Conseil-Commission après le vote du 9 juillet (déjà coté), équipe menée par le rapporteur Navarrete ; le « modèle de compensation » des intermédiaires et le plafond de détention restent à trancher, aucun texte de compromis publié ⇒ `euro-num-emission` / `euro-num-reglement` inchangés ([Table.Briefings](https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin)).

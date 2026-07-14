@@ -12,3 +12,10 @@ Terminé. Journée calme du lundi 13 juillet, aucun fait matériel dans les 48 h
 - `state.json` : `last_updated` → 2026-07-13, `today_summary` (flat, « Lundi calme »), `sources_today` remplacées par 2 sources de suivi (`affects: []`). JSON validé. Aucune probabilité touchée.
 - `changelog.md` : nouvelle entrée en tête « 2026-07-13 — 0 modifiée, 0 nouvelle ».
 OK · édition 2026-07-13 · 28 éditions au total
+[main c5f91f8] veille 2026-07-13
+ 8 files changed, 591 insertions(+), 12 deletions(-)
+ create mode 100644 logs/2026-07-13.log
+ create mode 100644 posts/veille-2026-07-13.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   28857fc..c5f91f8  main -> main
+Publié.

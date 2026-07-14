@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille · Édition du 14 juillet 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>:root{
+  --ink:#0E141B; --ink-2:#11181F; --panel:#18212B; --panel-2:#1E2935;
+  --line:#2B3744; --line-soft:#212C37;
+  --text:#E7ECF1; --text-2:#9DAAB6; --text-3:#69757F;
+  --ember:#E07B3C; --ember-bright:#F2A266; --ember-glow:rgba(224,123,60,.12);
+  --ice:#4FB3C6; --ice-bright:#82D2E0; --ice-glow:rgba(79,179,198,.10);
+  --mint:#6FCF8E; --mint-bright:#9BE3B2; --mint-glow:rgba(111,207,142,.12);
+  --gold:#C9A24B; --gold-glow:rgba(201,162,75,.14);
+  --r:10px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--ink);color:var(--text);
+  font-family:'Inter',system-ui,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased;
+  background-image:
+    radial-gradient(900px 500px at 85% -5%, rgba(224,123,60,.05), transparent 60%),
+    radial-gradient(700px 500px at 5% 8%, rgba(79,179,198,.045), transparent 55%);
+  background-attachment:fixed;
+}
+.wrap{max-width:1180px;margin:0 auto;padding:0 22px 90px}
+header{padding:48px 0 26px;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.32em;
+  text-transform:uppercase;color:var(--text-3);display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+.eyebrow .dot{width:6px;height:6px;border-radius:50%;background:var(--ember);animation:pulse 2.6s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(224,123,60,.45)}70%{box-shadow:0 0 0 8px rgba(224,123,60,0)}100%{box-shadow:0 0 0 0 rgba(224,123,60,0)}}
+h1{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(28px,4.4vw,46px);
+  line-height:1.04;letter-spacing:-.02em;margin:16px 0 0}
+h1 .date{color:var(--ember-bright)}
+.diff-line{margin-top:14px;font-family:'IBM Plex Mono',monospace;font-size:13px;color:var(--text-2)}
+.diff-line b{color:var(--text)}
+.diff-line .c-new{color:var(--mint-bright)} .diff-line .c-up{color:var(--ember-bright)} .diff-line .c-dn{color:var(--ice-bright)}
+.quick{display:grid;gap:14px;margin-top:30px;grid-template-columns:repeat(4,1fr)}
+.tile{background:linear-gradient(180deg,var(--panel),var(--ink-2));border:1px solid var(--line-soft);
+  border-radius:var(--r);padding:15px 16px}
+.tile .v{font-family:'Space Grotesk',sans-serif;font-size:30px;font-weight:700;line-height:1}
+.tile .l{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--text-3);margin-top:7px}
+.tile.new .v{color:var(--mint-bright)} .tile.chg .v{color:var(--gold)}
+.tile.trend .v{font-size:24px;display:flex;align-items:center;gap:8px}
+.tile.trend .v .arr{color:var(--ember-bright)}
+.baro{margin-top:16px;background:linear-gradient(180deg,var(--panel),var(--ink-2));
+  border:1px solid var(--line-soft);border-radius:var(--r);padding:18px 18px 8px}
+.baro h2{font-family:'Space Grotesk',sans-serif;font-size:14px;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--text-2);margin-bottom:14px}
+.gauge{display:grid;grid-template-columns:1.5fr 2.4fr auto auto auto;gap:14px;align-items:center;
+  padding:11px 0;border-top:1px solid var(--line-soft)}
+.gauge:first-of-type{border-top:none}
+.gauge .name{font-size:13.5px}
+.gauge .track{height:7px;background:#0c1218;border-radius:6px;overflow:hidden;position:relative}
+.gauge .fill{display:block;height:100%;border-radius:6px;background:linear-gradient(90deg,var(--ice),var(--ember))}
+.gauge .pct{font-family:'IBM Plex Mono',monospace;font-size:13px;color:var(--text);min-width:42px;text-align:right}
+.gauge .delta{font-family:'IBM Plex Mono',monospace;font-size:11.5px;min-width:54px;text-align:right}
+.delta.up{color:var(--ember-bright)} .delta.dn{color:var(--ice-bright)} .delta.flat{color:var(--text-3)}
+.spark{width:74px;height:22px;display:block}
+.legend{display:flex;gap:10px 24px;flex-wrap:wrap;margin-top:22px;
+  font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--text-2)}
+.legend span{display:inline-flex;align-items:center;gap:7px}
+.chip-demo{font-family:'IBM Plex Mono',monospace;font-size:10px;border-radius:5px;padding:2px 7px;border:1px solid}
+.chip-demo.n{color:var(--mint-bright);border-color:var(--mint)}
+.chip-demo.u{color:var(--ember-bright);border-color:var(--ember)}
+.chip-demo.d{color:var(--ice-bright);border-color:var(--ice)}
+.bar{width:20px;height:3px;border-radius:2px;display:inline-block}
+.bar.up{background:var(--ember)} .bar.dn{background:var(--ice)}
+.horizon{position:relative;padding:40px 0 6px}
+.horizon::before{content:"";position:absolute;left:7px;top:58px;bottom:-6px;width:1px;
+  background:linear-gradient(var(--line),var(--line-soft))}
+.horizon:last-of-type::before{display:none}
+.hz-head{position:relative;padding-left:38px;margin-bottom:22px}
+.hz-head::before{content:"";position:absolute;left:0;top:5px;width:15px;height:15px;border-radius:50%;
+  background:var(--ink);border:2px solid var(--ember);box-shadow:0 0 0 4px var(--ink),0 0 14px var(--ember-glow)}
+.hz-tag{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.16em;
+  color:var(--ember-bright);text-transform:uppercase}
+.hz-title{font-family:'Space Grotesk',sans-serif;font-size:21px;font-weight:600;letter-spacing:-.01em;margin-top:3px}
+.grid{padding-left:38px;display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+.card{background:linear-gradient(180deg,var(--panel),var(--ink-2));border:1px solid var(--line-soft);
+  border-radius:var(--r);padding:15px 16px 13px;display:flex;flex-direction:column;gap:9px;
+  transition:border-color .25s,transform .25s;position:relative}
+.card:hover{transform:translateY(-2px)}
+.card.is-new{border-color:rgba(111,207,142,.45);box-shadow:0 0 22px var(--mint-glow) inset}
+.card.is-changed{border-color:rgba(201,162,75,.45);box-shadow:0 0 22px var(--gold-glow) inset}
+.c-top{display:flex;justify-content:space-between;align-items:center;gap:8px;min-height:20px}
+.tag{font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--text-3);border:1px solid var(--line);border-radius:5px;padding:2px 7px;white-space:nowrap}
+.badges{display:flex;gap:6px;align-items:center}
+.badge{font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.06em;border-radius:5px;
+  padding:2px 7px;border:1px solid;white-space:nowrap}
+.badge.new{color:var(--mint-bright);border-color:var(--mint);background:var(--mint-glow)}
+.badge.up{color:var(--ember-bright);border-color:var(--ember);background:var(--ember-glow)}
+.badge.dn{color:var(--ice-bright);border-color:var(--ice);background:var(--ice-glow)}
+.c-title{font-family:'Space Grotesk',sans-serif;font-size:15.5px;font-weight:600;line-height:1.22}
+.when{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold);white-space:nowrap}
+.c-status{font-size:12.5px;color:var(--text-2)}
+.c-status b{color:var(--text);font-weight:600}
+.prob{align-self:flex-start;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold);
+  border:1px solid rgba(201,162,75,.38);background:rgba(201,162,75,.06);border-radius:20px;padding:2px 9px}
+.changed-note{font-size:12px;color:var(--text-2);border-left:2px solid var(--gold);padding:2px 0 2px 10px}
+.changed-note b{color:var(--gold)}
+.changed-note a{color:var(--text-2);text-decoration:underline;text-decoration-color:var(--line)}
+.dir{display:flex;flex-direction:column;gap:8px;margin-top:1px;border-top:1px solid var(--line-soft);padding-top:10px}
+.row{display:grid;grid-template-columns:16px 1fr;gap:8px;align-items:start;font-size:12px}
+.row .ic{font-family:'IBM Plex Mono',monospace;font-weight:600;padding-top:1px}
+.row.up .ic{color:var(--ember-bright)} .row.dn .ic{color:var(--ice-bright)}
+.row .txt{color:var(--text-2)} .row .txt strong{font-weight:600}
+.row.up .txt strong{color:var(--ember-bright)} .row.dn .txt strong{color:var(--ice-bright)}
+.sources{margin-top:46px;padding-top:28px;border-top:1px solid var(--line)}
+.sources h2{font-family:'Space Grotesk',sans-serif;font-size:16px;letter-spacing:.03em;
+  text-transform:uppercase;color:var(--text);margin-bottom:6px}
+.sources .sub{color:var(--text-2);font-size:13px;margin-bottom:18px}
+.src{display:grid;grid-template-columns:auto 1fr;gap:14px;padding:13px 0;border-top:1px solid var(--line-soft)}
+.src .meta{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--text-3);min-width:118px}
+.src .meta .name{color:var(--ice-bright);display:block;font-size:12px;margin-bottom:2px}
+.src .body .t{font-size:13.5px;color:var(--text);font-weight:500}
+.src .body .d{font-size:12.5px;color:var(--text-2);margin-top:3px}
+.src .body .ln{display:flex;gap:8px;align-items:center;margin-top:7px;flex-wrap:wrap}
+.src .body a{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold);text-decoration:none;
+  border:1px solid rgba(201,162,75,.35);border-radius:5px;padding:2px 8px}
+.src .body a:hover{background:var(--gold-glow)}
+.affects{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-3)}
+.affects b{color:var(--text-2)}
+.foot{margin-top:46px;padding-top:26px;border-top:1px solid var(--line)}
+.foot p{color:var(--text-2);font-size:13px;max-width:62ch}
+.foot .nav{display:flex;gap:14px;margin-top:16px;flex-wrap:wrap;font-family:'IBM Plex Mono',monospace;font-size:12px}
+.foot .nav a{color:var(--gold);text-decoration:none;border:1px solid rgba(201,162,75,.3);border-radius:6px;padding:5px 11px}
+.stamp{font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--text-3);margin-top:18px;letter-spacing:.04em}
+@media(max-width:780px){.quick{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:680px){
+  .grid,.hz-head{padding-left:30px}.horizon::before{left:6px}
+  .gauge{grid-template-columns:1fr auto auto;gap:8px 10px}.spark{display:none}
+  .src{grid-template-columns:1fr}
+}
+@media(prefers-reduced-motion:reduce){.eyebrow .dot{animation:none}html{scroll-behavior:auto}}
+:focus-visible{outline:2px solid var(--ember-bright);outline-offset:3px;border-radius:4px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow"><span class="dot" aria-hidden="true"></span><span>Veille · Convergence numérique</span><span>·</span><span>Édition quotidienne</span></div>
+    <h1>Édition du <span class="date">14 juillet 2026</span></h1>
+    <p class="diff-line"><b>Aujourd'hui —</b> <span class="c-chg">0 modifiées</span> · <span class="c-new">0 nouvelle(s)</span> · <span class="c-up">↑ 0 en hausse</span> · <span class="c-dn">↓ 0 en baisse</span> · 24 stables</p>
+    <div class="quick">
+      <div class="tile chg"><div class="v">0</div><div class="l">Modifiées</div></div>
+      <div class="tile new"><div class="v">0</div><div class="l">Nouvelle(s)</div></div>
+      <div class="tile"><div class="v">2</div><div class="l">Sources du jour</div></div>
+      <div class="tile trend"><div class="v"><span class="arr">→</span> Jour calme</div><div class="l">Tendance</div></div>
+    </div>
+    <div class="baro">
+      <h2>Baromètre des bascules</h2>
+      <div class="gauge">
+        <span class="name">Chat Control / CSAR — scan des messages</span>
+        <span class="track"><span class="fill" style="width:40%"></span></span>
+        <span class="pct">40%</span>
+        <span class="delta flat">→ 0</span>
+        <svg class="spark" viewBox="0 0 74 22"><polyline points="3,19 71,3" fill="none" stroke="#69757F" stroke-width="1.6"/></svg>
+      </div>
+      <div class="gauge">
+        <span class="name">Digital Omnibus / Defence Omnibus</span>
+        <span class="track"><span class="fill" style="width:70%"></span></span>
+        <span class="pct">70%</span>
+        <span class="delta flat">→ 0</span>
+        <svg class="spark" viewBox="0 0 74 22"><polyline points="3,19 71,19" fill="none" stroke="#69757F" stroke-width="1.6"/></svg>
+      </div>
+      <div class="gauge">
+        <span class="name">AMLR art. 79 — fin de l&#x27;anonymat crypto</span>
+        <span class="track"><span class="fill" style="width:68%"></span></span>
+        <span class="pct">68%</span>
+        <span class="delta flat">→ 0</span>
+        <svg class="spark" viewBox="0 0 74 22"><polyline points="3,19 71,19" fill="none" stroke="#69757F" stroke-width="1.6"/></svg>
+      </div>
+      <div class="gauge">
+        <span class="name">Émission potentielle de l&#x27;euro numérique</span>
+        <span class="track"><span class="fill" style="width:59%"></span></span>
+        <span class="pct">59%</span>
+        <span class="delta flat">→ 0</span>
+        <svg class="spark" viewBox="0 0 74 22"><polyline points="3,19 26,14 48,8 71,3" fill="none" stroke="#69757F" stroke-width="1.6"/></svg>
+      </div>
+      <div class="gauge">
+        <span class="name">Fenêtre « Q-Day » (avant 2032)</span>
+        <span class="track"><span class="fill" style="width:30%"></span></span>
+        <span class="pct">30%</span>
+        <span class="delta flat">→ 0</span>
+        <svg class="spark" viewBox="0 0 74 22"><polyline points="3,19 71,3" fill="none" stroke="#69757F" stroke-width="1.6"/></svg>
+      </div>
+      <div class="gauge">
+        <span class="name">État administratif automatisé</span>
+        <span class="track"><span class="fill" style="width:22%"></span></span>
+        <span class="pct">22%</span>
+        <span class="delta flat">→ 0</span>
+        <svg class="spark" viewBox="0 0 74 22"><polyline points="3,19 71,19" fill="none" stroke="#69757F" stroke-width="1.6"/></svg>
+      </div>
+      <div class="gauge">
+        <span class="name">Féodalité corporative / fragmentation</span>
+        <span class="track"><span class="fill" style="width:22%"></span></span>
+        <span class="pct">22%</span>
+        <span class="delta flat">→ 0</span>
+        <svg class="spark" viewBox="0 0 74 22"><polyline points="3,19 71,19" fill="none" stroke="#69757F" stroke-width="1.6"/></svg>
+      </div>
+      <div class="gauge">
+        <span class="name">Le chemin non-dystopique</span>
+        <span class="track"><span class="fill" style="width:38%"></span></span>
+        <span class="pct">38%</span>
+        <span class="delta flat">→ 0</span>
+        <svg class="spark" viewBox="0 0 74 22"><polyline points="3,19 71,19" fill="none" stroke="#69757F" stroke-width="1.6"/></svg>
+      </div>
+    </div>
+    <div class="legend">
+      <span><span class="chip-demo n">NOUVEAU</span> ajoutée aujourd'hui</span>
+      <span><span class="chip-demo u">▲ +n</span> en hausse (escalade)</span>
+      <span><span class="chip-demo d">▼ −n</span> en baisse (apaisement)</span>
+      <span><span class="bar up"></span> aggrave / <span class="bar dn"></span> freine</span>
+    </div>
+  </header>
+  <section class="sources"><h2>Sources du jour</h2><p class="sub">Les actualités qui ont influencé les prédictions modifiées ou ajoutées aujourd'hui.</p>
+    <div class="src" id="src-1">
+      <div class="meta"><span class="name">State of Surveillance</span>2026-07-14</div>
+      <div class="body">
+        <div class="t">Chat Control/CSAR 2.0 : toujours sans accord, reprise des trilogues confirmée en septembre</div>
+        <div class="d">Point de situation confirmant qu&#x27;après le vote du 9 juillet (déjà coté) — échec du Parlement à bloquer la dérogation « scan volontaire » du CSAM, prolongée jusqu&#x27;en 2028, et exemption du chiffrement de bout en bout renvoyée au Conseil — le volet permanent CSAR 2.0 (scan obligatoire / client-side) demeure sans accord depuis l&#x27;échec du trilogue du 29 juin. La reprise des négociations sous présidence irlandaise est désormais calée en septembre. Aucune décision ni texte nouveau depuis la semaine passée : suivi de procédure sans impact, chat-control inchangé.</div>
+        <div class="ln"><a href="https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/" target="_blank" rel="noopener">Ouvrir ↗</a><span class="affects">affecte → <b>—</b></span></div>
+      </div>
+    </div>
+    <div class="src" id="src-2">
+      <div class="meta"><span class="name">Table.Briefings</span>2026-07-13</div>
+      <div class="body">
+        <div class="t">Euro numérique : premier trilogue ouvert le 13 juillet, aucun texte de compromis au lendemain</div>
+        <div class="d">Le premier trilogue interinstitutionnel Parlement-Conseil-Commission sur le règlement euro numérique s&#x27;est ouvert le 13 juillet, après le vote de position du 9 juillet (déjà coté le 10). Au lendemain de l&#x27;ouverture, aucun compromis n&#x27;est publié : le « modèle de compensation » des intermédiaires et le plafond de détention restent les points ouverts, l&#x27;objectif d&#x27;accord sur le cadre étant maintenu pour la fin 2026 sous présidence irlandaise (pilote BCE 2027, disponibilité visée 2029). Suivi de procédure sans impact : euro-num-emission et euro-num-reglement inchangés.</div>
+        <div class="ln"><a href="https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin" target="_blank" rel="noopener">Ouvrir ↗</a><span class="affects">affecte → <b>—</b></span></div>
+      </div>
+    </div></section>
+  
+  <section class="horizon">
+    <div class="hz-head"><div class="hz-tag">T-0 · 2026 – 2027 · Imminent</div><div class="hz-title">Les rails se posent</div></div>
+    <div class="grid">
+      <article class="card">
+        <div class="c-top"><span class="tag">Identité</span><span class="badges"><span class="when">fin 2026</span></span></div>
+        <div class="c-title">Portefeuille EUDI dans les 27 États</div>
+        
+        <div class="c-status">En déploiement ; transposition nationale en cours (projet de loi allemand DIdG) et socle de normes techniques ETSI publié pour l&#x27;interopérabilité.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> implémentation de référence / trust list contrôlée de façon opaque ; dé-anonymisation par défaut.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> code ouvert, divulgation sélective, tableau de bord de traçabilité côté usager ; retards.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Traçabilité</span><span class="badges"><span class="when">1 sept 2026</span></span></div>
+        <div class="c-title">Facturation élec. + e-reporting (FR)</div>
+        
+        <div class="c-status">Réception obligatoire pour toutes ; émission GE/ETI.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> extension du périmètre e-reporting (B2C, paiements), croisement bancaire systématique.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> limitation au strict usage fiscal ; friction des TPE/PME (report 2027).</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Surveillance</span><span class="badges"><span class="when">2 août 2026</span></span></div>
+        <div class="c-title">AI Act — règles haut-risque &amp; biométrie</div>
+        
+        <div class="c-status">Pleinement applicable. Interdictions fortes mais exceptions larges.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> usage extensif des exceptions « sécurité nationale » ; reconnaissance faciale « post » généralisée.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> interdictions tenues, contrôle de la CJEU, amendes jusqu&#x27;à 7% du CA mondial.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Surveillance</span><span class="badges"></span></div>
+        <div class="c-title">Chat Control / CSAR — scan des messages</div>
+        <span class="prob">P 32–46% · médiane 40%</span>
+        <div class="c-status">Dérogation « scan volontaire » (Chat Control 1.0) rétablie : le 9 juillet, le Parlement échoue à réunir la majorité absolue (314/361) pour rejeter la position de 2e lecture du Conseil ; le scan volontaire du CSAM redevient légal dans l&#x27;UE jusqu&#x27;en 2028, après son expiration en avril. Amendement exemptant le chiffrement de bout en bout renvoyé au Conseil (échéance ~9 oct.). CSAR 2.0 (scan obligatoire / client-side) toujours sans accord, négociations reprises sous présidence irlandaise à l&#x27;automne.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> réintroduction du scan obligatoire / client-side scanning sur messageries chiffrées.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> blocage parlementaire récurrent (3 reculs), opposition allemande, menace de départ de Signal.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Dérégulation</span><span class="badges"></span></div>
+        <div class="c-title">Digital Omnibus / Defence Omnibus</div>
+        <span class="prob">P 65–75% · médiane 70%</span>
+        <div class="c-status">Accord politique provisoire. Présenté comme « simplification ».</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> zones « sécurité / intérêt stratégique » hors AI Act &amp; RGPD → police prédictive, frontières automatisées.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> contentieux société civile, opposition au Parlement, effet Bruxelles.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Monnaie</span><span class="badges"><span class="when">adoption visée 2026</span></span></div>
+        <div class="c-title">Règlement euro numérique</div>
+        
+        <div class="c-status">Position du Parlement adoptée en plénière le 9 juillet 2026 (416 pour, 169 contre, 22 abstentions) ; trilogues ouverts avec la présidence irlandaise (Conseil) et la Commission, accord visé avant fin 2026.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> limites de détention basses + fonctions programmables.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> garanties vie privée / cash effectives, lenteur législative.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Quantique</span><span class="badges"><span class="when">31 déc 2026</span></span></div>
+        <div class="c-title">Plans PQC nationaux (UE)</div>
+        
+        <div class="c-status">Standards NIST publiés (2024) ; migration à amorcer.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> paperasse sans migration réelle → dette de chiffrement, « harvest now, decrypt later ».</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> migration crypto-agile effective sur les systèmes à longue confidentialité.</span></div>
+        </div>
+      </article></div>
+  </section>
+  <section class="horizon">
+    <div class="hz-head"><div class="hz-tag">T-1 · 2027 – 2029 · Verrouillage</div><div class="hz-title">Fermeture des sorties</div></div>
+    <div class="grid">
+      <article class="card">
+        <div class="c-top"><span class="tag">Crypto</span><span class="badges"></span></div>
+        <div class="c-title">AMLR art. 79 — fin de l&#x27;anonymat crypto</div>
+        <span class="prob">P 60–75% · médiane 68%</span>
+        <div class="c-status">Cadre « final ». Coins privés exclus des plateformes régulées ; AMLA supervise 40 CASP.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> contrôles « intrusifs » des wallets auto-hébergés &gt;1000€ ; baisse des seuils ; extension aux DEX/P2P.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> recours Charte art. 7&amp;8 ; bascule offshore / P2P / compilation open-source qui vide la mesure.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Espèces</span><span class="badges"><span class="when">progressif</span></span></div>
+        <div class="c-title">Plafond cash 10 000 € (UE)</div>
+        
+        <div class="c-status">FR / IT / ES déjà sous le seuil. Une sortie analogique qui se réduit.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> abaissement progressif des seuils nationaux, friction croissante sur l&#x27;usage du cash.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> attachement culturel au cash, garantie du cours légal, résistance citoyenne.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Identité</span><span class="badges"><span class="when">fin 2027</span></span></div>
+        <div class="c-title">Acceptation EUDI obligatoire (privé)</div>
+        
+        <div class="c-status">Banques, télécoms, grandes plateformes doivent accepter le portefeuille.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> liaison identité ↔ parole en ligne, justifiée par la lutte anti-désinformation → fin de l&#x27;anonymat.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> choix de l&#x27;usager préservé, alternatives d&#x27;authentification maintenues.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Monnaie</span><span class="badges"><span class="when">mi-2027</span></span></div>
+        <div class="c-title">Pilote de l&#x27;euro numérique</div>
+        
+        <div class="c-status">PSP sélectionnés (Q3 2026) ; pilote conditionné à la loi 2026.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> design programmable / conditionnel testé dès le pilote.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> limites de détention strictes, complémentarité du cash, garanties de vie privée effectives.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Énergie</span><span class="badges"><span class="when">2027+</span></span></div>
+        <div class="c-title">Goulot compute / réseau électrique</div>
+        
+        <div class="c-status">Déficit PJM ~6 GW projeté ; ~20% des datacenters à risque. Drones sur AWS (mars 2026) : le compute devient cible.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> priorisation / rationnement de l&#x27;énergie, compute traité comme infra critique militarisée.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> gains d&#x27;efficience, nucléaire &amp; renouvelable à l&#x27;échelle, diversification géographique.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Quantique</span><span class="badges"><span class="when">dès 2027 (US)</span></span></div>
+        <div class="c-title">CNSA 2.0 — exigences PQC sécurité nat.</div>
+        
+        <div class="c-status">Échéances contraignantes sur les nouveaux systèmes de sécurité nationale américains. Décret US « Securing the Nation Against Advanced Cryptographic Attacks » (22 juin 2026) : migration PQC obligatoire pour les agences fédérales et leurs contractants d&#x27;ici fin 2030/2031.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> course au « Q-Day » entre États → avantage de déchiffrement rétroactif sur données interceptées.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> standardisation PQC mondiale et déploiement coordonné.</span></div>
+        </div>
+      </article></div>
+  </section>
+  <section class="horizon">
+    <div class="hz-head"><div class="hz-tag">T-2 · 2029 – 2035 · Activation</div><div class="hz-title">Convergence + choc</div></div>
+    <div class="grid">
+      <article class="card">
+        <div class="c-top"><span class="tag">Monnaie</span><span class="badges"></span></div>
+        <div class="c-title">Émission potentielle de l&#x27;euro numérique</div>
+        <span class="prob">P 50–64% · médiane 59%</span>
+        <div class="c-status">Conditionnée à l&#x27;adoption 2026. Position du Parlement adoptée en plénière le 9 juillet (416 pour, 169 contre, 22 abstentions) ; trilogues ouverts avec la présidence irlandaise. Pilote BCE 2027, lancement BCE visé au 1er janvier 2029.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> programmabilité / conditions activées (péremption, fléchage, restrictions d&#x27;usage).</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> garde-fous constitutionnels, résistance politique forte (usage comportemental P 10–25%).</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Quantique</span><span class="badges"></span></div>
+        <div class="c-title">Fenêtre « Q-Day » (avant 2032)</div>
+        <span class="prob">P 22–36% · médiane 30%</span>
+        <div class="c-status">Contesté. Consensus ~2030 ±2. Décret US (22 juin 2026) + initiative DOE « Quantum Genesis » visant un calculateur tolérant aux fautes scientifiquement pertinent (centaines de qubits logiques) dès 2028 : accélération étatique, mais cible scientifique sous-cryptographique.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> percée précoce détenue par un seul État → déchiffrement de décennies de trafic archivé.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> migration PQC achevée avant la rupture (théorème de Mosca tenu).</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">IA · Emploi</span><span class="badges"><span class="when">2029+</span></span></div>
+        <div class="c-title">Découplage croissance / emploi</div>
+        
+        <div class="c-status">Récit contesté : licenciements citant l&#x27;IA vs absence de signal net (Yale).</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> déplacement massif sans redistribution → précarité structurelle, dépendance à la pile étatique.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> création de nouveaux emplois, débat sérieux sur le revenu universel.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Pouvoir</span><span class="badges"><span class="when">déjà avancé</span></span></div>
+        <div class="c-title">Concentration privée trans-couches</div>
+        
+        <div class="c-status">Type Musk : Starlink + X + Grok/xAI + spatial + Neuralink ; IPO SpaceX juin 2026 (~1,77 T$).</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> fusion connectivité + information + IA + paiement chez un acteur privé ; algorithme comme arme ; coupure de Starlink comme levier.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> frictions UE ↔ X (DSA), enquêtes nationales (FR), brouille Musk–Trump.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Information</span><span class="badges"><span class="when">en cours</span></span></div>
+        <div class="c-title">Guerre cognitive / deepfakes</div>
+        
+        <div class="c-status">Enquêtes ouvertes : deepfakes via Grok (UE), ingérence algorithmique alléguée (FR).</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> réalité partagée indiscernable → identité vérifiée exigée pour toute prise de parole.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> standards de provenance / authentification du contenu, application effective du DSA.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Méta</span><span class="badges"><span class="when">variable clé</span></span></div>
+        <div class="c-title">Bascule politique</div>
+        
+        <div class="c-status">Qui hérite de l&#x27;infrastructure ? Montée des extrêmes en Europe ; posture dérégulatrice US.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> pouvoir autoritaire + pile intégrée déjà construite = abus immédiat, sans coup d&#x27;État technique.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> alternance démocratique, culture des droits fondamentaux, indépendance judiciaire.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Société</span><span class="badges"><span class="when">2028+</span></span></div>
+        <div class="c-title">Atomisation sociale par algorithmes</div>
+        
+        <div class="c-status">Montée de l&#x27;isolement, baisse de la confiance interpersonnelle, communautés remplacées par des flux personnalisés.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> IA générative omniprésente, compagnons virtuels, personnalisation extrême des contenus, remplacement progressif des interactions réelles.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> retour des communautés locales, régulation des algorithmes de recommandation, valorisation des espaces sociaux physiques.</span></div>
+        </div>
+      </article></div>
+  </section>
+  <section class="horizon">
+    <div class="hz-head"><div class="hz-tag">T-3 · 2035 – 2050 · Structurel</div><div class="hz-title">Les formes stables</div></div>
+    <div class="grid">
+      <article class="card">
+        <div class="c-top"><span class="tag">Climat</span><span class="badges"><span class="when">fin 2020s+</span></span></div>
+        <div class="c-title">Dépassement 1,5 °C + points de bascule</div>
+        
+        <div class="c-status">Quasi inévitable (PIK). Corail déjà ; permafrost, AMOC, calottes, Amazonie en jeu.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> l&#x27;urgence mobilise la pile : budget carbone individuel, rationnement énergétique algorithmique.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> transition ordonnée, gouvernance climatique légitime et transparente.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Scénario A</span><span class="badges"></span></div>
+        <div class="c-title">État administratif automatisé</div>
+        <span class="prob">P 15–30% · médiane 22%</span>
+        <div class="c-status">Décisions (aide sociale, fisc, justice, asile) par modèles opaques + monnaie programmable + triage des ressources.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> « droit à un humain dans la boucle » inopérant à l&#x27;échelle ; nudge comportemental normalisé.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> exigences d&#x27;explicabilité, recours effectifs, audits indépendants des modèles publics.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Scénario B</span><span class="badges"></span></div>
+        <div class="c-title">Féodalité corporative / fragmentation</div>
+        <span class="prob">P 15–30% · médiane 22%</span>
+        <div class="c-status">Quelques géants IA + compute fusionnent avec les États ; splinternet par blocs.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> identité + monnaie + calcul contrôlés par oligopole ; murs-frontières IA face aux migrations climatiques.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> souveraineté numérique européenne réelle (cloud souverain), interopérabilité ouverte, antitrust.</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="c-top"><span class="tag">Contre-scénario</span><span class="badges"></span></div>
+        <div class="c-title">Le chemin non-dystopique</div>
+        <span class="prob">P 30–45% · médiane 38%</span>
+        <div class="c-status">Pleinement plausible. Les freins tiennent : justice, fédéralisme, mobilisation, redistribution.</div>
+        
+        <div class="dir">
+          <div class="row up"><span class="ic">▲</span><span class="txt"><strong>Aggrave —</strong> un choc majeur + un pouvoir héritant de la pile fragilisent ce chemin.</span></div>
+          <div class="row dn"><span class="ic">▼</span><span class="txt"><strong>Freine —</strong> Chat Control bloqué 3 fois, wallet open source, prophéties emploi surévaluées, CJEU active.</span></div>
+        </div>
+      </article></div>
+  </section>
+  <div class="foot">
+    <p>Les pourcentages sont des jugements structurés, pas des prévisions calibrées. Une probabilité ne bouge que sur un fait déclencheur matériel, sourcé, avec un delta plafonné.</p>
+    <div class="nav">
+      <a href="../index.html">← Archive</a>
+      <a href="./veille-2026-07-13.html">Édition précédente</a>
+      <a href="../feed.xml">RSS</a>
+    </div>
+    <p class="stamp">Généré le 14 juillet 2026 · sources publiques</p>
+  </div>
+</div>
+</body>
+</html>

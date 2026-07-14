@@ -1,0 +1,8 @@
+=== Veille 2026-07-14 : 2026-07-14T03:30:01+02:00 ===
+Terminé. Bilan du 14 juillet 2026 :
+
+- **Jour calme, 0 modifiée, 0 nouvelle.** Aucun fait matériel (vote, texte, décision, incident) dans les 48 h — toutes les probabilités restent inchangées, dans le respect des garde-fous.
+- **`state.json`** : `last_updated` → 2026-07-14 ; `today_summary` recalculé (24 stables, trend `flat`, `trend_label` « Jour calme ») ; `sources_today` remplacé par deux sources de suivi procédural (`affects: []`) — euro numérique (trilogue ouvert le 13, pas de compromis publié) et Chat Control/CSAR 2.0 (sans accord, reprise en septembre).
+- **`changelog.md`** : nouvelle entrée en tête résumant le jour calme et les deux suivis sans impact.
+- JSON validé.
+OK · édition 2026-07-14 · 29 éditions au total
