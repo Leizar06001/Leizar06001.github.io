@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-07-15",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -511,11 +511,11 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "State of Surveillance",
-      "date": "2026-07-14",
-      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control/CSAR 2.0 : toujours sans accord, reprise des trilogues confirmée en septembre",
-      "summary": "Point de situation confirmant qu'après le vote du 9 juillet (déjà coté) — échec du Parlement à bloquer la dérogation « scan volontaire » du CSAM, prolongée jusqu'en 2028, et exemption du chiffrement de bout en bout renvoyée au Conseil — le volet permanent CSAR 2.0 (scan obligatoire / client-side) demeure sans accord depuis l'échec du trilogue du 29 juin. La reprise des négociations sous présidence irlandaise est désormais calée en septembre. Aucune décision ni texte nouveau depuis la semaine passée : suivi de procédure sans impact, chat-control inchangé.",
+      "name": "Parlement européen — Legislative Train",
+      "date": "2026-07-15",
+      "url": "https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-cloud-and-ai-development-act",
+      "title": "Cloud and AI Development Act (CADA) : toujours au stade de proposition, pas de publication au JO",
+      "summary": "Vérification d'une alerte de sites de conformité commerciaux annonçant une « publication au Journal officiel le 15 juillet » du Cloud and AI Development Act (souveraineté cloud, triplement de la capacité de datacenters UE). Les sources fiables (train législatif du Parlement, analyses Covington/Inside Global Tech, Global Policy Watch) confirment que le CADA reste une proposition de la Commission du 3 juin 2026, engagée dans la procédure législative ordinaire, trilogues attendus au plus tôt fin 2026 et adoption vraisemblable en 2027+. Aucun texte contraignant publié : allégation de « compte à rebours » non fondée, aucun fait matériel. Sujet à surveiller car il touche la souveraineté cloud (facteur « down » de scenario-b) et le goulot compute/énergie, mais sans impact aujourd'hui.",
       "affects": []
     },
     {
@@ -523,8 +523,8 @@
       "name": "Table.Briefings",
       "date": "2026-07-13",
       "url": "https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin",
-      "title": "Euro numérique : premier trilogue ouvert le 13 juillet, aucun texte de compromis au lendemain",
-      "summary": "Le premier trilogue interinstitutionnel Parlement-Conseil-Commission sur le règlement euro numérique s'est ouvert le 13 juillet, après le vote de position du 9 juillet (déjà coté le 10). Au lendemain de l'ouverture, aucun compromis n'est publié : le « modèle de compensation » des intermédiaires et le plafond de détention restent les points ouverts, l'objectif d'accord sur le cadre étant maintenu pour la fin 2026 sous présidence irlandaise (pilote BCE 2027, disponibilité visée 2029). Suivi de procédure sans impact : euro-num-emission et euro-num-reglement inchangés.",
+      "title": "Euro numérique : trilogues en cours, toujours aucun texte de compromis",
+      "summary": "Suivi du premier trilogue interinstitutionnel Parlement-Conseil-Commission sur le règlement euro numérique, ouvert le 13 juillet après le vote de position du 9 juillet (déjà coté le 10). Aucun compromis publié à ce stade : le « modèle de compensation » des intermédiaires et le plafond de détention restent les points ouverts, l'objectif d'accord sur le cadre étant maintenu pour la fin 2026 sous présidence irlandaise (pilote BCE 2027, disponibilité visée 2029). Suivi de procédure sans impact : euro-num-emission et euro-num-reglement inchangés.",
       "affects": []
     }
   ]

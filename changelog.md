@@ -2,6 +2,11 @@
 
 _Le premier run quotidien ajoutera ses entrées ici, les plus récentes en haut._
 
+## 2026-07-15 — 0 modifiée, 0 nouvelle
+- Jour calme (mercredi) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
+- Alerte vérifiée sans impact — Cloud and AI Development Act (CADA) : des sites de conformité commerciaux annoncent une « publication au JO le 15 juillet », mais les sources fiables (train législatif du Parlement, Covington/Inside Global Tech, Global Policy Watch) confirment que le CADA reste une proposition de la Commission du 3 juin 2026, en procédure législative ordinaire (trilogues attendus fin 2026, adoption vraisemblable 2027+) ⇒ aucun texte contraignant, `scenario-b` / `energie-compute` inchangés ([Parlement UE](https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-cloud-and-ai-development-act)).
+- Suivi de procédure sans impact — euro numérique : trilogues en cours après le vote du 9 juillet (déjà coté), toujours aucun texte de compromis (modèle de compensation et plafond de détention ouverts) ⇒ `euro-num-emission` / `euro-num-reglement` inchangés ([Table.Briefings](https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin)) ; Chat Control 2.0 (reprise septembre), AMLR/AMLA (RTS non adoptés), quantique et climat sans nouveau fait matériel.
+
 ## 2026-07-14 — 0 modifiée, 0 nouvelle
 - Jour calme (mardi, 14 juillet) : balayage des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) sans fait matériel nouveau (vote, texte publié, décision) dans les 48 h ⇒ toutes les probabilités inchangées.
 - Suivi de procédure sans impact — euro numérique : au lendemain de l'ouverture du premier trilogue (13 juillet, déjà coté), aucun texte de compromis publié ; « modèle de compensation » des intermédiaires et plafond de détention restant ouverts, accord visé fin 2026 sous présidence irlandaise ⇒ `euro-num-emission` / `euro-num-reglement` inchangés ([Table.Briefings](https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin)).
