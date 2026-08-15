@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-08-15",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -511,20 +511,20 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Parlement européen — Legislative Train",
-      "date": "2026-07-15",
-      "url": "https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-cloud-and-ai-development-act",
-      "title": "Cloud and AI Development Act (CADA) : toujours au stade de proposition, pas de publication au JO",
-      "summary": "Vérification d'une alerte de sites de conformité commerciaux annonçant une « publication au Journal officiel le 15 juillet » du Cloud and AI Development Act (souveraineté cloud, triplement de la capacité de datacenters UE). Les sources fiables (train législatif du Parlement, analyses Covington/Inside Global Tech, Global Policy Watch) confirment que le CADA reste une proposition de la Commission du 3 juin 2026, engagée dans la procédure législative ordinaire, trilogues attendus au plus tôt fin 2026 et adoption vraisemblable en 2027+. Aucun texte contraignant publié : allégation de « compte à rebours » non fondée, aucun fait matériel. Sujet à surveiller car il touche la souveraineté cloud (facteur « down » de scenario-b) et le goulot compute/énergie, mais sans impact aujourd'hui.",
+      "name": "Phys.org / Communications Earth & Environment",
+      "date": "2026-08-14",
+      "url": "https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html",
+      "title": "AMOC : c'est la vitesse du réchauffement, plus que son niveau, qui conditionne le basculement",
+      "summary": "Nouvelle étude de modélisation (Communications Earth & Environment) sur la stabilité de la circulation méridienne atlantique (AMOC). Résultat central : la vulnérabilité de l'AMOC dépend surtout du rythme du réchauffement — un réchauffement rapide peut la faire basculer dès ~2 °C, tandis qu'un réchauffement plus lent lui permet de rester stable à des niveaux de réchauffement nettement plus élevés. Le message est plutôt orienté « down » (le basculement n'est pas mécaniquement lié au seul dépassement de 1,5 °C, une trajectoire ralentie l'évite), mais le corpus AMOC reste contesté et les études récentes divergent. Suivi sans impact : climat-15 inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "Table.Briefings",
-      "date": "2026-07-13",
-      "url": "https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin",
-      "title": "Euro numérique : trilogues en cours, toujours aucun texte de compromis",
-      "summary": "Suivi du premier trilogue interinstitutionnel Parlement-Conseil-Commission sur le règlement euro numérique, ouvert le 13 juillet après le vote de position du 9 juillet (déjà coté le 10). Aucun compromis publié à ce stade : le « modèle de compensation » des intermédiaires et le plafond de détention restent les points ouverts, l'objectif d'accord sur le cadre étant maintenu pour la fin 2026 sous présidence irlandaise (pilote BCE 2027, disponibilité visée 2029). Suivi de procédure sans impact : euro-num-emission et euro-num-reglement inchangés.",
+      "name": "European Digital Rights (EDRi)",
+      "date": "2026-08-15",
+      "url": "https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/",
+      "title": "Chat Control : dérogation « scan volontaire » en vigueur, CSAR 2.0 renvoyé au trilogue de fin septembre",
+      "summary": "Point de situation sur le dossier surveillance des messageries. La dérogation « scan volontaire » du CSAM (Chat Control 1.0) s'applique depuis le 3 août 2026 et jusqu'au 3 avril 2028, comme déjà anticipé après l'échec du blocage parlementaire du 9 juillet (déjà coté le 10). Le règlement permanent (CSAR / Chat Control 2.0) reste sans accord : négociateurs favorables à protéger le chiffrement et à retirer la vérification d'âge, le point ouvert restant la nature du scan (obligatoire/volontaire, ciblé ou de masse) ; prochain trilogue attendu le 29 septembre sous présidence irlandaise. Suivi de procédure sans impact : chat-control inchangé.",
       "affects": []
     }
   ]

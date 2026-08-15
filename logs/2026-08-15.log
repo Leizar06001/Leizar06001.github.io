@@ -1,0 +1,13 @@
+=== Veille 2026-08-15 : 2026-08-15T03:30:01+02:00 ===
+Fait. Journée du **15 août 2026 — jour calme, 0 modifiée, 0 nouvelle**.
+
+Balayage complet des domaines : aucun fait matériel (vote, texte publié, décision de justice, incident) dans les 48 h. Toutes les probabilités restent inchangées, ancrées sur la veille.
+
+**`state.json`** — `last_updated` porté au 2026-08-15 ; `today_summary` conservé à flat / « Jour calme » (24 signaux stables) ; `sources_today` remplacé par deux entrées de suivi sans impact (`affects: []`) :
+- **Climat** — étude AMOC (Communications Earth & Environment, 14 août) : le basculement dépend surtout de la *vitesse* du réchauffement ; message plutôt « down », corpus contesté → `climat-15` inchangé.
+- **Surveillance** — dérogation « scan volontaire » (Chat Control 1.0) en vigueur depuis le 3 août (déjà cotée le 10 juillet), CSAR 2.0 toujours sans accord, prochain trilogue le 29 septembre → `chat-control` inchangé.
+
+**`changelog.md`** — nouvelle entête en tête avec les trois puces correspondantes.
+
+JSON validé (strictement valide, 24 signaux, 2 sources). Aucun autre fichier touché.
+OK · édition 2026-08-15 · 31 éditions au total
