@@ -1,0 +1,14 @@
+=== Veille 2026-08-16 : 2026-08-16T03:30:01+02:00 ===
+Mise à jour terminée pour le **2026-08-16** (dimanche) — **jour calme, 0 modifiée, 0 nouvelle**.
+
+Aucun fait matériel déclencheur dans les 48 h après vérification web sur l'ensemble des domaines. Tout ce qui remonte est déjà coté :
+- **Surveillance** — dérogation Chat Control 1.0 en vigueur, CSAR 2.0 sans accord, trilogue au 29 sept. (coté le 10 juillet).
+- **Climat** — même étude AMOC du 14 août déjà intégrée hier.
+- **Crypto/AMLR** — cadre inchangé, applicabilité juillet 2027.
+- **Quantique** — commentaires PQC uniquement, aucun matériel au seuil cryptographiquement pertinent.
+- **Plateformes** — amende X/DSA (déc. 2025) et enquête Grok (janv. 2026) déjà connues.
+
+Modifications apportées, rien d'autre touché :
+- `state.json` : `last_updated` → 2026-08-16, `trend_label` → « Veille tranquille », `sources_today` remplacé par 3 sources traçantes `affects: []` (EUDI, DGFiP e-facturation, EDRi) ; toutes les `prob` inchangées. JSON validé.
+- `changelog.md` : nouvelle entête en tête avec 3 puces de suivi sourcées.
+OK · édition 2026-08-16 · 32 éditions au total
