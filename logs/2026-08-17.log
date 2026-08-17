@@ -1,0 +1,11 @@
+=== Veille 2026-08-17 : 2026-08-17T03:30:01+02:00 ===
+Fait. Journée calme du lundi 2026-08-17, aucun mouvement de probabilité.
+
+**Résumé du run :**
+- **0 signal modifié, 0 nouveau** — toutes les probabilités inchangées, aucun fait matériel dans les 48 h.
+- **`state.json`** : `last_updated` → 2026-08-17 ; `today_summary` → trend `flat`, label « Jour calme », 24 signaux stables ; `sources_today` entièrement remplacé par 3 sources de suivi sans impact (Chat Control/CSAR, euro numérique, PJM énergie/compute), toutes en `affects: []`.
+- **`changelog.md`** : nouvelle entête en tête avec 3 puces de synthèse.
+- JSON revalidé (`python3 json.load` → valid).
+
+Rien d'autre n'a été touché (ni `build.py`, ni `style.css`, ni HTML).
+OK · édition 2026-08-17 · 33 éditions au total

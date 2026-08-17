@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-16",
+  "last_updated": "2026-08-17",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 24,
     "trend": "flat",
-    "trend_label": "Veille tranquille"
+    "trend_label": "Jour calme"
   },
   "signals": [
     {
@@ -511,29 +511,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "eID Easy",
-      "date": "2026-08-16",
-      "url": "https://www.eideasy.com/blog/eu-digital-identity-wallets-august-2026",
-      "title": "EUDI : point d'avancement des portefeuilles nationaux à l'approche de l'échéance de novembre 2026",
-      "summary": "État des lieux du déploiement du portefeuille d'identité numérique européen (EUDI). Les 27 États restent tenus d'offrir un portefeuille interopérable à leurs citoyens d'ici novembre 2026, mais l'avancement demeure inégal : la Suède annonce une première version étatique (Sverige-ID) et un environnement de test pour décembre 2026, les certificats d'attributs et fonctions avancées étant repoussés à 2027. Analyse de calendrier et d'écosystème, sans acte d'exécution nouveau ni fait matériel : eudi-wallet / eudi-prive inchangés.",
+      "name": "State of Surveillance",
+      "date": "2026-08-17",
+      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
+      "title": "Chat Control / CSAR : dossier en attente, prochain trilogue à l'automne sous présidence irlandaise",
+      "summary": "Suivi du dossier surveillance des messageries, situation inchangée. La dérogation « scan volontaire » du CSAM (Chat Control 1.0) reste en vigueur jusqu'en avril 2028, après l'échec du blocage parlementaire du 9 juillet déjà coté. Le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'effondrement du 5e trilogue de fin juin ; les négociations reprennent en septembre sous présidence irlandaise, réputée favorable au camp pro-scan, avec pour points ouverts la protection du chiffrement et la nature obligatoire ou volontaire des ordres de détection. Suivi de procédure sans impact : chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "UNASA / DGFiP",
-      "date": "2026-08-14",
-      "url": "https://unasa.fr/actualites/facturation-electronique-guide-de-demarrage-de-la-dgfip/",
-      "title": "Facturation électronique : guide de démarrage DGFiP à l'approche du 1er septembre",
-      "summary": "Rappel de calendrier à deux semaines de l'entrée en vigueur (1er septembre 2026) de la réception obligatoire des factures électroniques pour toutes les entreprises et de l'émission pour les grandes entreprises et ETI. La DGFiP diffuse un guide de démarrage détaillant la phase de lancement. Communication administrative de mise en œuvre, sans extension de périmètre ni fait matériel nouveau : facturation-ereporting inchangé.",
+      "name": "Freshfields",
+      "date": "2026-08-16",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
+      "title": "Euro numérique : trilogues au stade initial après la trêve estivale, écarts persistants",
+      "summary": "Analyse de l'état des négociations interinstitutionnelles sur l'euro numérique. Le premier trilogue s'est tenu le 13 juillet (déjà coté) et les sessions reprennent après la pause estivale, encore à un stade précoce ; Conseil et Parlement, mandats arrêtés, restent éloignés sur les sujets clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, pilote BCE de 36 prestataires visé en septembre 2027, émission possible en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "European Digital Rights (EDRi)",
-      "date": "2026-08-16",
-      "url": "https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/",
-      "title": "Chat Control : dérogation « scan volontaire » en vigueur, prochain trilogue CSAR le 29 septembre",
-      "summary": "Suivi du dossier surveillance des messageries, inchangé depuis hier. La dérogation « scan volontaire » du CSAM (Chat Control 1.0) reste en vigueur (3 août 2026 → 3 avril 2028), suite à l'échec du blocage parlementaire du 9 juillet déjà coté. Le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord, les négociateurs s'orientant vers la protection du chiffrement et le retrait de la vérification d'âge ; le seul point ouvert reste la nature du scan (obligatoire/volontaire, ciblé ou de masse), prochain trilogue attendu le 29 septembre sous présidence irlandaise. Suivi de procédure sans impact : chat-control inchangé.",
+      "name": "Network World",
+      "date": "2026-08-15",
+      "url": "https://www.networkworld.com/article/4202800/ai-data-centers-in-the-us-may-face-power-cuts-under-pjm-reliability-proposal.html",
+      "title": "PJM : les datacenters IA face à un risque de coupure sous le nouveau cadre de fiabilité",
+      "summary": "Suivi énergie/compute. Le gestionnaire de réseau américain PJM déploie un cadre à deux vitesses (« Bring Your Own New Generation ») : toute charge nouvelle ≥ 50 MW en un point d'interconnexion doit apporter sa propre production ou accepter d'être délestée en priorité lors des pénuries, avec un guichet d'interconnexion accéléré visé pour août 2026. Le dispositif, encadré par la FERC et renvoyé aux États, illustre le traitement du compute comme charge critique arbitrée sur le réseau, dans le contexte d'un déficit de capacité d'environ 6,8 GW. Analyse de dispositif sans fait matériel nouveau au sens de la veille : energie-compute (signal narratif sans cote) inchangé.",
       "affects": []
     }
   ]

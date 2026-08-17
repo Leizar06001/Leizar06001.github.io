@@ -12,3 +12,10 @@ Modifications apportées, rien d'autre touché :
 - `state.json` : `last_updated` → 2026-08-16, `trend_label` → « Veille tranquille », `sources_today` remplacé par 3 sources traçantes `affects: []` (EUDI, DGFiP e-facturation, EDRi) ; toutes les `prob` inchangées. JSON validé.
 - `changelog.md` : nouvelle entête en tête avec 3 puces de suivi sourcées.
 OK · édition 2026-08-16 · 32 éditions au total
+[main 8b26743] veille 2026-08-16
+ 8 files changed, 639 insertions(+), 20 deletions(-)
+ create mode 100644 logs/2026-08-16.log
+ create mode 100644 posts/veille-2026-08-16.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   f5b8962..8b26743  main -> main
+Publié.
