@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "today_summary": {
     "changed": 0,
-    "new": 0,
+    "new": 1,
     "up": 0,
     "down": 0,
     "stable": 24,
-    "trend": "flat",
-    "trend_label": "Jour calme"
+    "trend": "up",
+    "trend_label": "Règlement e-Evidence applicable : injonctions transfrontières de preuves électroniques"
   },
   "signals": [
     {
@@ -96,6 +96,29 @@
         "date": "2026-07-10",
         "delta": 2,
         "reason": "Fait matériel : le 9 juillet, le Parlement échoue à réunir la majorité absolue (314 voix pour le rejet, 47 sous le seuil de 361/720) contre la position de 2e lecture du Conseil ; faute de blocage, la dérogation « scan volontaire » du CSAM (Chat Control 1.0) redevient légale dans l'UE jusqu'en 2028, après son expiration en avril. L'architecture de scan, un temps caduque, est réactivée — mouvement haussier. Hausse contenue : il s'agit du régime volontaire, non du scan obligatoire / client-side visé par la bascule, et le Parlement a simultanément adopté une exemption explicite du chiffrement de bout en bout (renvoyée au Conseil, échéance ~9 oct.) ; le CSAR 2.0 reste sans accord.",
+        "sources": [
+          "src-1"
+        ]
+      }
+    },
+    {
+      "id": "e-evidence",
+      "domain": "Surveillance",
+      "horizon": "T-0",
+      "title": "Règlement e-Evidence — injonctions transfrontières",
+      "when": "18 août 2026",
+      "status": "Pleinement applicable depuis le 18 août 2026 (Règl. UE 2023/1543). Une autorité judiciaire d'un État membre peut adresser directement à un fournisseur de services établi ou représenté dans un autre État une injonction européenne de production ou de conservation de preuves électroniques, quel que soit le lieu de stockage des données, avec des délais de réponse contraignants (10 jours, 8 heures en urgence). Mécanisme accéléré qui se substitue à l'entraide judiciaire pénale classique.",
+      "is_bascule": false,
+      "prob": null,
+      "prob_range": null,
+      "prob_history": [],
+      "up": "accès transfrontière banalisé aux données de contenu et de trafic, notification à l'État d'exécution limitée, pression accrue sur les fournisseurs chiffrés.",
+      "down": "motifs de refus (droits fondamentaux, liberté de la presse, immunités), contrôle judiciaire, notification à l'autorité d'exécution pour les données sensibles.",
+      "created": "2026-08-18",
+      "last_change": {
+        "date": "2026-08-18",
+        "delta": null,
+        "reason": "Fait matériel : le règlement e-Evidence (UE) 2023/1543 devient pleinement applicable ce 18 août 2026, ouvrant les injonctions européennes de production et de conservation de preuves électroniques transfrontières directement auprès des fournisseurs de services, indépendamment du lieu de stockage, avec des délais durs (10 jours, 8 heures en cas d'urgence). Nouvel instrument structurant d'accès aux données pour les autorités répressives, distinct du scan des messageries (chat-control) : il remplace l'entraide judiciaire par une procédure accélérée. Signal créé sans cote (jalon T-0, à l'image des autres échéances réglementaires du référentiel) ; à surveiller pour l'ampleur réelle des demandes et l'effectivité des garde-fous.",
         "sources": [
           "src-1"
         ]
@@ -511,29 +534,31 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "State of Surveillance",
-      "date": "2026-08-17",
-      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR : dossier en attente, prochain trilogue à l'automne sous présidence irlandaise",
-      "summary": "Suivi du dossier surveillance des messageries, situation inchangée. La dérogation « scan volontaire » du CSAM (Chat Control 1.0) reste en vigueur jusqu'en avril 2028, après l'échec du blocage parlementaire du 9 juillet déjà coté. Le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'effondrement du 5e trilogue de fin juin ; les négociations reprennent en septembre sous présidence irlandaise, réputée favorable au camp pro-scan, avec pour points ouverts la protection du chiffrement et la nature obligatoire ou volontaire des ordres de détection. Suivi de procédure sans impact : chat-control inchangé.",
-      "affects": []
+      "name": "Commission européenne",
+      "date": "2026-08-18",
+      "url": "https://commission.europa.eu/law/cross-border-cases/judicial-cooperation/types-judicial-cooperation/e-evidence-cross-border-access-electronic-evidence_en",
+      "title": "e-Evidence : accès transfrontière aux preuves électroniques applicable dans toute l'UE",
+      "summary": "Fait matériel. Le règlement e-Evidence (UE) 2023/1543 devient pleinement applicable ce 18 août 2026. Il permet à une autorité judiciaire nationale d'émettre, en matière pénale, des injonctions européennes de production et de conservation directement auprès des fournisseurs de services établis ou représentés dans un autre État membre, quel que soit le lieu de stockage des données, avec des délais de réponse contraignants (jusqu'à 10 jours, 8 heures en urgence). Objectif affiché : substituer un mécanisme rapide et harmonisé à l'entraide judiciaire classique face au caractère volatil et délocalisé des données. Nouvel instrument structurant d'accès aux données ⇒ création du signal e-evidence (sans cote).",
+      "affects": [
+        "e-evidence"
+      ]
     },
     {
       "id": "src-2",
-      "name": "Freshfields",
-      "date": "2026-08-16",
-      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
-      "title": "Euro numérique : trilogues au stade initial après la trêve estivale, écarts persistants",
-      "summary": "Analyse de l'état des négociations interinstitutionnelles sur l'euro numérique. Le premier trilogue s'est tenu le 13 juillet (déjà coté) et les sessions reprennent après la pause estivale, encore à un stade précoce ; Conseil et Parlement, mandats arrêtés, restent éloignés sur les sujets clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, pilote BCE de 36 prestataires visé en septembre 2027, émission possible en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
+      "name": "State of Surveillance",
+      "date": "2026-08-18",
+      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
+      "title": "Chat Control / CSAR : dossier toujours en attente, 6e trilogue attendu en septembre",
+      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif depuis le vote du 9 juillet (déjà coté) : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'en avril 2028, et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'effondrement du 5e trilogue de fin juin. Le 6e trilogue est attendu en septembre sous présidence irlandaise, réputée favorable au camp pro-scan ; protection du chiffrement et nature obligatoire ou volontaire des ordres de détection restent ouvertes. chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Network World",
-      "date": "2026-08-15",
-      "url": "https://www.networkworld.com/article/4202800/ai-data-centers-in-the-us-may-face-power-cuts-under-pjm-reliability-proposal.html",
-      "title": "PJM : les datacenters IA face à un risque de coupure sous le nouveau cadre de fiabilité",
-      "summary": "Suivi énergie/compute. Le gestionnaire de réseau américain PJM déploie un cadre à deux vitesses (« Bring Your Own New Generation ») : toute charge nouvelle ≥ 50 MW en un point d'interconnexion doit apporter sa propre production ou accepter d'être délestée en priorité lors des pénuries, avec un guichet d'interconnexion accéléré visé pour août 2026. Le dispositif, encadré par la FERC et renvoyé aux États, illustre le traitement du compute comme charge critique arbitrée sur le réseau, dans le contexte d'un déficit de capacité d'environ 6,8 GW. Analyse de dispositif sans fait matériel nouveau au sens de la veille : energie-compute (signal narratif sans cote) inchangé.",
+      "name": "Freshfields",
+      "date": "2026-08-16",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
+      "title": "Euro numérique : trilogues au stade initial après la trêve estivale, écarts persistants",
+      "summary": "Suivi de procédure sans impact. Le premier trilogue s'est tenu le 13 juillet (déjà coté) et les sessions reprennent, encore à un stade précoce ; Conseil et Parlement, mandats arrêtés, restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, pilote BCE de 36 prestataires visé en septembre 2027, émission possible en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     }
   ]
