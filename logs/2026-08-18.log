@@ -6,3 +6,10 @@ Done. Summary of today's update (2026-08-18):
 - `state.json` : `last_updated` → 2026-08-18, `today_summary` (changed 0 / new 1 / stable 24, trend up), `sources_today` remplacé (3 sources), JSON validé (25 signaux).
 - `changelog.md` : entrée en tête `## 2026-08-18 — 0 modifiée, 1 nouvelle`.
 OK · édition 2026-08-18 · 34 éditions au total
+[main 8a856d4] veille 2026-08-18
+ 8 files changed, 638 insertions(+), 28 deletions(-)
+ create mode 100644 logs/2026-08-18.log
+ create mode 100644 posts/veille-2026-08-18.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   2cdbd98..8a856d4  main -> main
+Publié.

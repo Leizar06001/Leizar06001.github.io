@@ -1,0 +1,12 @@
+=== Veille 2026-08-19 : 2026-08-19T03:30:01+02:00 ===
+Fait. Journée calme du **19 août 2026** : aucun fait matériel dans les 48 h.
+
+**`state.json`**
+- `last_updated` → `2026-08-19` ; `today_summary` : 0 modifiée, 0 nouvelle, 25 stables, `trend: flat`, `trend_label: "Jour calme"`.
+- `sources_today` remplacé par 3 entrées de suivi sans impact (`affects: []`) : Chat Control/CSAR (6e trilogue au 29 sept.), euro numérique (trilogues au stade initial), quantique (avancées incrémentales, aucun calculateur au seuil pertinent).
+- Aucune probabilité touchée — le jalon e-Evidence ayant été coté hier.
+
+**`changelog.md`** : ligne du 19 août ajoutée en tête (jour calme + suivis de procédure).
+
+JSON validé (25 signaux, 3 sources).
+OK · édition 2026-08-19 · 35 éditions au total

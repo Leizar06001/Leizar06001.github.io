@@ -7,15 +7,15 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "today_summary": {
     "changed": 0,
-    "new": 1,
+    "new": 0,
     "up": 0,
     "down": 0,
-    "stable": 24,
-    "trend": "up",
-    "trend_label": "Règlement e-Evidence applicable : injonctions transfrontières de preuves électroniques"
+    "stable": 25,
+    "trend": "flat",
+    "trend_label": "Jour calme"
   },
   "signals": [
     {
@@ -534,31 +534,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Commission européenne",
-      "date": "2026-08-18",
-      "url": "https://commission.europa.eu/law/cross-border-cases/judicial-cooperation/types-judicial-cooperation/e-evidence-cross-border-access-electronic-evidence_en",
-      "title": "e-Evidence : accès transfrontière aux preuves électroniques applicable dans toute l'UE",
-      "summary": "Fait matériel. Le règlement e-Evidence (UE) 2023/1543 devient pleinement applicable ce 18 août 2026. Il permet à une autorité judiciaire nationale d'émettre, en matière pénale, des injonctions européennes de production et de conservation directement auprès des fournisseurs de services établis ou représentés dans un autre État membre, quel que soit le lieu de stockage des données, avec des délais de réponse contraignants (jusqu'à 10 jours, 8 heures en urgence). Objectif affiché : substituer un mécanisme rapide et harmonisé à l'entraide judiciaire classique face au caractère volatil et délocalisé des données. Nouvel instrument structurant d'accès aux données ⇒ création du signal e-evidence (sans cote).",
-      "affects": [
-        "e-evidence"
-      ]
-    },
-    {
-      "id": "src-2",
       "name": "State of Surveillance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR : dossier toujours en attente, 6e trilogue attendu en septembre",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif depuis le vote du 9 juillet (déjà coté) : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'en avril 2028, et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'effondrement du 5e trilogue de fin juin. Le 6e trilogue est attendu en septembre sous présidence irlandaise, réputée favorable au camp pro-scan ; protection du chiffrement et nature obligatoire ou volontaire des ordres de détection restent ouvertes. chat-control inchangé.",
+      "title": "Chat Control / CSAR : statu quo, 6e trilogue toujours attendu le 29 septembre",
+      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif depuis le vote du 9 juillet (déjà coté) : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur du 3 août jusqu'au 3 avril 2028, et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'effondrement du 5e trilogue de fin juin. Le 6e trilogue est attendu le 29 septembre sous présidence irlandaise, réputée favorable au camp pro-scan ; protection du chiffrement et caractère obligatoire ou volontaire des ordres de détection restent ouverts. chat-control inchangé.",
       "affects": []
     },
     {
-      "id": "src-3",
+      "id": "src-2",
       "name": "Freshfields",
       "date": "2026-08-16",
       "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
       "title": "Euro numérique : trilogues au stade initial après la trêve estivale, écarts persistants",
       "summary": "Suivi de procédure sans impact. Le premier trilogue s'est tenu le 13 juillet (déjà coté) et les sessions reprennent, encore à un stade précoce ; Conseil et Parlement, mandats arrêtés, restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, pilote BCE de 36 prestataires visé en septembre 2027, émission possible en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
+      "affects": []
+    },
+    {
+      "id": "src-3",
+      "name": "Quantum Computing Report",
+      "date": "2026-08-19",
+      "url": "https://quantumcomputingreport.com/news/",
+      "title": "Quantique : avancées incrémentales, aucun calculateur au seuil cryptographiquement pertinent",
+      "summary": "Suivi sans impact. Les développements récents (dont une porte à deux qubits « dual-rail » supraconducteurs publiée par D-Wave dans Nature le 6 août et divers partenariats quantum-safe) relèvent de progrès matériels incrémentaux, sans lien avec le déchiffrement et très loin du seuil cryptographiquement pertinent ; aucun calculateur pertinent n'existe en 2026. Aucun engagement étatique nouveau depuis les décrets US du 22 juin (déjà cotés) ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
       "affects": []
     }
   ]
