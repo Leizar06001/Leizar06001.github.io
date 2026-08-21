@@ -1,0 +1,13 @@
+=== Veille 2026-08-21 : 2026-08-21T03:30:01+02:00 ===
+Fait. **Jour calme (vendredi 21 août 2026) — 0 modifiée, 0 nouvelle.**
+
+Le balayage des dix domaines n'a révélé aucun fait matériel dans les 48 h :
+- **Surveillance** : Chat Control/CSAR 2.0 toujours sans accord, prochain trilogue le 29 septembre — statu quo déjà coté.
+- **Monnaie** : euro numérique en trilogues, mandats arrêtés mais aucun texte de compromis.
+- **Traçabilité** : facturation électronique FR à J-11 — décret/arrêté du 27 juillet précisent les modalités sans étendre le périmètre.
+- **Identité/EUDI, crypto/AMLR, IA (AI Act), quantique, énergie, plateformes, climat** : que des suivis de procédure ou des avancées incrémentales déjà intégrés.
+
+Modifications apportées, rien d'autre touché :
+- `state.json` : `last_updated → 2026-08-21`, `sources_today` remplacé par 4 sources du jour (toutes `affects: []`), `today_summary` inchangé (stable 25, trend flat, « Jour calme »). Toutes les `prob` inchangées.
+- `changelog.md` : entrée du 2026-08-21 ajoutée en tête. JSON validé.
+OK · édition 2026-08-21 · 37 éditions au total

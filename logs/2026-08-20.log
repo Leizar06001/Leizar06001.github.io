@@ -10,3 +10,10 @@ Modifications apportées :
 - `state.json` : `last_updated → 2026-08-20`, `today_summary` maintenu (0/0, 25 stables, trend flat, « Jour calme »), `sources_today` remplacé par 3 sources de suivi (`affects: []`). Toutes les `prob` inchangées. JSON validé.
 - `changelog.md` : nouvelle entrée en tête `## 2026-08-20 — 0 modifiée, 0 nouvelle` avec 3 puces sourcées.
 OK · édition 2026-08-20 · 36 éditions au total
+[main 3ebcf0a] veille 2026-08-20
+ 8 files changed, 610 insertions(+), 21 deletions(-)
+ create mode 100644 logs/2026-08-20.log
+ create mode 100644 posts/veille-2026-08-20.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   d2c9474..3ebcf0a  main -> main
+Publié.

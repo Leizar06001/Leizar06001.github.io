@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -535,28 +535,37 @@
     {
       "id": "src-1",
       "name": "State of Surveillance",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR : statu quo, prochain trilogue attendu le 29 septembre",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif depuis le vote du 9 juillet (déjà coté) : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur du 3 août jusqu'au 3 avril 2028, et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord. Le prochain trilogue est attendu le 29 septembre sous présidence irlandaise ; la protection du chiffrement et le retrait de la vérification d'âge sont acquis, mais le caractère obligatoire ou volontaire et ciblé ou de masse des ordres de détection reste ouvert. chat-control inchangé.",
+      "title": "Chat Control / CSAR : statu quo, prochain trilogue toujours calé au 29 septembre",
+      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif nouveau : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur du 3 août au 3 avril 2028 (déjà cotée), et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord. Le prochain trilogue est attendu le 29 septembre sous présidence irlandaise ; la protection du chiffrement de bout en bout et le retrait de la vérification d'âge sont acquis, seul le caractère obligatoire ou volontaire et ciblé ou de masse des ordres de détection reste à trancher. chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "Dutch Payments Association",
-      "date": "2026-08-20",
-      "url": "https://www.betaalvereniging.nl/en/news/eu-trilogue-digital-euro-begins/",
-      "title": "Euro numérique : reprise des trilogues après la trêve, écarts persistants",
-      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les sessions reprennent après la pause estivale, encore à un stade précoce ; Conseil et Parlement, mandats arrêtés, restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, première émission possible en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
+      "name": "Freshfields",
+      "date": "2026-08-21",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
+      "title": "Euro numérique : trilogues en cours, mandats arrêtés mais écarts persistants",
+      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations se poursuivent à la rentrée ; Conseil et Parlement ont finalisé leurs mandats mais restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, première émission visée en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-3",
+      "name": "Compta-Online / DGFiP",
+      "date": "2026-08-21",
+      "url": "https://www.compta-online.com/facturation-electronique-ao5562",
+      "title": "Facturation électronique FR : décret et arrêté du 27 juillet, cadre confirmé à J-11",
+      "summary": "Suivi de procédure sans impact. À onze jours de l'obligation du 1er septembre (réception pour toutes les entreprises assujetties, émission GE/ETI), le décret et l'arrêté du 27 juillet 2026 précisent les modalités techniques de la réforme sans en étendre le périmètre : simple mise en œuvre du dispositif déjà arrêté, aucune extension du croisement fiscal ou bancaire. facturation-ereporting inchangé.",
+      "affects": []
+    },
+    {
+      "id": "src-4",
       "name": "Quantum Computing Report",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "url": "https://quantumcomputingreport.com/news/",
       "title": "Quantique : avancées incrémentales, aucun calculateur au seuil cryptographiquement pertinent",
-      "summary": "Suivi sans impact. Les développements récents (porte à deux qubits « dual-rail » supraconducteurs publiée par D-Wave dans Nature le 6 août, partenariats quantum-safe type enQase/Light Rider, corrections d'erreurs) relèvent de progrès matériels incrémentaux, sans lien avec le déchiffrement et très loin du seuil cryptographiquement pertinent ; aucun calculateur pertinent n'existe en 2026. Aucun engagement étatique nouveau depuis les décrets US du 22 juin (déjà cotés) ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
+      "summary": "Suivi sans impact. Les développements récents (porte « dual-rail » supraconductrice D-Wave du 6 août, partenariats quantum-safe, corrections d'erreurs) relèvent de progrès matériels incrémentaux, sans lien avec le déchiffrement et très loin du seuil cryptographiquement pertinent ; aucun calculateur pertinent n'existe en 2026. Aucun engagement étatique nouveau depuis les décrets US du 22 juin (déjà cotés) ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
       "affects": []
     }
   ]
