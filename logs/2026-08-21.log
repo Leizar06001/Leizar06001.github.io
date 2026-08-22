@@ -11,3 +11,10 @@ Modifications apportées, rien d'autre touché :
 - `state.json` : `last_updated → 2026-08-21`, `sources_today` remplacé par 4 sources du jour (toutes `affects: []`), `today_summary` inchangé (stable 25, trend flat, « Jour calme »). Toutes les `prob` inchangées.
 - `changelog.md` : entrée du 2026-08-21 ajoutée en tête. JSON validé.
 OK · édition 2026-08-21 · 37 éditions au total
+[main e901466] veille 2026-08-21
+ 8 files changed, 628 insertions(+), 21 deletions(-)
+ create mode 100644 logs/2026-08-21.log
+ create mode 100644 posts/veille-2026-08-21.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   3ebcf0a..e901466  main -> main
+Publié.
