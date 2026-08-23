@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -535,37 +535,37 @@
     {
       "id": "src-1",
       "name": "State of Surveillance",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR : statu quo, prochain trilogue toujours calé au 29 septembre",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif nouveau : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur du 3 août au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord. Prochain trilogue attendu le 29 septembre sous présidence irlandaise ; la protection du chiffrement de bout en bout et le retrait de la vérification d'âge sont acquis, seul le caractère obligatoire/volontaire et ciblé/de masse des ordres de détection reste à trancher. chat-control inchangé.",
+      "title": "Chat Control / CSAR : statu quo, prochain trilogue calé au 29 septembre",
+      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif nouveau ce week-end : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur du 3 août au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord. Prochain trilogue attendu le 29 septembre sous présidence irlandaise ; la protection du chiffrement de bout en bout et le retrait de la vérification d'âge sont acquis, seul le caractère obligatoire/volontaire et ciblé/de masse des ordres de détection reste à trancher. chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "Freshfields",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
-      "title": "Euro numérique : trilogues en cours, mandats arrêtés mais écarts persistants",
-      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations reprennent à la rentrée ; Conseil et Parlement ont finalisé leurs mandats mais restent éloignés sur les points clés (limites de détention testées jusqu'à 3 000 €, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, émission visée en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
+      "title": "Euro numérique : trilogues repris à la rentrée, mandats arrêtés mais écarts persistants",
+      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations reprennent après la trêve estivale ; Conseil et Parlement ont finalisé leurs mandats mais restent éloignés sur les points clés (limites de détention testées dans une fourchette ~1 500-3 000 €, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, émission visée en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Biometric Update",
-      "date": "2026-08-22",
-      "url": "https://www.biometricupdate.com/202608/germanys-eudi-wallet-push-highlights-europes-implementation-gap",
-      "title": "EUDI : la poussée allemande souligne l'écart de mise en œuvre en Europe",
-      "summary": "Suivi sans impact. À l'approche de l'échéance de fin 2026, l'Allemagne intensifie sandboxes, hackathons et engagement industriel vers son calendrier de janvier 2027, mais le déploiement reste très inégal : Pays-Bas annonçant un retard probable, Malte tablant sur un produit disponible mais non pleinement fonctionnel, Bulgarie n'ayant pas encore commencé. Analyse de calendrier sans acte d'exécution nouveau ⇒ eudi-wallet / eudi-prive inchangés.",
+      "name": "Network World",
+      "date": "2026-08-23",
+      "url": "https://www.networkworld.com/article/4202800/ai-data-centers-in-the-us-may-face-power-cuts-under-pjm-reliability-proposal.html",
+      "title": "Énergie/compute : cadre PJM « Bring Your Own New Generation », datacenters ≥ 50 MW délestés en priorité",
+      "summary": "Suivi sans impact. Le dispositif de fiabilité PJM (BYONG : tout ajout de charge ≥ 50 MW doit apporter sa propre production nouvelle sous peine de curtailment prioritaire ; guichet accéléré visé août 2026, échéance de sécurisation d'une production dédiée ~mars 2027) se précise, sur fond de déficit projeté ~6,6 GW en 2027-2028 tiré par les datacenters. Encadrement de marché sous supervision FERC, sans fait matériel au sens de la veille ⇒ energie-compute (signal narratif sans cote) inchangé.",
       "affects": []
     },
     {
       "id": "src-4",
       "name": "Quantum Computing Report",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "url": "https://quantumcomputingreport.com/news/",
       "title": "Quantique : avancées incrémentales, aucun calculateur au seuil cryptographiquement pertinent",
-      "summary": "Suivi sans impact. Les développements récents (porte « dual-rail » supraconductrice D-Wave du 6 août, qubits tantale à basse température de Cornell du 19 août, partenariats quantum-safe) relèvent de progrès matériels incrémentaux, sans lien avec le déchiffrement et très loin du seuil cryptographiquement pertinent ; aucun calculateur pertinent n'existe en 2026. Aucun engagement étatique nouveau depuis les décrets US du 22 juin (déjà cotés) ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
+      "summary": "Suivi sans impact. Les développements récents (porte « dual-rail » supraconductrice D-Wave, qubits tantale à basse température de Cornell du 19 août, partenariats quantum-safe) relèvent de progrès matériels incrémentaux, sans lien avec le déchiffrement et très loin du seuil cryptographiquement pertinent ; aucun calculateur pertinent n'existe en 2026. Aucun engagement étatique nouveau depuis les décrets US du 22 juin (déjà cotés) ⇒ fenêtre « Q-Day » et plans PQC inchangés.",
       "affects": []
     }
   ]
