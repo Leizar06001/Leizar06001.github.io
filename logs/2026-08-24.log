@@ -1,0 +1,8 @@
+=== Veille 2026-08-24 : 2026-08-24T03:30:01+02:00 ===
+Fait. Journée calme du lundi 24 août 2026 : aucun fait matériel dans les 48 h sur l'ensemble des domaines.
+
+- **`state.json`** : `last_updated` → 2026-08-24, `today_summary` inchangé (0 modifiée, 0 nouvelle, 25 stables, trend `flat`, « Jour calme »), toutes les probabilités laissées à l'identique. `sources_today` entièrement remplacé par 4 sources datées du jour (Chat Control/CSAR, euro numérique, AI Act, facturation FR), toutes en suivi de procédure `affects: []`. JSON validé.
+- **`changelog.md`** : nouvelle entrée en tête résumant le balayage sans fait déclencheur et les suivis sans impact (surveillance, monnaie, traçabilité à J-8, IA, quantique, climat).
+
+Points de vigilance à venir : obligation facturation FR au 1er septembre (J-8), reprise des trilogues (euro numérique et 6e trilogue Chat Control) en septembre.
+OK · édition 2026-08-24 · 40 éditions au total
