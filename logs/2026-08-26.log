@@ -1,0 +1,6 @@
+=== Veille 2026-08-26 : 2026-08-26T03:30:01+02:00 ===
+Terminé. Journée calme (mercredi 2026-08-26) : balayage de tous les domaines, aucun fait matériel dans les 48 h.
+
+- **`state.json`** : `last_updated` → 2026-08-26, `today_summary` inchangé (0 modifiée, 0 nouvelle, trend flat « Jour calme »), `sources_today` entièrement remplacé par les 4 sources de suivi du jour (`affects: []` — Chat Control, euro numérique, AI Act, facturation FR à J-6). Aucune probabilité touchée. JSON validé.
+- **`changelog.md`** : entrée en tête `## 2026-08-26 — 0 modifiée, 0 nouvelle` avec 3 puces de suivi procédural sans impact.
+OK · édition 2026-08-26 · 42 éditions au total

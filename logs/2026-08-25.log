@@ -8,3 +8,10 @@ Balayage complet des domaines : aucun fait matériel dans les 48 h. Ce qui remon
 
 Toutes les `prob` inchangées. `state.json` (`last_updated` → 2026-08-25, `sources_today` remplacé, 25 signaux stables, trend « Jour calme ») et `changelog.md` mis à jour. JSON validé.
 OK · édition 2026-08-25 · 41 éditions au total
+[main daca848] veille 2026-08-25
+ 8 files changed, 620 insertions(+), 25 deletions(-)
+ create mode 100644 logs/2026-08-25.log
+ create mode 100644 posts/veille-2026-08-25.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   9ce8611..daca848  main -> main
+Publié.
