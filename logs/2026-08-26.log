@@ -4,3 +4,10 @@ Terminé. Journée calme (mercredi 2026-08-26) : balayage de tous les domaines, 
 - **`state.json`** : `last_updated` → 2026-08-26, `today_summary` inchangé (0 modifiée, 0 nouvelle, trend flat « Jour calme »), `sources_today` entièrement remplacé par les 4 sources de suivi du jour (`affects: []` — Chat Control, euro numérique, AI Act, facturation FR à J-6). Aucune probabilité touchée. JSON validé.
 - **`changelog.md`** : entrée en tête `## 2026-08-26 — 0 modifiée, 0 nouvelle` avec 3 puces de suivi procédural sans impact.
 OK · édition 2026-08-26 · 42 éditions au total
+[main c2140e0] veille 2026-08-26
+ 8 files changed, 611 insertions(+), 20 deletions(-)
+ create mode 100644 logs/2026-08-26.log
+ create mode 100644 posts/veille-2026-08-26.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   daca848..c2140e0  main -> main
+Publié.

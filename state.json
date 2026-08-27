@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -534,38 +534,38 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "State of Surveillance",
-      "date": "2026-08-26",
-      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR : statu quo estival, 6e trilogue calé au 29 septembre",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif depuis le vote du 9 juillet : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur du 3 août au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'échec du 5e trilogue du 29 juin. Prochain (6e) round attendu le 29 septembre sous présidence irlandaise ; protection du chiffrement de bout en bout et retrait de la vérification d'âge acquis, seul le caractère obligatoire/volontaire et ciblé/de masse des ordres de détection reste à trancher. chat-control inchangé.",
+      "name": "Compta-Online / DGFiP",
+      "date": "2026-08-27",
+      "url": "https://www.compta-online.com/facturation-electronique-ao5562",
+      "title": "Facturation électronique FR : obligation du 1er septembre confirmée sans report (J-5)",
+      "summary": "Suivi sans impact. À cinq jours de l'échéance, la DGFiP maintient l'absence de tout report, ni sur l'e-invoicing ni sur l'e-reporting : au 1er septembre, réception obligatoire pour toutes les entreprises et émission pour GE/ETI ; TPE/PME au 1er sept. 2027. Sanctions annoncées « ni immédiates ni automatiques » (droit à l'erreur, entreprise non conforme d'abord contactée) mais calendrier légal inchangé, sans extension de périmètre ⇒ facturation-ereporting inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "Freshfields",
-      "date": "2026-08-26",
-      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
-      "title": "Euro numérique : trilogues en cours après la trêve, mandats arrêtés mais écarts persistants",
-      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations se poursuivent après la trêve estivale ; Conseil et Parlement ont finalisé leurs mandats mais restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, pilote BCE (36 PSP) prévu en septembre 2027, émission possible en 2029. Aucun texte de compromis publié : euro-num-emission / euro-num-reglement inchangés.",
+      "name": "State of Surveillance",
+      "date": "2026-08-27",
+      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
+      "title": "Chat Control / CSAR : statu quo estival, 6e trilogue attendu en septembre",
+      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif depuis le vote du 9 juillet : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'échec du 5e trilogue du 29 juin. 6e round attendu en septembre sous présidence irlandaise (bloc pro-scan) ; protection du chiffrement de bout en bout et retrait de la vérification d'âge acquis, seul le caractère obligatoire/volontaire et ciblé/de masse des ordres de détection reste à trancher ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Commission UE (Shaping Europe's digital future)",
-      "date": "2026-08-26",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
-      "title": "AI Act : applicabilité haut-risque/biométrie et transparence du 2 août déjà actée, mise en œuvre en cours",
-      "summary": "Suivi sans impact. Depuis le 2 août 2026, les règles haut-risque, les interdictions biométriques et les obligations de transparence (marquage des deepfakes, divulgation des chatbots) sont applicables et l'AI Office coordonne l'enforcement avec les autorités nationales, amendes jusqu'à 35 M€ ou 7 % du CA mondial (15 M€ / 3 % pour la transparence et les modèles à usage général). Jalon déjà coté ; pas de nouvel acte d'exécution ni de décision d'application ce jour ⇒ ai-act-haut-risque / defence-omnibus inchangés.",
+      "name": "Freshfields",
+      "date": "2026-08-27",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
+      "title": "Euro numérique : trilogues en cours après la trêve, mandats arrêtés mais écarts persistants",
+      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations se poursuivent après la trêve estivale ; Conseil et Parlement ont finalisé leurs mandats mais restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, pilote BCE (36 PSP) prévu en septembre 2027, émission possible en 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-4",
-      "name": "Compta-Online / DGFiP",
-      "date": "2026-08-26",
-      "url": "https://www.compta-online.com/facturation-electronique-ao5562",
-      "title": "Facturation électronique FR : obligation du 1er septembre confirmée sans report (J-6)",
-      "summary": "Suivi sans impact. À six jours de l'échéance, la DGFiP (S. Rabineau) réaffirme l'absence de tout report, ni sur l'e-invoicing ni sur l'e-reporting, et a relancé ~6 M de destinataires par courriel : au 1er septembre, réception obligatoire pour toutes les entreprises et émission pour GE/ETI ; TPE/PME au 1er sept. 2027. Tolérance sur les sanctions au démarrage mais « ni report ni suspension » du calendrier légal, sans extension de périmètre ⇒ facturation-ereporting inchangé.",
+      "name": "Quantum Computing Report",
+      "date": "2026-08-27",
+      "url": "https://quantumcomputingreport.com/news/",
+      "title": "Quantique : avancées incrémentales, aucun calculateur au seuil cryptographiquement pertinent",
+      "summary": "Suivi sans impact. Progrès continus sur la correction d'erreurs (suppression exponentielle démontrée en 2026) et briques matérielles — porte « dual-rail » D-Wave (Nature, 6 août), qubits tantale Cornell — mais aucun calculateur quantique cryptographiquement pertinent n'existe, les plus grandes machines restant à plusieurs générations du seuil de rupture RSA/ECC. Feuilles de route et migration PQC (décrets US du 22 juin déjà cotés) sans nouveau fait matériel étatique ⇒ q-day / cnsa2 / pqc-plans inchangés.",
       "affects": []
     }
   ]
