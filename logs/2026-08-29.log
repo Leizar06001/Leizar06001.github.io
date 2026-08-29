@@ -1,0 +1,11 @@
+=== Veille 2026-08-29 : 2026-08-29T03:30:01+02:00 ===
+Terminé. Journée calme du samedi 2026-08-29 — aucun fait matériel dans les 48 h.
+
+**Résumé de la mise à jour :**
+- **0 modifiée, 0 nouvelle** — toutes les probabilités inchangées.
+- `state.json` : `last_updated` → 2026-08-29 ; `today_summary` maintenu (stable 25, trend flat, « Jour calme ») ; `sources_today` remplacé par les 4 sources de suivi du jour (facturation FR à J-3, Chat Control/CSAR, euro numérique, quantique), toutes en `affects: []`.
+- `changelog.md` : nouvelle entête en tête avec 3 puces de suivi sans impact.
+- JSON revalidé (strictement valide).
+
+Rien d'autre n'a été touché (ni `build.py`, ni `style.css`, ni les pages HTML).
+OK · édition 2026-08-29 · 44 éditions au total
