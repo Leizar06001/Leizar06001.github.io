@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-29",
+  "last_updated": "2026-08-30",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -534,17 +534,17 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "AMF / DGFiP",
-      "date": "2026-08-29",
-      "url": "https://www.amf.asso.fr/documents-facturation-electronique-ce-qui-change-partir-du-1er-septembre-2026/42924",
-      "title": "Facturation électronique FR : ce qui change au 1er septembre, échéance maintenue (J-3)",
-      "summary": "Suivi sans impact. À trois jours de l'échéance, le calendrier légal reste inchangé et sans report : au 1er septembre, réception obligatoire pour toutes les entreprises et émission pour GE/ETI ; TPE/PME au 1er sept. 2027. Communication pédagogique de dernière minute (logigramme DGFiP, relance de ~6 M de destinataires) mais aucune extension de périmètre ⇒ facturation-ereporting inchangé.",
+      "name": "Service-Public / DGFiP",
+      "date": "2026-08-30",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A18788",
+      "title": "Facturation électronique FR : échéance du 1er septembre maintenue, dernière ligne droite (J-2)",
+      "summary": "Suivi sans impact. À deux jours de l'échéance, l'administration confirme sans ambiguïté l'absence de report, côté e-invoicing comme e-reporting : au 1er septembre, réception obligatoire pour toutes les entreprises assujetties à la TVA et émission pour GE/ETI ; TPE/PME au 1er sept. 2027. Sanctions non automatiques au lancement (prise en compte des difficultés techniques), communication pédagogique de dernière minute (vidéo, outil interactif DGFiP) mais aucune extension de périmètre ⇒ facturation-ereporting inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "State of Surveillance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
       "title": "Chat Control / CSAR : statu quo estival, 6e trilogue attendu en septembre",
       "summary": "Suivi de procédure sans impact. Aucun mouvement législatif depuis le vote du 9 juillet : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'échec du 5e trilogue du 29 juin. 6e round attendu en septembre sous présidence irlandaise (bloc pro-scan) ; protection du chiffrement de bout en bout et retrait de la vérification d'âge acquis, seul le caractère obligatoire/volontaire et ciblé/de masse des ordres de détection reste à trancher ⇒ chat-control inchangé.",
@@ -552,9 +552,9 @@
     },
     {
       "id": "src-3",
-      "name": "Table.Briefings",
-      "date": "2026-08-29",
-      "url": "https://table.media/en/europe/news/digital-sovereignty-the-trilogue-on-the-digital-euro-can-begin",
+      "name": "Freshfields",
+      "date": "2026-08-30",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
       "title": "Euro numérique : trilogues en cours après la trêve, mandats arrêtés mais écarts persistants",
       "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations se poursuivent après la trêve estivale ; Conseil et Parlement ont finalisé leurs mandats mais restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, pilote BCE prévu en 2027, lancement visé au 1er janvier 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
@@ -562,10 +562,10 @@
     {
       "id": "src-4",
       "name": "Quantum Computing Report",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "url": "https://quantumcomputingreport.com/news/",
       "title": "Quantique : avancées incrémentales, aucun calculateur au seuil cryptographiquement pertinent",
-      "summary": "Suivi sans impact. Progrès continus sur les qubits logiques et la correction d'erreurs (démonstrations IBM ~70 qubits logiques, Atom Computing) mais aucun calculateur quantique cryptographiquement pertinent n'existe, les plus grandes machines restant à plusieurs générations du seuil de rupture RSA/ECC. Feuilles de route et migration PQC (décrets US du 22 juin déjà cotés) sans nouveau fait matériel étatique ⇒ q-day / cnsa2 / pqc-plans inchangés.",
+      "summary": "Suivi sans impact. Progrès continus sur les qubits logiques et la correction d'erreurs (démonstration IBM/UChicago ~70 qubits logiques) ; côté migration, lancement d'initiatives PQC bi-agences aux États-Unis (GSA, Treasury) et première validation FIPS 140-3 niveau 3 d'un HSM quantum-safe (Crypto4A). Mais aucun calculateur quantique cryptographiquement pertinent n'existe, les plus grandes machines restant à plusieurs générations du seuil de rupture RSA/ECC, et ces jalons de conformité ne constituent pas un fait matériel étatique nouveau (décrets US du 22 juin déjà cotés) ⇒ q-day / cnsa2 / pqc-plans inchangés.",
       "affects": []
     }
   ]

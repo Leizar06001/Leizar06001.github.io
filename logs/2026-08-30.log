@@ -1,0 +1,8 @@
+=== Veille 2026-08-30 : 2026-08-30T03:30:01+02:00 ===
+Fait. Journée du **2026-08-30** (dimanche) : aucun fait matériel dans les 48 h après balayage de tous les domaines ⇒ toutes les probabilités inchangées.
+
+- `state.json` : `last_updated` → 2026-08-30, `today_summary` inchangé (0 modifiée, 0 nouvelle, trend flat, « Jour calme »), `sources_today` entièrement remplacé par les 4 sources du jour (toutes `affects: []`, suivi sans impact — facturation FR J-2, Chat Control/CSAR, euro numérique, quantique). JSON validé.
+- `changelog.md` : nouvelle entrée en tête `## 2026-08-30 — 0 modifiée, 0 nouvelle` avec trois puces de synthèse.
+
+Point de vigilance pour demain/après-demain : échéance **facturation électronique du 1er septembre** (mardi) — premier fait matériel potentiel de la semaine.
+OK · édition 2026-08-30 · 45 éditions au total
