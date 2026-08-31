@@ -1,0 +1,8 @@
+=== Veille 2026-08-31 : 2026-08-31T03:30:01+02:00 ===
+Fait. Journée du 2026-08-31 traitée comme **jour calme** : aucun fait matériel dans les 48 h après balayage de tous les domaines.
+
+- **`state.json`** : `last_updated` → 2026-08-31, `today_summary` inchangé (0 modifiée, 0 nouvelle, 25 stables, trend flat, « Jour calme »), `sources_today` entièrement remplacé par 4 sources de suivi (facturation FR à J-1, Chat Control/CSAR, euro numérique, quantique/PQC), toutes `affects: []`. JSON validé.
+- **`changelog.md`** : nouvelle entrée en tête.
+
+Aucune probabilité touchée (garde-fou respecté : pas de fait déclencheur matériel et sourcé). Points saillants confirmés comme déjà cotés ou procéduraux : e-invoicing du 1er sept. maintenu sans report, CSAR 2.0 toujours sans accord (6e trilogue le 29 sept.), trilogues euro numérique en cours, avancées quantiques incrémentales sous le seuil cryptographique.
+OK · édition 2026-08-31 · 46 éditions au total

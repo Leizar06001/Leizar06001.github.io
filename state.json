@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-08-31",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -535,37 +535,37 @@
     {
       "id": "src-1",
       "name": "Service-Public / DGFiP",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "url": "https://entreprendre.service-public.gouv.fr/actualites/A18788",
-      "title": "Facturation électronique FR : échéance du 1er septembre maintenue, dernière ligne droite (J-2)",
-      "summary": "Suivi sans impact. À deux jours de l'échéance, l'administration confirme sans ambiguïté l'absence de report, côté e-invoicing comme e-reporting : au 1er septembre, réception obligatoire pour toutes les entreprises assujetties à la TVA et émission pour GE/ETI ; TPE/PME au 1er sept. 2027. Sanctions non automatiques au lancement (prise en compte des difficultés techniques), communication pédagogique de dernière minute (vidéo, outil interactif DGFiP) mais aucune extension de périmètre ⇒ facturation-ereporting inchangé.",
+      "title": "Facturation électronique FR : dernier jour avant l'obligation du 1er septembre (J-1)",
+      "summary": "Suivi sans impact. La veille de l'échéance, l'administration réaffirme sans ambiguïté l'absence de report, sur l'e-invoicing comme sur l'e-reporting : au 1er septembre, réception obligatoire pour toutes les entreprises assujetties à la TVA et émission pour GE/ETI ; TPE/PME au 1er sept. 2027. Tolérance de démarrage (sanctions non mécaniques pour les entreprises engagées de bonne foi) mais « ni report ni suspension », calendrier légal figé et aucune extension de périmètre ⇒ facturation-ereporting inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "State of Surveillance",
-      "date": "2026-08-30",
-      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR : statu quo estival, 6e trilogue attendu en septembre",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement législatif depuis le vote du 9 juillet : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'échec du 5e trilogue du 29 juin. 6e round attendu en septembre sous présidence irlandaise (bloc pro-scan) ; protection du chiffrement de bout en bout et retrait de la vérification d'âge acquis, seul le caractère obligatoire/volontaire et ciblé/de masse des ordres de détection reste à trancher ⇒ chat-control inchangé.",
+      "name": "EDRi / Fight Chat Control",
+      "date": "2026-08-31",
+      "url": "https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/",
+      "title": "Chat Control / CSAR : aucun mouvement, 6e trilogue attendu fin septembre",
+      "summary": "Suivi de procédure sans impact. Rien de neuf depuis le 9 juillet : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur du 3 août 2026 au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'échec du 5e trilogue du 29 juin. 6e round attendu le 29 septembre sous présidence irlandaise ; protection du chiffrement de bout en bout et retrait de la vérification d'âge acquis, seul le caractère obligatoire/volontaire et ciblé/de masse des ordres de détection reste à trancher ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Freshfields",
-      "date": "2026-08-30",
-      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
-      "title": "Euro numérique : trilogues en cours après la trêve, mandats arrêtés mais écarts persistants",
-      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations se poursuivent après la trêve estivale ; Conseil et Parlement ont finalisé leurs mandats mais restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord politique avant fin 2026, pilote BCE prévu en 2027, lancement visé au 1er janvier 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
+      "name": "DIGITALEUROPE",
+      "date": "2026-08-31",
+      "url": "https://www.digitaleurope.org/news/from-vision-to-value-recommendations-for-the-digital-euro-trilogues/",
+      "title": "Euro numérique : trilogues post-trêve, contributions des parties prenantes mais écarts persistants",
+      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations reprennent après la trêve estivale ; DIGITALEUROPE publie début août ses recommandations (compensation des distributeurs, limites de détention calibrées sur la stabilité financière, calendrier d'émission clair), signe que le débat reste ouvert. Conseil et Parlement ont arrêté leurs mandats mais restent éloignés sur les points clés ; objectif d'accord avant fin 2026, pilote BCE (36 PSP) en septembre 2027, lancement visé 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-4",
-      "name": "Quantum Computing Report",
-      "date": "2026-08-30",
-      "url": "https://quantumcomputingreport.com/news/",
-      "title": "Quantique : avancées incrémentales, aucun calculateur au seuil cryptographiquement pertinent",
-      "summary": "Suivi sans impact. Progrès continus sur les qubits logiques et la correction d'erreurs (démonstration IBM/UChicago ~70 qubits logiques) ; côté migration, lancement d'initiatives PQC bi-agences aux États-Unis (GSA, Treasury) et première validation FIPS 140-3 niveau 3 d'un HSM quantum-safe (Crypto4A). Mais aucun calculateur quantique cryptographiquement pertinent n'existe, les plus grandes machines restant à plusieurs générations du seuil de rupture RSA/ECC, et ces jalons de conformité ne constituent pas un fait matériel étatique nouveau (décrets US du 22 juin déjà cotés) ⇒ q-day / cnsa2 / pqc-plans inchangés.",
+      "name": "MIT Technology Review / The Quantum Insider",
+      "date": "2026-08-31",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "title": "Quantique : « harvest now, decrypt later » et migration PQC, aucun calculateur au seuil pertinent",
+      "summary": "Suivi sans impact. Le débat d'août porte sur la migration PQC et la menace « harvest now, decrypt later » (année de la sécurité quantique portée par NIST/CISA/FBI), après la démonstration IBM/UChicago de ~70 qubits logiques de juillet. Mais aucun calculateur quantique cryptographiquement pertinent n'existe, les plus grandes machines restant à plusieurs générations du seuil de rupture RSA/ECC, et il s'agit d'analyses et de feuilles de route, non d'un fait matériel étatique nouveau (décrets US du 22 juin déjà cotés) ⇒ q-day / cnsa2 / pqc-plans inchangés.",
       "affects": []
     }
   ]
