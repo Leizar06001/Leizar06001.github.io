@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 25,
     "trend": "flat",
-    "trend_label": "Jour calme"
+    "trend_label": "Facturation électronique obligatoire en vigueur (FR), cotes inchangées"
   },
   "signals": [
     {
@@ -40,7 +40,7 @@
       "horizon": "T-0",
       "title": "Facturation élec. + e-reporting (FR)",
       "when": "1 sept 2026",
-      "status": "Réception obligatoire pour toutes ; émission GE/ETI.",
+      "status": "En vigueur depuis le 1er septembre 2026 : réception obligatoire pour toutes les entreprises assujetties à la TVA (via plateforme agréée) et émission pour GE/ETI ; TPE/PME au 1er sept. 2027. Tolérance de démarrage sur les sanctions mais aucun report ni extension de périmètre.",
       "is_bascule": false,
       "prob": null,
       "prob_range": null,
@@ -534,38 +534,38 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Service-Public / DGFiP",
-      "date": "2026-08-31",
-      "url": "https://entreprendre.service-public.gouv.fr/actualites/A18788",
-      "title": "Facturation électronique FR : dernier jour avant l'obligation du 1er septembre (J-1)",
-      "summary": "Suivi sans impact. La veille de l'échéance, l'administration réaffirme sans ambiguïté l'absence de report, sur l'e-invoicing comme sur l'e-reporting : au 1er septembre, réception obligatoire pour toutes les entreprises assujetties à la TVA et émission pour GE/ETI ; TPE/PME au 1er sept. 2027. Tolérance de démarrage (sanctions non mécaniques pour les entreprises engagées de bonne foi) mais « ni report ni suspension », calendrier légal figé et aucune extension de périmètre ⇒ facturation-ereporting inchangé.",
-      "affects": []
+      "name": "Urssaf / DGFiP",
+      "date": "2026-09-01",
+      "url": "https://www.urssaf.fr/accueil/actualites/facturation-electronique.html",
+      "title": "Facturation électronique FR : l'obligation entre en vigueur ce 1er septembre 2026",
+      "summary": "Fait matériel (jalon T-0 sans cote). L'obligation entre effectivement en vigueur aujourd'hui : toutes les entreprises assujetties à la TVA doivent désormais pouvoir recevoir des factures électroniques via une plateforme agréée, et les grandes entreprises et ETI doivent les émettre ; l'échéance émission des TPE/PME reste fixée au 1er sept. 2027. L'e-reporting des données de transaction vers l'administration démarre en parallèle. Une tolérance de démarrage s'applique aux sanctions pour les acteurs de bonne foi, mais sans report ni extension du périmètre fiscal ⇒ facturation-ereporting : statut actualisé (en vigueur), cote inchangée (signal T-0 sans cote).",
+      "affects": ["facturation-ereporting"]
     },
     {
       "id": "src-2",
-      "name": "EDRi / Fight Chat Control",
-      "date": "2026-08-31",
-      "url": "https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/",
-      "title": "Chat Control / CSAR : aucun mouvement, 6e trilogue attendu fin septembre",
-      "summary": "Suivi de procédure sans impact. Rien de neuf depuis le 9 juillet : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur du 3 août 2026 au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord après l'échec du 5e trilogue du 29 juin. 6e round attendu le 29 septembre sous présidence irlandaise ; protection du chiffrement de bout en bout et retrait de la vérification d'âge acquis, seul le caractère obligatoire/volontaire et ciblé/de masse des ordres de détection reste à trancher ⇒ chat-control inchangé.",
+      "name": "La Quadrature du Net / Stop Chat Control",
+      "date": "2026-09-01",
+      "url": "https://www.laquadrature.net/2025/10/03/chat-control-on-fait-le-point/",
+      "title": "Chat Control / CSAR : aucun mouvement, 6e trilogue attendu le 29 septembre",
+      "summary": "Suivi de procédure sans impact. Rien de neuf : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord depuis l'échec du 29 juin. 6e round attendu le 29 septembre sous présidence irlandaise ; protection du chiffrement de bout en bout et retrait de la vérification d'âge acquis, le Conseil poussant à pérenniser le scan volontaire et le caractère obligatoire/ciblé des ordres de détection (client-side) restant à trancher ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "DIGITALEUROPE",
-      "date": "2026-08-31",
-      "url": "https://www.digitaleurope.org/news/from-vision-to-value-recommendations-for-the-digital-euro-trilogues/",
-      "title": "Euro numérique : trilogues post-trêve, contributions des parties prenantes mais écarts persistants",
-      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations reprennent après la trêve estivale ; DIGITALEUROPE publie début août ses recommandations (compensation des distributeurs, limites de détention calibrées sur la stabilité financière, calendrier d'émission clair), signe que le débat reste ouvert. Conseil et Parlement ont arrêté leurs mandats mais restent éloignés sur les points clés ; objectif d'accord avant fin 2026, pilote BCE (36 PSP) en septembre 2027, lancement visé 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
+      "name": "Freshfields / Table.Briefings",
+      "date": "2026-09-01",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/digital-euro-enters-trilogues-what-the-councilparliament-positions-mean-for-ban-102nbx6",
+      "title": "Euro numérique : trilogues post-trêve, écarts persistants sur les points clés",
+      "summary": "Suivi de procédure sans impact. Après le premier trilogue du 13 juillet (déjà coté), les négociations reprennent à la rentrée ; Conseil et Parlement ont arrêté leurs mandats mais restent éloignés sur les points clés (limites de détention, modèle de compensation des intermédiaires, règles d'acceptation). Objectif d'accord avant fin 2026, pilote BCE (36 PSP) en 2027, lancement visé 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-4",
-      "name": "MIT Technology Review / The Quantum Insider",
-      "date": "2026-08-31",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "title": "Quantique : « harvest now, decrypt later » et migration PQC, aucun calculateur au seuil pertinent",
-      "summary": "Suivi sans impact. Le débat d'août porte sur la migration PQC et la menace « harvest now, decrypt later » (année de la sécurité quantique portée par NIST/CISA/FBI), après la démonstration IBM/UChicago de ~70 qubits logiques de juillet. Mais aucun calculateur quantique cryptographiquement pertinent n'existe, les plus grandes machines restant à plusieurs générations du seuil de rupture RSA/ECC, et il s'agit d'analyses et de feuilles de route, non d'un fait matériel étatique nouveau (décrets US du 22 juin déjà cotés) ⇒ q-day / cnsa2 / pqc-plans inchangés.",
+      "name": "Physics World / Quantum Zeitgeist",
+      "date": "2026-09-01",
+      "url": "https://physicsworld.com/a/new-findings-shorten-the-road-to-cryptographically-relevant-quantum-computers/",
+      "title": "Quantique : estimations resserrées vers 2029-2035, aucun calculateur au seuil pertinent",
+      "summary": "Suivi sans impact. Le débat de rentrée porte sur des réductions de ressources théoriques et l'accélération perçue vers un calculateur cryptographiquement pertinent (estimations resserrées ~2029-2035), après la démonstration IBM/UChicago de ~70 qubits logiques de juillet. Mais aucune machine au seuil de rupture RSA/ECC n'existe, les plus grands systèmes restant à plusieurs générations du seuil, et il s'agit d'analyses et de feuilles de route, non d'un fait matériel étatique nouveau (décrets US du 22 juin déjà cotés) ⇒ q-day / cnsa2 / pqc-plans inchangés.",
       "affects": []
     }
   ]
