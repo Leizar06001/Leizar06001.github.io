@@ -6,3 +6,10 @@ Terminé. Mise à jour du 2026-09-01 :
 - `sources_today` entièrement remplacé (4 sources datées d'aujourd'hui), `last_updated` = 2026-09-01, `today_summary` recalculé (0 changed / 0 new / 25 stable, trend `flat`), JSON validé.
 - Ligne ajoutée en tête de `changelog.md`.
 OK · édition 2026-09-01 · 47 éditions au total
+[main 76a19dd] veille 2026-09-01
+ 8 files changed, 627 insertions(+), 34 deletions(-)
+ create mode 100644 logs/2026-09-01.log
+ create mode 100644 posts/veille-2026-09-01.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   f85fb0b..76a19dd  main -> main
+Publié.

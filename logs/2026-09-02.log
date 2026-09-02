@@ -1,0 +1,15 @@
+=== Veille 2026-09-02 : 2026-09-02T03:30:01+02:00 ===
+Done. Both files updated for **2026-09-02**.
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.**
+
+Aucun fait matériel déclencheur dans les dernières 48 h. Le balayage de tous les domaines n'a relevé que des suivis de procédure et des narratifs déjà intégrés :
+- **Chat Control/CSAR 2.0** : statu quo, 6e trilogue attendu le 29 septembre.
+- **Euro numérique** : trilogues de rentrée, écarts persistants, aucun texte de compromis.
+- **Quantique** : réductions de ressources théoriques uniquement, aucun calculateur au seuil cryptographiquement pertinent.
+- **Jalons UE à venir** (Data Act 12 sept., Cyber Resilience Act 11 sept.) : approchent mais **pas encore applicables** — signalés pour suivi, sans effet aujourd'hui.
+
+Éditions effectuées :
+- `state.json` : `last_updated` → `2026-09-02` ; `today_summary` recalculé (25 stables, trend `flat`, `trend_label` = « Jour calme ») ; `sources_today` entièrement remplacé par 3 sources du jour (toutes `affects: []`). JSON validé, toutes les `prob` inchangées.
+- `changelog.md` : entrée ajoutée en tête.
+OK · édition 2026-09-02 · 48 éditions au total
