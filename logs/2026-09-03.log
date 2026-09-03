@@ -1,0 +1,11 @@
+=== Veille 2026-09-03 : 2026-09-03T03:30:01+02:00 ===
+Done. Mise à jour de la veille pour le **2026-09-03** terminée.
+
+**Résultat : jour calme — 0 signal modifié, 0 nouveau.** Le balayage des dix domaines n'a révélé aucun fait déclencheur matériel (vote, texte publié, décision de justice, étude majeure) dans les 48 h. Toutes les probabilités restent inchangées, conformément aux garde-fous.
+
+Ce qui a été édité :
+- **`state.json`** : `last_updated` → `2026-09-03` ; `today_summary` conservé (25 stables, tendance `flat`, « Jour calme ») ; `sources_today` entièrement remplacé par trois sources de suivi de procédure du jour (`affects: []`) — CSAR, euro numérique, EUDI/balayage. JSON validé.
+- **`changelog.md`** : nouvelle entrée en tête `## 2026-09-03 — 0 modifiée, 0 nouvelle` avec trois puces sourcées.
+
+Aucun autre fichier touché.
+OK · édition 2026-09-03 · 49 éditions au total

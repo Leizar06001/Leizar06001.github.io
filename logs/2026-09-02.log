@@ -13,3 +13,10 @@ Aucun fait matériel déclencheur dans les dernières 48 h. Le balayage de tous 
 - `state.json` : `last_updated` → `2026-09-02` ; `today_summary` recalculé (25 stables, trend `flat`, `trend_label` = « Jour calme ») ; `sources_today` entièrement remplacé par 3 sources du jour (toutes `affects: []`). JSON validé, toutes les `prob` inchangées.
 - `changelog.md` : entrée ajoutée en tête.
 OK · édition 2026-09-02 · 48 éditions au total
+[main 8857195] veille 2026-09-02
+ 8 files changed, 620 insertions(+), 37 deletions(-)
+ create mode 100644 logs/2026-09-02.log
+ create mode 100644 posts/veille-2026-09-02.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   76a19dd..8857195  main -> main
+Publié.
