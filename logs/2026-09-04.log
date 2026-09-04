@@ -1,0 +1,13 @@
+=== Veille 2026-09-04 : 2026-09-04T03:30:01+02:00 ===
+Done. Mise à jour du 2026-09-04 terminée — **jour calme, aucune probabilité modifiée**.
+
+**`state.json`**
+- `last_updated` → `2026-09-04`
+- `today_summary` inchangé et correct (0 modifiée / 0 nouvelle, 25 stables, `trend: flat`, `trend_label: "Jour calme"`)
+- `sources_today` entièrement remplacé par 3 sources du jour (toutes `affects: []`, suivi de procédure) : Chat Control/CSAR, euro numérique, et un balayage des jalons UE à venir + autres domaines
+- JSON validé (strict, 25 signaux, 3 sources)
+
+**`changelog.md`** : nouvelle entrée en tête `## 2026-09-04 — 0 modifiée, 0 nouvelle` avec 3 puces sourcées.
+
+Aucun fait déclencheur matériel dans les 48 h : les échéances proches (CRA 11 sept., Data Act 12 sept.) ne sont pas encore en vigueur, les dossiers surveillance/monnaie restent au stade des négociations sans texte de compromis, et les autres domaines (EUDI, IA, crypto, quantique, énergie, plateformes, climat) n'ont produit que du suivi de procédure ou du commentaire déjà intégré.
+OK · édition 2026-09-04 · 50 éditions au total
