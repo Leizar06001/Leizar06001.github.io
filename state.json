@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-05",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -535,28 +535,28 @@
     {
       "id": "src-1",
       "name": "State of Surveillance / suivi CSAR",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR : négociations d'automne, positions du Conseil encore mouvantes",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord depuis l'échec du 29 juin. Les négociations reprennent à l'automne sous présidence irlandaise ; les capitales ajustent encore leurs positions au sein des groupes de travail du Conseil (minorité de blocage suspendue à l'Allemagne), la protection du chiffrement de bout en bout et le retrait de la vérification d'âge restant acquis, le caractère obligatoire/ciblé des ordres de détection (client-side) demeurant le seul point dur ⇒ chat-control inchangé.",
+      "title": "Chat Control / CSAR : reprise d'automne sans accord, ordres de détection toujours le point dur",
+      "summary": "Suivi de procédure sans impact. Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord depuis l'échec du 29 juin. Les négociations reprennent à l'automne sous présidence irlandaise ; le Parlement tient sa ligne contre le scan indiscriminé, le Conseil refuse toujours de renoncer aux ordres de détection obligatoires (client-side), la protection du chiffrement de bout en bout et le retrait de la vérification d'âge restant acquis. Minorité de blocage encore suspendue à l'Allemagne, aucun texte de compromis ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "Freshfields",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/europes-digital-euro-heads-to-last-stage-of-negotiations-what-council-and-parl-102nbx6",
-      "title": "Euro numérique : dernière ligne droite des négociations, points clés encore ouverts",
+      "title": "Euro numérique : dernière ligne droite des trilogues, limites de détention toujours ouvertes",
       "summary": "Suivi de procédure sans impact. Les trilogues Conseil-Parlement se poursuivent à la rentrée après l'ouverture du 13 juillet (déjà cotée) ; les deux co-législateurs ont arrêté leurs mandats mais restent éloignés sur les limites de détention (simulations entre 500 et 3 000 €, autorité chargée du plafond disputée), le modèle de compensation des intermédiaires et les règles d'acceptation. Objectif d'accord avant fin 2026, pilote BCE en 2027, lancement visé 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-3",
       "name": "Freshfields / balayage des domaines",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/cyber-resilience-act-reporting-obligations-take-effect-on-11-september-2026-102nzmk",
       "title": "Balayage : jalons UE à venir non encore applicables, aucun fait matériel dans les 48 h",
-      "summary": "Suivi sans impact. Deux jalons UE approchent mais ne sont pas encore en vigueur : les obligations de signalement du Cyber Resilience Act (alerte précoce sous 24 h, notification sous 72 h) prennent effet le 11 septembre, et l'« accès par conception » du Data Act pour les produits connectés le 12 septembre — à surveiller, sans effet aujourd'hui. Balayage des autres domaines sans fait matériel : identité/EUDI (tracker de septembre, déploiement inégal à l'approche de l'échéance des 24 mois, aucun acte d'exécution nouveau), AI Act haut-risque/biométrie applicable depuis le 2 août (audits des dossiers techniques amorcés, déjà coté), crypto/AMLR (RTS de juillet, plein effet juillet 2027), quantique (progrès incrémentaux — record QuEra de janvier, ~70 qubits logiques IBM/UChicago de juillet déjà notés —, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (dispositif PJM de curtailment : période de commentaires close le 3 septembre, effet demandé au 12 octobre, aucune décision FERC), plateformes (enquête DSA X/Grok toujours en cours, aucune décision) et climat (études PIK/AMOC/permafrost de commentaire, déjà intégrées) ⇒ cotes inchangées.",
+      "summary": "Suivi sans impact. Deux jalons UE approchent mais ne sont pas encore en vigueur : les obligations de signalement du Cyber Resilience Act (alerte précoce sous 24 h, notification sous 72 h, plateforme de signalement unique) prennent effet le 11 septembre, et l'« accès par conception » du Data Act pour les produits connectés le 12 septembre — à surveiller, sans effet aujourd'hui. Balayage des autres domaines sans fait matériel : identité/EUDI (déploiement inégal à l'approche de l'échéance de fin 2026, Pays-Bas en retard annoncé, aucun acte d'exécution nouveau), AI Act haut-risque/biométrie applicable depuis le 2 août (déjà coté), crypto/AMLR (guichet d'agrément CASP, plein effet juillet 2027), quantique (progrès incrémentaux — record QuEra de janvier, ~70 qubits logiques IBM/UChicago de juillet déjà notés —, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (dispositif PJM de curtailment : commentaires clos le 3 septembre, effet demandé au 12 octobre, aucune décision FERC), plateformes (enquête DSA X/Grok toujours en cours, aucune décision) et climat (études permafrost/AMOC de commentaire, déjà intégrées) ⇒ cotes inchangées.",
       "affects": []
     }
   ]

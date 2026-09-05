@@ -1,0 +1,14 @@
+=== Veille 2026-09-05 : 2026-09-05T03:30:01+02:00 ===
+Done. Mise à jour du 2026-09-05 terminée — **jour calme, aucune probabilité modifiée**.
+
+**`state.json`**
+- `last_updated` → `2026-09-05`
+- `today_summary` inchangé (déjà `0` modifiée / `0` nouvelle, `stable: 25`, `trend: flat`, `trend_label: "Jour calme"`)
+- `sources_today` entièrement remplacé par 3 sources datées du jour (surveillance, euro numérique, balayage), toutes `affects: []` (suivi de procédure sans impact)
+- JSON revalidé : valide, 25 signaux, 3 sources
+
+**`changelog.md`**
+- Nouvelle entrée en tête : `## 2026-09-05 — 0 modifiée, 0 nouvelle` + 3 puces (balayage sans fait matériel, suivi CSAR/euro numérique, jalons CRA/Data Act non encore applicables et autres domaines inchangés).
+
+Aucun fait déclencheur matériel dans les 48 h : Chat Control/CSAR toujours sans accord, trilogues euro numérique sans texte de compromis, jalons CRA (11 sept.) et Data Act (12 sept.) pas encore en vigueur, PJM en attente de décision FERC — le tout déjà coté ou sans impact.
+OK · édition 2026-09-05 · 51 éditions au total
