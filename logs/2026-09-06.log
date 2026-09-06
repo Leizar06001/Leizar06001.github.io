@@ -1,0 +1,13 @@
+=== Veille 2026-09-06 : 2026-09-06T03:30:01+02:00 ===
+Done. Mise à jour du 2026-09-06 terminée.
+
+**Résultat : jour calme (dimanche) — 0 modifiée, 0 nouvelle.**
+
+Après balayage web de tous les domaines, aucun fait déclencheur matériel (vote, texte publié, décision de justice, étude majeure, annonce officielle, incident) daté du 5 ou 6 septembre. Les probabilités restent donc toutes inchangées, conformément aux garde-fous.
+
+Éditions effectuées :
+- **`state.json`** : `last_updated` → `2026-09-06` ; `today_summary` inchangé (25 signaux stables, trend `flat`, « Jour calme ») ; `sources_today` entièrement remplacé par 3 sources de suivi sans impact (`affects: []`) — CSAR/Chat Control, euro numérique, balayage des jalons UE imminents. JSON validé.
+- **`changelog.md`** : nouvelle entrée en tête résumant la journée calme et le suivi de procédure.
+
+Points de vigilance à surveiller cette semaine (pas encore en vigueur, donc non cotés) : signalement du **Cyber Resilience Act** au 11 septembre et « accès par conception » du **Data Act** au 12 septembre.
+OK · édition 2026-09-06 · 52 éditions au total
