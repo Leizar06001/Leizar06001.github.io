@@ -1,0 +1,15 @@
+=== Veille 2026-09-07 : 2026-09-07T03:30:01+02:00 ===
+Mise à jour terminée pour le **2026-09-07** (lundi).
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.** Aucun fait déclencheur matériel dans les 48 h sur l'ensemble des domaines. Toutes les probabilités restent inchangées, conformément aux garde-fous.
+
+**Ce que j'ai vérifié (tout procédural ou incrémental, donc sans impact) :**
+- **Surveillance** — Chat Control/CSAR 2.0 toujours sans accord depuis le 29 juin ; dérogation « scan volontaire » en vigueur jusqu'au 3 avril 2028 (déjà cotée). Négociations d'automne sous présidence irlandaise, minorité de blocage suspendue à l'Allemagne. Rien de nouveau.
+- **Monnaie** — euro numérique : deuxième trilogue seulement *planifié* le 10 septembre (pas encore tenu), désaccords persistants sur le plafond de détention (~1 500-3 000 €) et la compensation. Aucun texte de compromis.
+- **Jalons UE imminents mais non applicables** : signalement du Cyber Resilience Act (11 sept.) et « accès par conception » du Data Act (12 sept.) — à surveiller, sans effet aujourd'hui.
+- **Identité** (EUDI, Roumanie en cat. 3, déploiement inégal), **IA**, **crypto/AMLR**, **quantique** (Shor pré-compilé sur qubits logiques, rien au seuil cryptographique), **énergie/compute** (PJM devant la FERC, aucune décision), **plateformes** (DSA X/Grok en cours) et **climat** — aucun fait matériel.
+
+**Éditions effectuées (et rien d'autre) :**
+- `state.json` : `last_updated` → 2026-09-07 ; `sources_today` entièrement remplacé (3 sources de suivi, toutes `affects: []`) ; `today_summary` déjà exact (25 stable, trend flat, « Jour calme »). JSON revalidé.
+- `changelog.md` : nouvelle entrée en tête avec 3 puces sourcées.
+OK · édition 2026-09-07 · 53 éditions au total
