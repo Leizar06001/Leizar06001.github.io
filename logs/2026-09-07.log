@@ -13,3 +13,10 @@ Mise à jour terminée pour le **2026-09-07** (lundi).
 - `state.json` : `last_updated` → 2026-09-07 ; `sources_today` entièrement remplacé (3 sources de suivi, toutes `affects: []`) ; `today_summary` déjà exact (25 stable, trend flat, « Jour calme »). JSON revalidé.
 - `changelog.md` : nouvelle entrée en tête avec 3 puces sourcées.
 OK · édition 2026-09-07 · 53 éditions au total
+[main b782e90] veille 2026-09-07
+ 8 files changed, 611 insertions(+), 19 deletions(-)
+ create mode 100644 logs/2026-09-07.log
+ create mode 100644 posts/veille-2026-09-07.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   7e09ba9..b782e90  main -> main
+Publié.
