@@ -1,0 +1,15 @@
+=== Veille 2026-09-09 : 2026-09-09T03:30:01+02:00 ===
+Done. Mise à jour de veille pour le **2026-09-09** terminée — **0 modifiée, 0 nouvelle**.
+
+**Verdict : jour calme.** Le balayage des dix domaines n'a révélé aucun fait déclencheur matériel (vote, texte publié, décision de justice, étude majeure, annonce officielle) dans les dernières 48 h. Toutes les probabilités restent inchangées, ancrées sur la veille.
+
+Ce que j'ai vérifié et pourquoi rien ne bouge :
+- **Chat Control / CSAR 2.0** — toujours sans accord depuis le 29 juin ; négociations d'automne sous présidence irlandaise, vote du Conseil évoqué mi-octobre (majorité qualifiée suspendue à l'Allemagne), aucun texte de compromis.
+- **Euro numérique** — 2ᵉ trilogue seulement *calé au 10 septembre* (pas encore tenu à J-1) ; plafond de détention/compensation/acceptation encore ouverts.
+- **Jalons UE imminents mais non applicables** — signalement CRA (11 sept.) et « accès par conception » Data Act (12 sept.) : à surveiller, sans effet aujourd'hui.
+- **Quantique/PQC** (NIST 3ᵉ tour signatures, pluriannuel), **EUDI**, **AI Act/Digital Omnibus** (déjà cotés), **AMLR**, **PJM/FERC**, **DSA X-Grok**, **climat** — que du procédural ou du déjà-intégré.
+
+Éditions effectuées, et rien d'autre :
+- `state.json` : `last_updated` → `2026-09-09` ; `sources_today` entièrement remplacé (3 sources de suivi, `affects: []`, paraphrasées) ; `today_summary` déjà cohérent (0/0/0/0/25, `flat`, « Jour calme »). JSON validé.
+- `changelog.md` : nouvelle entrée en tête `## 2026-09-09 — 0 modifiée, 0 nouvelle` avec trois puces sourcées.
+OK · édition 2026-09-09 · 55 éditions au total

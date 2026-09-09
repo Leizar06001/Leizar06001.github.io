@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -535,28 +535,28 @@
     {
       "id": "src-1",
       "name": "State of Surveillance / suivi CSAR",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR 2.0 : reprise des négociations en septembre, ordres de détection toujours bloquants",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord depuis l'échec du 29 juin. Les négociations reprennent en septembre sous présidence irlandaise ; le Parlement maintient son opposition au scan indiscriminé et exige un ordre judiciaire ciblé, le Conseil campe sur les ordres de détection obligatoires (potentiellement client-side). Un vote du Conseil est évoqué pour la mi-octobre, mais sa tenue reste conditionnée à une majorité qualifiée encore suspendue à la position allemande ; aucun texte de compromis publié ⇒ chat-control inchangé.",
+      "title": "Chat Control / CSAR 2.0 : négociations d'automne, vote du Conseil évoqué mi-octobre, aucun texte de compromis",
+      "summary": "Suivi de procédure sans impact. Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord depuis l'échec du 29 juin. Le clivage de fond est intact — scan indiscriminé à la main des plateformes côté Conseil contre ordre de détection ciblé et judiciaire côté Parlement. Les négociations d'automne se poursuivent sous présidence irlandaise et un vote du Conseil est de nouveau évoqué pour la mi-octobre, mais sa tenue reste conditionnée à une majorité qualifiée toujours suspendue à la position allemande ; aucun texte de compromis publié ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "Freshfields",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/europes-digital-euro-heads-to-last-stage-of-negotiations-what-council-and-parl-102nbx6",
-      "title": "Euro numérique : deuxième trilogue attendu le 10 septembre, plafond de détention et compensation ouverts",
-      "summary": "Suivi de procédure sans impact. Les trilogues Conseil-Parlement-Commission se poursuivent : un deuxième trilogue est calé au 10 septembre (pas encore tenu, à J-2) et un autre en fin de mois. Les mandats sont arrêtés mais les co-législateurs restent éloignés sur le mécanisme du plafond de détention et l'autorité qui le fixe (Commission sur recommandation de la BCE côté Parlement vs BCE seule ; fourchette discutée ~1 500 à 3 000 €), le modèle de compensation des intermédiaires et les règles d'acceptation. Objectif d'accord avant fin 2026, pilote BCE en 2027, lancement visé 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
+      "title": "Euro numérique : deuxième trilogue calé au 10 septembre (à J-1), plafond de détention et compensation encore ouverts",
+      "summary": "Suivi de procédure sans impact. Les trilogues Conseil-Parlement-Commission se poursuivent : le deuxième trilogue est fixé au 10 septembre (pas encore tenu, à J-1) et un autre en fin de mois. Les mandats sont arrêtés mais les co-législateurs restent éloignés sur le mécanisme du plafond de détention et l'autorité qui le fixe (Commission sur recommandation de la BCE côté Parlement vs BCE seule ; fourchette discutée ~1 500 à 3 000 €), le modèle de compensation des intermédiaires et les règles d'acceptation. Objectif d'accord avant fin 2026, pilote BCE en 2027, lancement visé 2029. Aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés.",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Balayage des domaines (PQC / jalons UE / énergie)",
-      "date": "2026-09-08",
-      "url": "https://www.cryptopolitan.com/g7-report-presses-crypto-to-start-post-quantum-migration-now/",
-      "title": "Balayage : rapport G7 PQC (non contraignant) et jalons UE imminents, aucun fait matériel dans les 48 h",
-      "summary": "Suivi sans impact. Le groupe de travail cyber du G7 a publié le 3 septembre « Preparing for the Post-Quantum Era: A Call to Action », appel non contraignant enjoignant États et entreprises (réseaux, plateformes et dépositaires crypto en tête) d'entamer sans délai la migration post-quantique ; texte de sensibilisation qui conforte la trajectoire déjà connue (transition PQC UE à amorcer avant fin 2026) sans acte contraignant ⇒ pqc-plans / cnsa2 / q-day inchangés. Deux jalons UE approchent sans être en vigueur : signalement du Cyber Resilience Act (alerte sous 24 h, notification sous 72 h, plateforme ENISA unique) dès le 11 septembre et « accès par conception » du Data Act (produits connectés) dès le 12 septembre — à surveiller. Autres domaines sans fait matériel : identité/EUDI (déploiement inégal vers l'échéance de novembre/décembre 2026, aucun acte d'exécution nouveau), AI Act (applicable depuis le 2 août, déjà coté ; Digital Omnibus AI entré en vigueur le 27 juillet, déjà intégré), crypto/AMLR (guichet d'agrément CASP, plein effet juillet 2027), énergie/compute (dispositif PJM de curtailment / Reliability Backstop Procurement devant la FERC, commentaires clos le 3 sept., effet demandé au 12 oct., aucune décision), plateformes (enquête DSA X/Grok en cours) et climat (études AMOC/permafrost de commentaire, déjà intégrées) ⇒ cotes inchangées.",
+      "name": "Balayage des domaines (jalons UE / PQC / énergie)",
+      "date": "2026-09-09",
+      "url": "https://www.heuking.de/en/news-events/newsletter-articles/detail/eu-digital-law-2026-an-overview-of-the-most-important-changes.html",
+      "title": "Balayage : jalons UE imminents (CRA 11 sept., Data Act 12 sept.) non encore en vigueur, aucun fait matériel dans les 48 h",
+      "summary": "Suivi sans impact. Deux jalons UE approchent sans être encore applicables : les obligations de signalement du Cyber Resilience Act (alerte sous 24 h, notification sous 72 h, plateforme ENISA unique) entrent en vigueur le 11 septembre et l'« accès par conception » du Data Act (produits connectés) le 12 septembre — à surveiller mais sans effet aujourd'hui. Autres domaines sans fait matériel : quantique/PQC (NIST fait passer neuf algorithmes de signature au 3e tour, évaluation pluriannuelle ; aucun calculateur au seuil cryptographiquement pertinent ⇒ pqc-plans / cnsa2 / q-day inchangés), identité/EUDI (déploiement inégal vers l'échéance de novembre/décembre 2026, aucun acte d'exécution nouveau), IA (AI Act applicable depuis le 2 août + Digital Omnibus entré en vigueur le 27 juillet, déjà cotés), crypto/AMLR (guichet d'agrément CASP, plein effet juillet 2027), énergie/compute (dispositif PJM de curtailment / Reliability Backstop Procurement devant la FERC, commentaires clos le 3 sept., effet demandé au 12 oct., aucune décision), plateformes (enquête DSA X/Grok toujours en cours) et climat (études AMOC/permafrost de commentaire, déjà intégrées) ⇒ cotes inchangées.",
       "affects": []
     }
   ]
