@@ -1,0 +1,17 @@
+=== Veille 2026-09-10 : 2026-09-10T03:30:01+02:00 ===
+Terminé. Mise à jour du 2026-09-10 appliquée.
+
+**Résultat : jour calme — 0 signal modifié, 0 nouveau.** Aucun fait matériel déclencheur (vote, texte publié, décision de justice, annonce officielle) dans les 48 h ⇒ toutes les probabilités inchangées.
+
+**`state.json`**
+- `last_updated` → `2026-09-10`
+- `today_summary` inchangé et correct : 0 changed / 0 new / 25 stable, `trend: flat`, `trend_label: "Jour calme"`
+- `sources_today` intégralement remplacé par 3 sources du jour (toutes `affects: []`) :
+  - **src-1 — quantique (IonQ, 8 sept.)** : « blueprint » de ressources compilé de Shor sur secp256k1 (~19 400 qubits physiques / ~1 457 logiques / ~26 j). Estimation **théorique**, pas de machine au seuil cryptographiquement pertinent → traité comme les études de ressources déjà recensées (RSA-2048, Oratomic) : **sans impact** sur `q-day`/`pqc-plans`/`cnsa2`.
+  - **src-2 — surveillance** : Chat Control/CSAR 2.0 toujours sans accord, aucun texte de compromis → `chat-control` inchangé.
+  - **src-3 — monnaie + balayage** : 2ᵉ trilogue euro numérique tenu le 10 sept. sans texte de compromis (plafond ~1 500-3 000 € encore ouvert) → `euro-num-emission`/`euro-num-reglement` inchangés ; autres domaines (EUDI, AI Act, AMLR, PJM/FERC, DSA X/Grok, climat) sans fait matériel.
+
+**`changelog.md`** : nouvelle entrée en tête `## 2026-09-10 — 0 modifiée, 0 nouvelle` (3 puces).
+
+JSON validé (strictement valide, 25 signaux). Aucun autre fichier touché.
+OK · édition 2026-09-10 · 56 éditions au total
