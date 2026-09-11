@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 25,
     "trend": "flat",
-    "trend_label": "Jour calme"
+    "trend_label": "Cyber Resilience Act : signalement obligatoire en vigueur, sans effet sur les cotes"
   },
   "signals": [
     {
@@ -534,29 +534,29 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "The Quantum Insider / IonQ",
-      "date": "2026-09-08",
-      "url": "https://thequantuminsider.com/2026/09/08/ionq-estimates-20000-qubit-machine-could-break-bitcoin-secp256k1-26-days/",
-      "title": "IonQ publie une estimation de ressources : ~20 000 qubits physiques pour casser secp256k1 en ~26 jours",
-      "summary": "Étude théorique sans impact. IonQ met en ligne (8 sept.) le premier « blueprint » entièrement compilé de bout en bout de l'algorithme de Shor appliqué à secp256k1, la courbe elliptique 256 bits qui sécurise notamment Bitcoin : l'architecture optimisée « Walking Cat » (codes qLDPC) chiffre le coût à ~19 400 qubits physiques, ~1 457 qubits logiques et ~39 millions de portes Toffoli pour une exécution d'environ 25,7 jours. Il s'agit d'une estimation de ressources / feuille de route, dans la lignée des réductions théoriques déjà recensées (RSA-2048, Oratomic ~10 000 qubits), et non d'une machine existante : aucun calculateur au seuil cryptographiquement pertinent n'a été construit et le matériel requis dépasse de plusieurs générations les systèmes actuels (quelques dizaines de qubits logiques) ⇒ q-day / pqc-plans / cnsa2 inchangés.",
+      "name": "Freshfields / Cyber Resilience Act",
+      "date": "2026-09-11",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/cyber-resilience-act-reporting-obligations-take-effect-on-11-september-2026-102nzmk",
+      "title": "Cyber Resilience Act : les obligations de signalement (art. 14) entrent en vigueur le 11 septembre 2026",
+      "summary": "Fait matériel (jalon T-0 sans signal dédié). À compter de ce 11 septembre 2026, l'article 14 du règlement Cyber Resilience Act ((UE) 2024/2847) impose aux fabricants de produits comportant des éléments numériques de signaler les vulnérabilités activement exploitées et les incidents graves : alerte précoce sous 24 h, notification sous 72 h via la plateforme unique de l'ENISA et le CSIRT national compétent, rapport final sous 14 jours après correctif (un mois pour les incidents graves), y compris pour les produits déjà commercialisés dans l'UE. Il s'agit d'un régime de divulgation de failles et de réponse à incident, distinct des instruments de surveillance des personnes suivis dans ce référentiel ; le gros des obligations CRA ne s'appliquera qu'au 11 décembre 2027. Aucun signal coté n'est concerné et le développement n'est pas assez structurant pour justifier un nouveau signal ⇒ cotes inchangées.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "State of Surveillance / suivi CSAR",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR 2.0 : négociations d'automne sous présidence irlandaise, aucun texte de compromis",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) demeure sans accord depuis l'échec du 29 juin. Le clivage de fond est intact — scan indiscriminé à la main des plateformes côté Conseil contre ordre de détection ciblé et judiciaire côté Parlement — et la majorité qualifiée reste suspendue à la position allemande. Négociations d'automne en cours, aucun texte de compromis publié ⇒ chat-control inchangé.",
+      "title": "Chat Control / CSAR 2.0 : négociations d'automne, aucun texte de compromis",
+      "summary": "Suivi de procédure sans impact. Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) demeure en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) reste sans accord depuis l'échec du 5e trilogue le 29 juin. Le clivage de fond est intact — scan indiscriminé à la main des plateformes côté Conseil contre ordre de détection ciblé et judiciaire côté Parlement — et la majorité qualifiée reste suspendue à la position allemande ; le Conseil doit se prononcer d'ici début octobre sur les amendements de juillet. Négociations d'automne sous présidence irlandaise en cours, aucun texte de compromis publié ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-3",
       "name": "Freshfields / balayage domaines",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/europes-digital-euro-heads-to-last-stage-of-negotiations-what-council-and-parl-102nbx6",
-      "title": "Euro numérique : deuxième trilogue tenu le 10 septembre, plafond de détention encore ouvert ; jalons UE imminents non encore applicables",
-      "summary": "Suivi de procédure sans impact. Le deuxième trilogue Conseil-Parlement-Commission sur l'euro numérique se tient ce 10 septembre (un autre en fin de mois) : mandats arrêtés mais co-législateurs encore éloignés sur le mécanisme et l'autorité du plafond de détention (~1 500-3 000 €), la compensation des intermédiaires et les règles d'acceptation ; aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés. Autres domaines sans fait matériel : jalons UE à venir non encore applicables (signalement du Cyber Resilience Act le 11 sept., « accès par conception » du Data Act le 12 sept.), identité/EUDI (déploiement inégal vers l'échéance de novembre 2026, aucun acte d'exécution nouveau), IA (AI Act applicable depuis le 2 août, déjà coté), crypto/AMLR (enquête AMLA ouverte jusqu'au 15 sept., plein effet juillet 2027), énergie/compute (Reliability Backstop Procurement PJM du 30 sept. au 21 oct. devant la FERC, effet demandé au 12 oct., aucune décision), plateformes (enquête DSA X/Grok en cours) et climat (études overshoot/AMOC de commentaire déjà intégrées) ⇒ cotes inchangées.",
+      "title": "Euro numérique : deuxième trilogue tenu le 10 septembre, plafond de détention encore ouvert ; autres domaines sans fait matériel",
+      "summary": "Suivi de procédure sans impact. Après le deuxième trilogue Conseil-Parlement-Commission du 10 septembre (un autre visé fin septembre), les co-législateurs restent éloignés sur l'autorité chargée de fixer le plafond de détention (~1 500-3 000 €) — acte délégué de la Commission côté Parlement contre décision d'exécution du Conseil à majorité qualifiée renforcée —, sur la compensation des intermédiaires et sur les règles d'acceptation ; aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés. Autres domaines sans nouveau fait matériel : Data Act « accès par conception » applicable seulement demain 12 sept. (produits connectés, non encore en vigueur), identité/EUDI (déploiement inégal vers l'échéance de novembre 2026, plein régime EES aux frontières sans dérogation depuis le 7 sept., aucun acte d'exécution nouveau), IA (AI Act applicable depuis le 2 août + AI Omnibus en vigueur depuis le 27 juillet, déjà cotés), crypto/AMLR (surveillance AMLA active du secteur crypto, plein effet juillet 2027), quantique (avancées incrémentales — QPU diamant Fujitsu, 96 qubits logiques QuEra —, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (Reliability Backstop Procurement PJM devant la FERC, effet demandé au 12 oct., aucune décision), plateformes (enquête DSA X/Grok en cours) et climat (études overshoot/AMOC de commentaire déjà intégrées) ⇒ cotes inchangées.",
       "affects": []
     }
   ]

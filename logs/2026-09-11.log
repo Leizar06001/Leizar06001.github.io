@@ -1,0 +1,14 @@
+=== Veille 2026-09-11 : 2026-09-11T03:30:01+02:00 ===
+Done. Summary of today's update (2026-09-11, vendredi):
+
+**Verdict : 0 modifiée, 0 nouvelle — cotes toutes inchangées.**
+
+- **Seul fait matériel du jour** : entrée en vigueur des obligations de signalement du Cyber Resilience Act (art. 14, règlement (UE) 2024/2847). C'est un jalon T-0 réel, mais un régime de divulgation de failles / réponse à incident sans lien avec un signal coté du référentiel, et pas assez structurant pour créer un signal → aucune probabilité touchée.
+- **Tout le reste** (Chat Control/CSAR, trilogue euro numérique du 10 sept., EUDI/EES, AMLR/AMLA, quantique, PJM-FERC, DSA/Grok, Digital Omnibus, climat) = suivi de procédure ou commentaire déjà intégré, aucun fait déclencheur.
+
+Éditions appliquées :
+- `state.json` : `last_updated → 2026-09-11` ; `today_summary.trend_label` mis à jour (83 car., < 100) ; `sources_today` entièrement remplacé (3 sources du jour, toutes `affects: []`, résumés paraphrasés). JSON revalidé (25 signaux, parse OK).
+- `changelog.md` : nouvelle entête en tête `## 2026-09-11 — 0 modifiée, 0 nouvelle` avec 3 puces sourcées.
+
+Aucun autre fichier touché.
+OK · édition 2026-09-11 · 57 éditions au total
