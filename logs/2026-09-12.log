@@ -1,0 +1,11 @@
+=== Veille 2026-09-12 : 2026-09-12T03:30:01+02:00 ===
+Done. Résultat du jour (2026-09-12, samedi) : **aucun fait matériel affectant un signal coté** → 0 modifiée, 0 nouvelle, toutes probabilités inchangées.
+
+**Modifications apportées :**
+- `state.json` : `last_updated` → 2026-09-12 ; `trend_label` mis à jour (jalon Data Act, 83 car.) ; `sources_today` intégralement remplacé (3 sources paraphrasées, toutes `affects: []`).
+- `changelog.md` : entrée en tête `## 2026-09-12 — 0 modifiée, 0 nouvelle` (3 puces).
+
+**Fait notable, sans impact sur les cotes :** le volet « accès par conception » du Data Act ((UE) 2023/2854) devient applicable aujourd'hui pour les produits connectés — un jalon T-0 anticipé de longue date, portant sur la portabilité des données IoT et non sur la surveillance des personnes, donc noté sans nouveau signal ni mouvement de probabilité (traitement cohérent avec le jalon CRA du 09-11). Le reste est du suivi de procédure (Chat Control/CSAR sans texte de compromis, trilogues euro numérique en cours) ou de l'incrémental (quantique).
+
+JSON validé (`json.load` OK).
+OK · édition 2026-09-12 · 58 éditions au total
