@@ -1,0 +1,10 @@
+=== Veille 2026-09-13 : 2026-09-13T03:30:01+02:00 ===
+Both files updated and `state.json` re-validated as strict JSON. Summary of today's run (2026-09-13, dimanche) :
+
+- **0 signal modifié, 0 nouveau** — journée calme, aucun fait matériel déclencheur dans les 48 h.
+- **`last_updated`** → `2026-09-13` ; **`today_summary`** recalculé : `stable: 25`, `trend: flat`, `trend_label: « Jour calme »` (2 mots, conforme à la règle des jours sans fait matériel).
+- **`sources_today`** entièrement remplacé par deux entrées de suivi de procédure (`affects: []`) : Chat Control/CSAR et euro numérique + balayage des autres domaines — pour tracer le jour calme.
+- **`changelog.md`** : nouvelle entête `## 2026-09-13 — 0 modifiée, 0 nouvelle` en tête, avec trois puces (jour calme, suivi surveillance/monnaie, suivi autres domaines).
+
+Aucune probabilité touchée : les développements repérés (trilogue euro du 10 sept., négociations CSAR d'automne, déploiement EUDI, avancées quantiques incrémentales, PJM/FERC, études AMOC/overshoot) sont tous procéduraux ou déjà intégrés. Aucun autre fichier n'a été modifié.
+OK · édition 2026-09-13 · 59 éditions au total

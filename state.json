@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-09-12",
+  "last_updated": "2026-09-13",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 25,
     "trend": "flat",
-    "trend_label": "Data Act : accès aux données « par conception » applicable, sans effet sur les cotes"
+    "trend_label": "Jour calme"
   },
   "signals": [
     {
@@ -534,29 +534,20 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "DIHK / Data Act",
-      "date": "2026-09-12",
-      "url": "https://www.dihk.de/en/service-portal/for-business-owners-and-entrepreneurs/data-act-next-level-as-of-12-september-2026-174716",
-      "title": "Data Act : l'obligation d'« accès par conception » pour les produits connectés entre en vigueur le 12 septembre 2026",
-      "summary": "Fait matériel (jalon T-0 sans signal dédié). À compter de ce 12 septembre 2026, le volet « accès par conception » du règlement sur les données ((UE) 2023/2854) impose que les produits connectés et services associés nouvellement mis sur le marché de l'UE soient conçus pour rendre les données d'usage accessibles à l'utilisateur par défaut — directement et, si possible, en continu —, et non plus seulement sur demande. Ce volet complète le socle du Data Act déjà applicable depuis le 12 septembre 2025. Il s'agit d'un droit de portabilité et de partage des données des objets connectés (électroménager, wearables, véhicules, machines industrielles ou agricoles), orienté vers l'utilisateur, distinct des instruments de surveillance des personnes suivis dans ce référentiel ; aucun signal coté n'est concerné et le développement, anticipé de longue date, n'est pas assez structurant pour justifier un nouveau signal ⇒ cotes inchangées.",
+      "name": "State of Surveillance / suivi CSAR",
+      "date": "2026-09-13",
+      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
+      "title": "Chat Control / CSAR 2.0 : négociations d'automne, toujours sans texte de compromis",
+      "summary": "Suivi de procédure sans impact (dimanche calme). Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) demeure en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) reste sans accord depuis l'échec du 5e trilogue le 29 juin. Le clivage de fond est intact — scan indiscriminé à la discrétion des plateformes côté Conseil contre ordre de détection ciblé et judiciaire côté Parlement — et la majorité qualifiée reste suspendue à la position allemande ; le Conseil doit se prononcer d'ici début octobre sur les amendements de juillet. Négociations sous présidence irlandaise, aucun texte de compromis publié ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "State of Surveillance / suivi CSAR",
-      "date": "2026-09-12",
-      "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR 2.0 : négociations d'automne, toujours sans texte de compromis",
-      "summary": "Suivi de procédure sans impact. Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) demeure en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) reste sans accord depuis l'échec du 5e trilogue le 29 juin. Le clivage de fond est intact — scan indiscriminé à la discrétion des plateformes côté Conseil contre ordre de détection ciblé et judiciaire côté Parlement — et la majorité qualifiée reste suspendue à la position allemande ; le Conseil doit se prononcer d'ici début octobre sur les amendements de juillet. Négociations d'automne sous présidence irlandaise en cours, aucun texte de compromis publié ⇒ chat-control inchangé.",
-      "affects": []
-    },
-    {
-      "id": "src-3",
       "name": "Freshfields / balayage domaines",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/europes-digital-euro-heads-to-last-stage-of-negotiations-what-council-and-parl-102nbx6",
-      "title": "Euro numérique : trilogues en cours, plafond de détention encore ouvert ; autres domaines sans fait matériel",
-      "summary": "Suivi de procédure sans impact. Après le deuxième trilogue Conseil-Parlement-Commission du 10 septembre (un autre visé fin septembre), les co-législateurs restent éloignés sur l'autorité chargée de fixer le plafond de détention (~1 500-3 000 €) — acte délégué de la Commission côté Parlement contre décision d'exécution du Conseil à majorité qualifiée renforcée —, sur la compensation des intermédiaires et sur les règles d'acceptation ; aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés. Autres domaines sans nouveau fait matériel : identité/EUDI (déploiement inégal vers l'échéance de fin 2026, aucun acte d'exécution nouveau), IA (AI Act applicable depuis le 2 août + AI Omnibus en vigueur depuis le 27 juillet, déjà cotés), crypto/AMLR (surveillance AMLA active du secteur crypto, plein effet juillet 2027), quantique (avancées incrémentales — feuille de route logique IQM pour la machine européenne LUMI, validation matérielle STAR Fujitsu/Yaqumo —, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (Reliability Backstop Procurement PJM devant la FERC, effet demandé au 12 oct., aucune décision), plateformes (enquête DSA X/Grok en cours) et climat (études overshoot/AMOC/Amazonie de commentaire déjà intégrées) ⇒ cotes inchangées.",
+      "title": "Balayage des domaines : euro numérique en trilogues, aucun fait matériel nouveau dans les 48 h",
+      "summary": "Suivi de procédure sans impact. Euro numérique : après le deuxième trilogue Conseil-Parlement-Commission du 10 septembre (un autre visé fin septembre), les co-législateurs restent éloignés sur l'autorité chargée de fixer le plafond de détention (~1 500-3 000 €) — acte délégué de la Commission côté Parlement contre décision d'exécution du Conseil à majorité qualifiée renforcée —, sur la compensation des intermédiaires et sur les règles d'acceptation ; aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés. Autres domaines sans nouveau fait matériel : identité/EUDI (déploiement inégal vers l'échéance de fin 2026, aucun acte d'exécution nouveau), IA (AI Act applicable depuis le 2 août + AI Omnibus en vigueur depuis le 27 juillet, déjà cotés), crypto/AMLR (surveillance AMLA active du secteur crypto, plein effet juillet 2027), quantique (avancées incrémentales sur les qubits logiques, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (Reliability Backstop Procurement PJM devant la FERC, effet demandé au 12 oct., aucune décision), plateformes (enquête DSA X/Grok en cours) et climat (études overshoot/AMOC de commentaire déjà intégrées) ⇒ cotes inchangées.",
       "affects": []
     }
   ]

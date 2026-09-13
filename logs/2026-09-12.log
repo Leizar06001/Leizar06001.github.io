@@ -9,3 +9,10 @@ Done. Résultat du jour (2026-09-12, samedi) : **aucun fait matériel affectant 
 
 JSON validé (`json.load` OK).
 OK · édition 2026-09-12 · 58 éditions au total
+[main c8b615f] veille 2026-09-12
+ 8 files changed, 611 insertions(+), 23 deletions(-)
+ create mode 100644 logs/2026-09-12.log
+ create mode 100644 posts/veille-2026-09-12.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   48baf87..c8b615f  main -> main
+Publié.
