@@ -1,0 +1,17 @@
+=== Veille 2026-10-26 : 2026-10-26T03:30:01+01:00 ===
+Terminé. Mise à jour quotidienne de la veille pour le **2026-10-26** (lundi).
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.**
+
+Après un balayage web des domaines (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique), **aucun fait matériel déclencheur** dans les 48 h. Toutes les probabilités sont inchangées, conformément aux garde-fous. Détails de ce qui a été vérifié mais écarté (commentaire / procédure / déjà coté) :
+
+- **Surveillance** — Chat Control/CSAR 2.0 toujours sans accord après le 6e trilogue du 29 septembre (blocage sur les ordres de détection ; étapes Coreper/LIBE/plénière à venir). La fenêtre de début octobre pour la position du Conseil sur les amendements de juillet est écoulée sans décision publiée recensée. Dérogation « scan volontaire » déjà cotée. ⇒ `chat-control` inchangé.
+- **Monnaie** — euro numérique encore en trilogues (accord visé fin 2026), écarts persistants. ⇒ `euro-num-*` inchangés.
+- **Autres** — EUDI (échéance légale 24 déc. 2026), IA (AI Act + Omnibus déjà cotés), AMLR (plein effet juil. 2027), quantique (Infleqtion ~30 qubits logiques fin sept., sous le seuil cryptographique), énergie/PJM, DSA X/Grok, climat (études de commentaire déjà intégrées) : rien de matériel.
+
+**Édité :**
+- `state.json` : `last_updated` → `2026-10-26` ; `sources_today` entièrement remplacé (2 sources de suivi procédural, `affects: []`). `today_summary` était déjà aux valeurs jour-calme (0/0/0/0/25, flat, « Jour calme »). JSON revalidé (25 signaux, tous stables).
+- `changelog.md` : nouvelle entrée en tête `## 2026-10-26 — 0 modifiée, 0 nouvelle` (3 puces).
+
+À noter : l'état était figé au 2026-09-13 ; cette mise à jour le réancre à aujourd'hui sans rattraper rétroactivement l'intervalle (hors périmètre d'un run quotidien). Je n'ai touché ni `build.py`, ni `style.css`, ni les pages HTML.
+OK · édition 2026-10-26 · 60 éditions au total

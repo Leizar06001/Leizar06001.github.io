@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-09-13",
+  "last_updated": "2026-10-26",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -535,19 +535,19 @@
     {
       "id": "src-1",
       "name": "State of Surveillance / suivi CSAR",
-      "date": "2026-09-13",
+      "date": "2026-10-26",
       "url": "https://stateofsurveillance.org/articles/government/eu-chat-control-surveillance-architecture-2026/",
-      "title": "Chat Control / CSAR 2.0 : négociations d'automne, toujours sans texte de compromis",
-      "summary": "Suivi de procédure sans impact (dimanche calme). Aucun mouvement matériel : la dérogation « scan volontaire » (Chat Control 1.0) demeure en vigueur jusqu'au 3 avril 2028 (déjà cotée) et le règlement permanent (CSAR / Chat Control 2.0) reste sans accord depuis l'échec du 5e trilogue le 29 juin. Le clivage de fond est intact — scan indiscriminé à la discrétion des plateformes côté Conseil contre ordre de détection ciblé et judiciaire côté Parlement — et la majorité qualifiée reste suspendue à la position allemande ; le Conseil doit se prononcer d'ici début octobre sur les amendements de juillet. Négociations sous présidence irlandaise, aucun texte de compromis publié ⇒ chat-control inchangé.",
+      "title": "Chat Control / CSAR 2.0 : toujours sans accord après le 6e trilogue du 29 septembre",
+      "summary": "Suivi de procédure sans impact (lundi calme). Aucun mouvement matériel : le règlement permanent (CSAR / Chat Control 2.0) reste sans accord après le 6e trilogue du 29 septembre sous présidence irlandaise, le blocage portant toujours sur les ordres de détection — scan indiscriminé à la discrétion des plateformes côté Conseil contre détection ciblée sur ordre judiciaire côté Parlement —, les étapes Coreper, LIBE puis plénière restant à venir et la majorité qualifiée toujours suspendue à la position allemande. La dérogation « scan volontaire » (Chat Control 1.0) demeure en vigueur jusqu'au 3 avril 2028 et exclut explicitement le chiffrement de bout en bout (déjà cotée) ; la fenêtre de début octobre pour la position du Conseil sur les amendements de juillet est écoulée sans décision publiée recensée. Aucun texte de compromis publié ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
       "name": "Freshfields / balayage domaines",
-      "date": "2026-09-13",
+      "date": "2026-10-26",
       "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/europes-digital-euro-heads-to-last-stage-of-negotiations-what-council-and-parl-102nbx6",
-      "title": "Balayage des domaines : euro numérique en trilogues, aucun fait matériel nouveau dans les 48 h",
-      "summary": "Suivi de procédure sans impact. Euro numérique : après le deuxième trilogue Conseil-Parlement-Commission du 10 septembre (un autre visé fin septembre), les co-législateurs restent éloignés sur l'autorité chargée de fixer le plafond de détention (~1 500-3 000 €) — acte délégué de la Commission côté Parlement contre décision d'exécution du Conseil à majorité qualifiée renforcée —, sur la compensation des intermédiaires et sur les règles d'acceptation ; aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés. Autres domaines sans nouveau fait matériel : identité/EUDI (déploiement inégal vers l'échéance de fin 2026, aucun acte d'exécution nouveau), IA (AI Act applicable depuis le 2 août + AI Omnibus en vigueur depuis le 27 juillet, déjà cotés), crypto/AMLR (surveillance AMLA active du secteur crypto, plein effet juillet 2027), quantique (avancées incrémentales sur les qubits logiques, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (Reliability Backstop Procurement PJM devant la FERC, effet demandé au 12 oct., aucune décision), plateformes (enquête DSA X/Grok en cours) et climat (études overshoot/AMOC de commentaire déjà intégrées) ⇒ cotes inchangées.",
+      "title": "Balayage des domaines : euro numérique toujours en trilogues, aucun fait matériel nouveau dans les 48 h",
+      "summary": "Suivi de procédure sans impact. Euro numérique : trilogues Conseil-Parlement-Commission toujours en cours, accord visé avant fin 2026, co-législateurs encore éloignés sur l'autorité fixant le plafond de détention (~1 500-3 000 €), la compensation des intermédiaires et les règles d'acceptation ; aucun texte de compromis publié ⇒ euro-num-emission / euro-num-reglement inchangés. Autres domaines sans nouveau fait matériel : identité/EUDI (échéance légale du 24 décembre 2026 pour au moins un portefeuille par État, déploiement inégal, aucun acte d'exécution nouveau), IA (AI Act applicable depuis le 2 août + Digital/AI Omnibus déjà en vigueur, déjà cotés), crypto/AMLR (supervision AMLA du secteur crypto, plein effet juillet 2027), quantique (Infleqtion ~30 qubits logiques annoncés fin septembre, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (cadre de fiabilité PJM devant la FERC, aucune décision nouvelle), plateformes (enquête DSA X/Grok en cours) et climat (études overshoot/AMOC de commentaire déjà intégrées) ⇒ cotes inchangées.",
       "affects": []
     }
   ]
