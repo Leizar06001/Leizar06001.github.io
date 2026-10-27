@@ -1,0 +1,15 @@
+=== Veille 2026-10-27 : 2026-10-27T03:30:01+01:00 ===
+Both files are updated and the JSON validates. Summary of today's run (2026-10-27, mardi) :
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.** Balayage des 10 domaines, aucun fait matériel dans les 48 h → toutes les cotes inchangées, ancrées sur la veille.
+
+Ce que le balayage a confirmé (suivi de procédure uniquement) :
+- **Surveillance** — CSAR/Chat Control 2.0 toujours bloqué sur les ordres de détection après le trilogue du 29 sept. ; tentative politique repoussée à un trilogue de novembre (non daté) ; dérogation « scan volontaire » (Règl. 2026/1881) en vigueur jusqu'au 3 avril 2028, déjà cotée.
+- **Monnaie** — euro numérique encore en trilogues ; plafond de détention, autorité compétente et compensation des intermédiaires non tranchés.
+- **Autres** — EUDI (échéance 24 déc. 2026, rien de nouveau), IA (Omnibus volet données toujours en négociation), crypto/AMLR (RTS AMLA encore en projet), quantique (jalons incrémentaux, aucun CRQC), plateformes (enquête DSA X/Grok en cours), climat (études déjà intégrées).
+- **Énergie/compute** — j'ai relevé la décision FERC du 9 oct. (rejet du curtailment IRAS de PJM, maintien du registre >50 MW) + l'ordre d'urgence du DOE : facteurs plutôt baissiers pour le scénario de rationnement, mais hors fenêtre 48 h et signal non coté → sans effet, noté comme contexte.
+
+Éditions effectuées (et rien d'autre) :
+- `state.json` : `last_updated` → 2026-10-27, `today_summary` (stable 25, trend flat, « Jour calme »), `sources_today` entièrement remplacé par 2 sources de suivi `affects: []`.
+- `changelog.md` : nouvelle entrée en tête avec 3 puces sourcées.
+OK · édition 2026-10-27 · 61 éditions au total

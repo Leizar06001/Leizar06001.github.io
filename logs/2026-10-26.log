@@ -15,3 +15,52 @@ Après un balayage web des domaines (identité, monnaie, surveillance, crypto, I
 
 À noter : l'état était figé au 2026-09-13 ; cette mise à jour le réancre à aujourd'hui sans rattraper rétroactivement l'intervalle (hors périmètre d'un run quotidien). Je n'ai touché ni `build.py`, ni `style.css`, ni les pages HTML.
 OK · édition 2026-10-26 · 60 éditions au total
+[main 6739961] veille 2026-10-26
+ 50 files changed, 687 insertions(+), 17 deletions(-)
+ create mode 100644 logs/2026-09-14.log
+ create mode 100644 logs/2026-09-15.log
+ create mode 100644 logs/2026-09-16.log
+ create mode 100644 logs/2026-09-17.log
+ create mode 100644 logs/2026-09-18.log
+ create mode 100644 logs/2026-09-19.log
+ create mode 100644 logs/2026-09-20.log
+ create mode 100644 logs/2026-09-21.log
+ create mode 100644 logs/2026-09-22.log
+ create mode 100644 logs/2026-09-23.log
+ create mode 100644 logs/2026-09-24.log
+ create mode 100644 logs/2026-09-25.log
+ create mode 100644 logs/2026-09-26.log
+ create mode 100644 logs/2026-09-27.log
+ create mode 100644 logs/2026-09-28.log
+ create mode 100644 logs/2026-09-29.log
+ create mode 100644 logs/2026-09-30.log
+ create mode 100644 logs/2026-10-01.log
+ create mode 100644 logs/2026-10-02.log
+ create mode 100644 logs/2026-10-03.log
+ create mode 100644 logs/2026-10-04.log
+ create mode 100644 logs/2026-10-05.log
+ create mode 100644 logs/2026-10-06.log
+ create mode 100644 logs/2026-10-07.log
+ create mode 100644 logs/2026-10-08.log
+ create mode 100644 logs/2026-10-09.log
+ create mode 100644 logs/2026-10-10.log
+ create mode 100644 logs/2026-10-11.log
+ create mode 100644 logs/2026-10-12.log
+ create mode 100644 logs/2026-10-13.log
+ create mode 100644 logs/2026-10-14.log
+ create mode 100644 logs/2026-10-15.log
+ create mode 100644 logs/2026-10-16.log
+ create mode 100644 logs/2026-10-17.log
+ create mode 100644 logs/2026-10-18.log
+ create mode 100644 logs/2026-10-19.log
+ create mode 100644 logs/2026-10-20.log
+ create mode 100644 logs/2026-10-21.log
+ create mode 100644 logs/2026-10-22.log
+ create mode 100644 logs/2026-10-23.log
+ create mode 100644 logs/2026-10-24.log
+ create mode 100644 logs/2026-10-25.log
+ create mode 100644 logs/2026-10-26.log
+ create mode 100644 posts/veille-2026-10-26.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   988444c..6739961  main -> main
+Publié.
