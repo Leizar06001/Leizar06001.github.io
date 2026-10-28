@@ -13,3 +13,10 @@ Ce que le balayage a confirmé (suivi de procédure uniquement) :
 - `state.json` : `last_updated` → 2026-10-27, `today_summary` (stable 25, trend flat, « Jour calme »), `sources_today` entièrement remplacé par 2 sources de suivi `affects: []`.
 - `changelog.md` : nouvelle entrée en tête avec 3 puces sourcées.
 OK · édition 2026-10-27 · 61 éditions au total
+[main 9b9bd3a] veille 2026-10-27
+ 8 files changed, 642 insertions(+), 16 deletions(-)
+ create mode 100644 logs/2026-10-27.log
+ create mode 100644 posts/veille-2026-10-27.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   6739961..9b9bd3a  main -> main
+Publié.

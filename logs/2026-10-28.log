@@ -1,0 +1,9 @@
+=== Veille 2026-10-28 : 2026-10-28T03:30:01+01:00 ===
+Both files are updated. Summary of today's run (**2026-10-28**):
+
+- **Aucun fait matériel** dans les 48 h sur les 10 domaines → **0 modifiée, 0 nouvelle**, toutes les probabilités inchangées (25 signaux stables, `trend: flat`, `trend_label: « Jour calme »`).
+- **`state.json`** : `last_updated` → `2026-10-28` ; `sources_today` remplacé par deux sources « suivi de procédure, pas d'impact » (`affects: []`) — tracker Chat Control (Brussels Record) et balayage des domaines (Freshfields). JSON validé.
+- **`changelog.md`** : nouvelle entête en tête avec trois puces (jour calme + suivi surveillance/monnaie + autres domaines).
+
+Points de veille relevés mais non matériels : Chat Control toujours sans accord (prochain trilogue pronostiqué en novembre, date non confirmée) ; euro numérique toujours en trilogues ; côté énergie/compute, la suite procédurale du rejet FERC du 9 oct. (réunion PJM du 22 oct., re-dépôt du plan de secours ~29 oct., dépôt registre >50 MW ~9 nov.) reste à surveiller sans impact sur les cotes. Aucune autre page ni fichier n'a été touché.
+OK · édition 2026-10-28 · 62 éditions au total
