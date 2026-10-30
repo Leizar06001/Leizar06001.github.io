@@ -4,3 +4,10 @@ Fait. Jour calme (jeudi 2026-10-29) — aucun fait matériel dans les 48 h.
 - **`state.json`** : `last_updated` → 2026-10-29 ; `sources_today` remplacé par deux sources de suivi procédural (`affects: []`) — Chat Control (Breyer) et balayage des domaines (euro numérique + autres). Aucune probabilité modifiée ; `today_summary` reste 0 modifiée / 0 nouvelle, 25 stables, tendance `flat`, « Jour calme ». JSON validé (25 signaux).
 - **`changelog.md`** : nouvelle entrée en tête `## 2026-10-29 — 0 modifiée, 0 nouvelle` avec trois puces résumant le balayage et les sources.
 OK · édition 2026-10-29 · 63 éditions au total
+[main f5573ff] veille 2026-10-29
+ 8 files changed, 595 insertions(+), 20 deletions(-)
+ create mode 100644 logs/2026-10-29.log
+ create mode 100644 posts/veille-2026-10-29.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   94929a0..f5573ff  main -> main
+Publié.

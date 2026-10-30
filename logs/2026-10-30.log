@@ -1,0 +1,15 @@
+=== Veille 2026-10-30 : 2026-10-30T03:30:01+01:00 ===
+Mise à jour terminée pour le **30 octobre 2026** (vendredi — jour calme).
+
+**Résultat :** aucun fait matériel nouveau dans les 48 h sur l'ensemble des domaines → **0 modifiée, 0 nouvelle**, les 25 signaux restent stables, toutes les probabilités inchangées.
+
+**Balayage effectué :**
+- **Surveillance** — Chat Control/CSAR 2.0 toujours sans accord (6e trilogue du 29 sept., prochain seulement « attendu » en novembre, sans date) ; dérogation scan volontaire jusqu'au 3 avril 2028 déjà cotée.
+- **Monnaie** — euro numérique encore en trilogues, aucun accord provisoire ni plafond publié, visée fin 2026.
+- **IA / identité / dérégulation** — AI Act applicable, pas de décision CJUE ni sanction ; EUDI vers l'échéance du 24 déc. 2026 ; Digital Omnibus toujours en examen.
+- **Crypto, quantique, énergie (PJM/FERC), plateformes (DSA X/Grok), climat** — uniquement du suivi de procédure ou des jalons déjà intégrés.
+
+**Éditions (et rien d'autre) :**
+- `state.json` : `last_updated` → `2026-10-30` ; `sources_today` remplacé par 2 sources de suivi (`affects: []`) ; `today_summary` déjà conforme (flat / « Jour calme »). JSON validé.
+- `changelog.md` : entrée ajoutée en tête avec les sources (Brussels Record, Freshfields).
+OK · édition 2026-10-30 · 64 éditions au total
