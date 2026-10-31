@@ -1,0 +1,19 @@
+=== Veille 2026-10-31 : 2026-10-31T03:30:01+01:00 ===
+Done. Both files updated for **2026-10-31** (samedi).
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.** Aucun fait matériel déclencheur dans les 48 h sur l'ensemble des domaines, donc aucune probabilité touchée (ancrage respecté).
+
+Ce que mon balayage a confirmé (tout déjà coté / sans impact) :
+- **Surveillance** — Chat Control/CSAR 2.0 toujours sans accord, trilogue de clôture seulement « attendu » en novembre (aucune date calée).
+- **Monnaie** — euro numérique encore en trilogues, pas d'accord provisoire ni de plafond arrêté.
+- **Énergie** — dossier PJM/FERC (rejet du curtailment IRAS le 9 oct.) déjà intégré ; PJM doit redéposer, procédure.
+- **Plateformes** — enquête DSA X/Grok toujours en cours ; amende de déc. 2025 déjà connue.
+- **Identité, IA, crypto/AMLR, quantique, climat** — rien de nouveau.
+- Seul item frais : l'appel de HRW + coalition (26 oct.) à durcir le contrôle des exportations de surveillance — **plaidoyer, pas un fait matériel**, noté « pour mémoire ».
+
+Modifications apportées :
+- `state.json` : `last_updated` → `2026-10-31` ; `trend_label` → « Week-end calme » (compteurs 0/0/0/0/25, flat) ; `sources_today` entièrement remplacé par 2 sources « suivi de procédure, pas d'impact » (`affects: []`). JSON validé.
+- `changelog.md` : nouvelle entête `## 2026-10-31 — 0 modifiée, 0 nouvelle` + 3 puces en tête.
+
+Je n'ai touché à aucun autre fichier.
+OK · édition 2026-10-31 · 65 éditions au total
