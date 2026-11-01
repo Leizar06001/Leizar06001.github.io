@@ -1,0 +1,7 @@
+=== Veille 2026-11-01 : 2026-11-01T03:30:01+01:00 ===
+Both files updated and `state.json` validated as strict JSON. Summary of today's run (2026-11-01, dimanche/Toussaint) :
+
+- **Aucun fait matériel** dans les 48 h sur l'ensemble des domaines → toutes les probabilités inchangées (0 modifiée, 0 nouvelle, 25 stables).
+- Vérifications : Chat Control/CSAR 2.0 (toujours sans accord, tentative « attendue » en novembre sans date), euro numérique (trilogues en cours, aucun plafond arrêté), EUDI, AI Act/Digital Omnibus, AMLR, quantique, PJM/FERC (décision du 9 oct. déjà intégrée), DSA X/Grok, climat (COP31 à venir le 9 nov.). J'ai aussi confirmé que l'item « Commissioner backs Parliament » date de décembre 2025, donc non pertinent aujourd'hui.
+- `last_updated` → 2026-11-01, `trend_label` → « Dimanche calme », `sources_today` remplacé (2 sources de suivi, `affects: []`), et une entrée ajoutée en tête de `changelog.md`.
+OK · édition 2026-11-01 · 66 éditions au total
