@@ -1,0 +1,13 @@
+=== Veille 2026-11-02 : 2026-11-02T03:30:01+01:00 ===
+Veille mise à jour pour le **2026-11-02** (lundi) — jour calme, aucun fait matériel sur les 48 h.
+
+**`state.json`**
+- `last_updated` → `2026-11-02`
+- `today_summary` : 0 modifiée, 0 nouvelle, 25 stables, `trend: flat`, `trend_label: "Lundi calme"`
+- `sources_today` remplacées par 2 sources de suivi de procédure (`affects: []`) : Chat Control/CSAR 2.0 et balayage des domaines (euro numérique + identité/IA/crypto/quantique/énergie/plateformes/climat)
+- Toutes les probabilités laissées inchangées (aucun vote, texte, décision ou étude déclencheur). JSON validé.
+
+**`changelog.md`** : nouvelle entrée en tête `## 2026-11-02 — 0 modifiée, 0 nouvelle` avec 3 puces (jour calme + suivi surveillance/monnaie + suivi autres domaines, sources à l'appui).
+
+Points de veille à surveiller (procédure, non cotés) : trilogue CSAR éventuel en novembre (date non calée), dépôt PJM art. 205 attendu ~16 nov., ouverture de la COP31 (Antalya) le 9 nov.
+OK · édition 2026-11-02 · 67 éditions au total

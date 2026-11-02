@@ -5,3 +5,10 @@ Both files updated and `state.json` validated as strict JSON. Summary of today's
 - Vérifications : Chat Control/CSAR 2.0 (toujours sans accord, tentative « attendue » en novembre sans date), euro numérique (trilogues en cours, aucun plafond arrêté), EUDI, AI Act/Digital Omnibus, AMLR, quantique, PJM/FERC (décision du 9 oct. déjà intégrée), DSA X/Grok, climat (COP31 à venir le 9 nov.). J'ai aussi confirmé que l'item « Commissioner backs Parliament » date de décembre 2025, donc non pertinent aujourd'hui.
 - `last_updated` → 2026-11-01, `trend_label` → « Dimanche calme », `sources_today` remplacé (2 sources de suivi, `affects: []`), et une entrée ajoutée en tête de `changelog.md`.
 OK · édition 2026-11-01 · 66 éditions au total
+[main 5b4e4e0] veille 2026-11-01
+ 8 files changed, 593 insertions(+), 17 deletions(-)
+ create mode 100644 logs/2026-11-01.log
+ create mode 100644 posts/veille-2026-11-01.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   37c1e1d..5b4e4e0  main -> main
+Publié.
