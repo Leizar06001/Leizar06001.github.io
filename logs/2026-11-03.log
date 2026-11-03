@@ -1,0 +1,13 @@
+=== Veille 2026-11-03 : 2026-11-03T03:30:01+01:00 ===
+Done. Both files updated for 2026-11-03:
+
+**`state.json`**
+- `last_updated` → `2026-11-03`
+- `today_summary` → 0 modifiée, 0 nouvelle, 25 stables, `trend: flat`, `trend_label: "Mardi calme"`
+- `sources_today` entièrement remplacé par les 2 sources de suivi du jour (Brussels Record pour la surveillance, Freshfields pour le balayage des domaines), toutes deux `affects: []`
+- **Aucune probabilité modifiée** — aucun fait matériel dans les 48 h.
+
+**`changelog.md`** : nouvelle entrée en tête `## 2026-11-03 — 0 modifiée, 0 nouvelle` avec 3 puces résumant le jour calme et les sources.
+
+Le balayage (identité, monnaie, surveillance, crypto, IA, quantique, énergie, plateformes, climat, géopolitique) n'a produit que du suivi de procédure : Chat Control/CSAR 2.0 et euro numérique toujours sans accord (aucune date de trilogue calée pour novembre), AI Act/Digital Omnibus déjà cotés, AMLA/PJM/DSA/quantique incrémentaux, COP31 (9–20 nov.) pas encore ouverte. Le soutien du commissaire Brunner à la ligne du Parlement sur Chat Control est du positionnement politique, pas un fait matériel — écarté à juste titre. JSON validé (25 signaux).
+OK · édition 2026-11-03 · 68 éditions au total
