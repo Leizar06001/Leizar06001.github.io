@@ -1,0 +1,11 @@
+=== Veille 2026-11-05 : 2026-11-05T03:30:01+01:00 ===
+Mise à jour terminée. Les deux fichiers sont édités et le JSON est strictement valide.
+
+**Résultat — jeudi 2026-11-05 : jour calme (0 modifiée, 0 nouvelle)**
+
+- Aucun **fait matériel** dans la fenêtre de 48 h → **toutes les probabilités inchangées** (25 signaux stables, `trend: flat`, label « Jeudi calme »).
+- Point notable écarté avec discipline : l'analyse EDRi du 4 nov. sur le **Digital Omnibus** (volet RGPD/ePrivacy) renvoie à un fait matériel — le mandat de négociation du **Conseil de l'UE adopté le 21 octobre** — qui est **hors fenêtre**, déjà en phase pré-trilogue, et dont la pièce du jour relève du **commentaire** (non d'un fait). Substance d'ailleurs mitigée (définition RGPD des données personnelles conservée, garanties ajoutées). ⇒ `defence-omnibus` laissé inchangé, à resuivre au stade du trilogue.
+- Reste des domaines (surveillance/Chat Control, euro numérique, EUDI, IA, crypto/AMLR, quantique, énergie-PJM, plateformes, climat/COP31) : suivi de procédure sans impact.
+
+Éditions : `sources_today` entièrement remplacé (2 sources, `affects: []`), `last_updated` → 2026-11-05, et une entrée ajoutée en tête de `changelog.md`. Rien d'autre n'a été touché.
+OK · édition 2026-11-05 · 70 éditions au total
