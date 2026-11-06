@@ -1,0 +1,17 @@
+=== Veille 2026-11-06 : 2026-11-06T03:30:01+01:00 ===
+Both files are updated. Here's the summary of today's run (2026-11-06, vendredi).
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.** Aucun fait matériel (vote, texte publié, décision de justice, étude majeure, annonce officielle ou incident) dans les 48 h. Toutes les probabilités restent inchangées, ancrées sur la veille.
+
+**Balayage des domaines (tous sans impact) :**
+- **Surveillance** — Chat Control/CSAR 2.0 toujours sans accord depuis le 6e trilogue du 29 septembre ; aucune date de trilogue calée, majorité qualifiée suspendue à l'Allemagne. Dérogation « scan volontaire » (jusqu'au 3 avril 2028, chiffrement exclu) déjà cotée.
+- **Monnaie** — euro numérique : trilogues en cours, aucun accord provisoire ni plafond de détention arrêté ; accord visé avant fin 2026.
+- **Identité** — EUDI : échéance du 24 décembre 2026, déploiement inégal (Allemagne décalée au 2 janvier 2027), aucun acte nouveau.
+- **IA, crypto/AMLR, quantique, énergie/compute (PJM), plateformes (DSA X/Grok), climat (COP31 pas encore ouverte, 9-20 nov.)** — aucun fait matériel nouveau.
+
+**Éditions effectuées :**
+- `state.json` : `last_updated` → 2026-11-06 ; `today_summary` recalculé (changed 0, new 0, stable 25, trend `flat`, label « Vendredi calme ») ; `sources_today` entièrement remplacé par deux sources de suivi de procédure (`affects: []`) pour tracer le jour calme. JSON validé.
+- `changelog.md` : nouvelle entrée en tête avec trois puces et sources.
+
+Aucun autre fichier touché.
+OK · édition 2026-11-06 · 71 éditions au total

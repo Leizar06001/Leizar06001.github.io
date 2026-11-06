@@ -9,3 +9,10 @@ Mise à jour terminée. Les deux fichiers sont édités et le JSON est stricteme
 
 Éditions : `sources_today` entièrement remplacé (2 sources, `affects: []`), `last_updated` → 2026-11-05, et une entrée ajoutée en tête de `changelog.md`. Rien d'autre n'a été touché.
 OK · édition 2026-11-05 · 70 éditions au total
+[main 6520313] veille 2026-11-05
+ 8 files changed, 600 insertions(+), 20 deletions(-)
+ create mode 100644 logs/2026-11-05.log
+ create mode 100644 posts/veille-2026-11-05.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   c1c90e8..6520313  main -> main
+Publié.
