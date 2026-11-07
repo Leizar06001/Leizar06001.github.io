@@ -1,0 +1,15 @@
+=== Veille 2026-11-07 : 2026-11-07T03:30:01+01:00 ===
+Done. Summary of today's run (2026-11-07, samedi):
+
+- **Verdict : jour calme, aucun fait matériel déclencheur** dans la fenêtre 48 h. Tous les développements trouvés sont déjà intégrés ou relèvent du suivi de procédure / du commentaire :
+  - Chat Control/CSAR 2.0 toujours sans accord, aucune date de trilogue calée ;
+  - euro numérique en trilogues, aucun accord provisoire ni plafond arrêté ;
+  - CJUE : avis de l'avocat général du 3 sept. (aff. C-661/24, conservation des données) toujours en attente d'arrêt — pas de fait nouveau ;
+  - EUDI, AI Act/Omnibus, AMLR, quantique (jalons incrémentaux), PJM (dépôt attendu ~16 nov., non déposé), DSA X/Grok, COP31 d'Antalya (ouvre le 9 nov.) : rien de matériel.
+
+- **`state.json`** : `last_updated` → 2026-11-07 ; `today_summary` = 0 modifiée / 0 nouvelle, 25 stables, `trend: flat`, `trend_label: "Samedi calme"` ; `sources_today` remplacé par 2 sources de suivi de procédure (`affects: []`). **Aucune probabilité touchée.** JSON revalidé (25 signaux).
+
+- **`changelog.md`** : nouvelle entrée en tête `## 2026-11-07 — 0 modifiée, 0 nouvelle` avec 3 puces (jour calme, surveillance/monnaie, autres domaines).
+
+Aucun autre fichier modifié.
+OK · édition 2026-11-07 · 72 éditions au total
