@@ -1,0 +1,16 @@
+=== Veille 2026-11-08 : 2026-11-08T03:30:01+01:00 ===
+Done. Both files are updated for 2026-11-08.
+
+**Résumé du run — dimanche 2026-11-08 : jour calme, 0 modifiée, 0 nouvelle.**
+
+Balayage des dix domaines sur les sources primaires/fiables : **aucun fait déclencheur matériel** (vote, texte publié, décision de justice, étude majeure, annonce officielle ou incident) dans les 48 h. Toutes les probabilités restent inchangées — ancrage sur la veille respecté.
+
+Points de suivi de procédure (sans impact, `affects: []`) :
+- **Surveillance** — Chat Control/CSAR 2.0 toujours sans accord ; le 7e trilogue (ultime tentative) reste seulement « attendu », aucune date calée, Allemagne décisive, dérogation scan volontaire jusqu'au 3 avril 2028 (déjà cotée).
+- **Monnaie** — trilogues euro numérique en cours, aucun accord provisoire ni plafond arrêté.
+- **Autres** — EUDI (échéance 24 déc.), IA (AI Act applicable, haut-risque reporté au 2 déc. 2027, aucune décision CJUE), crypto/AMLR (lignes directrices AMLA à venir), quantique (jalons incrémentaux, rien au seuil cryptographiquement pertinent), énergie/PJM (dépôt attendu ~16 nov., non déposé), plateformes (enquête DSA X/Grok), climat (**COP31 Antalya ouvre demain 9 nov.**, pas encore ouverte).
+
+Modifications apportées, et rien d'autre :
+- `state.json` : `last_updated` → 2026-11-08 ; `today_summary` (trend `flat`, `trend_label` « Dimanche calme », stable 25) ; `sources_today` entièrement remplacé par les deux sources du jour. JSON validé.
+- `changelog.md` : nouvelle entête `## 2026-11-08 — 0 modifiée, 0 nouvelle` + 3 puces sourcées.
+OK · édition 2026-11-08 · 73 éditions au total
