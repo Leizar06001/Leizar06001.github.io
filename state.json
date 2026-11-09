@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-11-08",
+  "last_updated": "2026-11-09",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 25,
     "trend": "flat",
-    "trend_label": "Dimanche calme"
+    "trend_label": "Jour calme"
   },
   "signals": [
     {
@@ -535,19 +535,19 @@
     {
       "id": "src-1",
       "name": "Suivi Chat Control / CSAR 2.0 (trilogue)",
-      "date": "2026-11-08",
-      "url": "https://www.patrick-breyer.de/en/chat-control-2-0-trilogue-update-no-mass-scanning-deal-for-now-european-parliament-stands-firm-against-search-plans/",
-      "title": "Chat Control : 7e trilogue toujours « attendu » en novembre, aucune date calée (suivi de procédure)",
-      "summary": "Suivi de procédure sans impact. Le règlement CSAR 2.0 reste sans accord après le 6e trilogue du 29 septembre : le Parlement maintient une détection ciblée sur ordre judiciaire sans toucher au chiffrement de bout en bout, le compromis de principe ne couvrant que les ordres de détection sur contenus publics. Un 7e trilogue, présenté comme l'ultime tentative d'accord politique, demeure seulement « attendu » dans les prochaines semaines sans date officiellement calée ; la majorité qualifiée au Conseil reste suspendue à la position allemande, la présidence irlandaise court jusqu'au 31 décembre 2026, et la dérogation « scan volontaire » (Chat Control 1.0) reste en vigueur jusqu'au 3 avril 2028 en excluant le chiffrement — régime déjà coté. Aucun fait matériel nouveau dans les 48 h ⇒ chat-control inchangé.",
+      "date": "2026-11-09",
+      "url": "https://www.patrick-breyer.de/en/posts/chat-control/",
+      "title": "Chat Control : 7e trilogue — ultime tentative — désormais daté du 8 décembre 2026 (suivi de procédure)",
+      "summary": "Suivi de procédure sans impact. Le règlement CSAR 2.0 reste sans accord après le 6e trilogue du 29 septembre : le Parlement maintient une détection ciblée sur ordre judiciaire sans toucher au chiffrement de bout en bout, le compromis de principe ne couvrant que les ordres de détection sur contenus publics. Le 7e trilogue, présenté comme l'ultime tentative d'accord politique et jusqu'ici seulement « attendu » en novembre, est désormais inscrit au 8 décembre 2026 sur le suivi de Patrick Breyer (sans confirmation officielle du Conseil) ; la majorité qualifiée au Conseil reste suspendue à la position allemande, la présidence irlandaise court jusqu'au 31 décembre 2026, et la dérogation « scan volontaire » (Chat Control 1.0, Règl. UE 2026/1881) reste en vigueur jusqu'au 3 avril 2028 en excluant le chiffrement — régime déjà coté. Une date de réunion n'est pas un fait matériel ⇒ chat-control inchangé.",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "Balayage des domaines (euro numérique, identité, IA, crypto, quantique, énergie, plateformes, climat)",
-      "date": "2026-11-08",
-      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/europes-digital-euro-heads-to-last-stage-of-negotiations-what-council-and-parl-102nbx6",
-      "title": "Balayage des domaines : aucun fait matériel nouveau dans les 48 h (dimanche calme)",
-      "summary": "Suivi de procédure sans impact. Euro numérique : trilogues Conseil-Parlement-Commission toujours en cours, aucun accord provisoire ni plafond de détention arrêté (≈3 000 € encore une hypothèse BCE, détention des personnes morales à 0 € défendue par le Parlement), aucune date de trilogue calée, accord visé avant fin 2026 ⇒ euro-num-emission / euro-num-reglement inchangés. Autres domaines sans nouveau fait matériel : identité/EUDI (échéance légale du 24 décembre 2026 pour au moins un portefeuille par État, déploiement inégal — moins d'un tiers des États au niveau de préparation attendu —, Allemagne décalée début janvier 2027, aucun acte nouveau), IA (AI Act applicable depuis le 2 août, report des règles haut-risque au 2 décembre 2027 acté par l'AI Omnibus (UE) 2026/1744, pouvoirs d'exécution Commission/AI Office actifs mais aucune action formelle ni sanction publiée, aucune décision CJUE), crypto/AMLR (application juillet 2027, lignes directrices AMLA sur les wallets auto-hébergés dues le 10 juillet 2027 et toujours sans projet publié, standards de vigilance AMLA au stade de projet final du 1er octobre), quantique (jalons Quantinuum — fidélité logique 99,9995 % sur Helios le 19 octobre — et Infleqtion ~30 qubits logiques incrémentaux, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (dossier PJM/grandes charges : dépôt combiné conformité + art. 205 sur les grandes charges flexibles attendu vers le 16 novembre, non encore déposé ; procédure, signal non coté), plateformes (enquête DSA X/Grok ouverte en janvier toujours en cours, amende DSA de 120 M€ de déc. 2025 en appel déjà connue) et climat (études tipping points/AMOC déjà intégrées ; COP31 d'Antalya du 9 au 20 novembre — ouverture demain, sommet des dirigeants les 11-12 novembre — pas encore ouverte) ⇒ cotes inchangées.",
+      "name": "Balayage des domaines (climat/COP31, euro numérique, identité, IA, crypto, quantique, énergie, plateformes)",
+      "date": "2026-11-09",
+      "url": "https://unric.org/en/unfccc-cop31-the-road-to-antalya/",
+      "title": "Balayage des domaines : ouverture de la COP31 et suivi de procédure, aucun fait matériel nouveau (dimanche calme)",
+      "summary": "Suivi de procédure sans impact. Climat : la COP31 s'ouvre ce 9 novembre à Antalya (Turquie), sous coprésidence inédite Turquie-Australie, avec un segment des chefs d'État et de gouvernement les 11-12 novembre ; ouverture d'une conférence annoncée « de mise en œuvre », pas un fait matériel sur le dépassement 1,5 °C ou les points de bascule (études déjà intégrées) ⇒ climat-15 inchangé. Euro numérique : trilogues Conseil-Parlement-Commission toujours en cours, aucun accord provisoire ni plafond de détention arrêté (≈3 000 €/personne encore une hypothèse, détention des personnes morales à 0 € défendue par le Parlement), aucune date de trilogue calée, accord visé avant fin 2026 ⇒ euro-num-emission / euro-num-reglement inchangés. Autres domaines sans fait matériel : identité/EUDI (échéance légale fin novembre / 24 décembre 2026 pour au moins un portefeuille par État, déploiement inégal — moins d'un tiers des États au niveau attendu, Allemagne décalée début 2027 —, aucun acte nouveau), IA (AI Act applicable depuis le 2 août, consultation de la Commission sur les règles de procédure d'exécution art. 75c/75d clôturée ce 9 novembre — procédure —, premières demandes d'exécution d'octobre sans décision ni sanction publiée, aucune décision CJUE — aff. C-661/24 toujours en délibéré après l'avis de l'avocat général du 3 septembre), dérégulation/Digital Omnibus (mandat du Conseil du 21 octobre, position du Parlement encore à arrêter, aucun trilogue calé — pré-trilogue ⇒ defence-omnibus inchangé), crypto/AMLR (application juillet 2027, lignes directrices AMLA sur les wallets auto-hébergés dues le 10 juillet 2027 et toujours sans projet publié), quantique (jalons Quantinuum — fidélité logique 99,9995 % sur Helios le 19 octobre — et Infleqtion ~30 qubits logiques incrémentaux, aucun calculateur au seuil cryptographiquement pertinent), énergie/compute (dossier PJM/grandes charges : dépôt combiné conformité + art. 205 sur les grandes charges flexibles attendu vers le 16 novembre, non encore déposé ; procédure, signal non coté) et plateformes (enquête DSA X/Grok ouverte en janvier toujours en cours, amende DSA de 120 M€ de déc. 2025 en appel déjà connue) ⇒ cotes inchangées.",
       "affects": []
     }
   ]

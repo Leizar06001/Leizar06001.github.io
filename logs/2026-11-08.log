@@ -14,3 +14,10 @@ Modifications apportées, et rien d'autre :
 - `state.json` : `last_updated` → 2026-11-08 ; `today_summary` (trend `flat`, `trend_label` « Dimanche calme », stable 25) ; `sources_today` entièrement remplacé par les deux sources du jour. JSON validé.
 - `changelog.md` : nouvelle entête `## 2026-11-08 — 0 modifiée, 0 nouvelle` + 3 puces sourcées.
 OK · édition 2026-11-08 · 73 éditions au total
+[main 0634317] veille 2026-11-08
+ 8 files changed, 603 insertions(+), 18 deletions(-)
+ create mode 100644 logs/2026-11-08.log
+ create mode 100644 posts/veille-2026-11-08.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   d0d8966..0634317  main -> main
+Publié.

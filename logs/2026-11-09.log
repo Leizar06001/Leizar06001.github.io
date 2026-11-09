@@ -1,0 +1,17 @@
+=== Veille 2026-11-09 : 2026-11-09T03:30:01+01:00 ===
+Both files are updated. Summary of today's veille run (**2026-11-09, dimanche**) :
+
+**Résultat : jour calme — 0 signal modifié, 0 nouveau.** Aucun fait matériel (vote, texte publié, décision de justice, étude majeure, annonce officielle, incident) dans les 48 h. Toutes les probabilités restent ancrées sur la veille.
+
+**Ce qui a été vérifié :**
+- **Climat** — la COP31 s'ouvre aujourd'hui à Antalya (coprésidence Turquie-Australie, sommet des dirigeants 11-12 nov.). Ouverture de conférence ≠ fait matériel sur le dépassement 1,5 °C / points de bascule → `climat-15` inchangé.
+- **Chat Control** — toujours sans accord ; le 7e trilogue (ultime tentative) est maintenant daté du **8 décembre 2026** sur le suivi Breyer (auparavant seulement « attendu en novembre »). Une date de réunion n'est pas un fait matériel → `chat-control` inchangé.
+- **Euro numérique, EUDI, Digital Omnibus, AMLR, quantique, PJM/énergie, plateformes (DSA X/Grok)** — suivi de procédure, rien de structurant.
+- **IA** — consultation Commission sur les procédures d'exécution (art. 75c/75d) clôturée aujourd'hui (procédural) ; aff. CJUE C-661/24 toujours en délibéré.
+
+**Éditions réalisées (et rien d'autre) :**
+- `state.json` : `last_updated` → 2026-11-09 ; `today_summary` recalculé (stable 25, trend `flat`, label « Jour calme », 10 car.) ; `sources_today` entièrement remplacé par 2 sources du jour (Chat Control + balayage COP31/domaines), toutes deux `affects: []` (jour calme tracé). JSON validé strictement.
+- `changelog.md` : nouvelle entête `## 2026-11-09 — 0 modifiée, 0 nouvelle` avec 4 puces sourcées.
+
+Je n'ai touché ni `build.py`, ni `style.css`, ni les pages HTML, ni les logs.
+OK · édition 2026-11-09 · 74 éditions au total
