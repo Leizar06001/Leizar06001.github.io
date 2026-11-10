@@ -15,3 +15,10 @@ Both files are updated. Summary of today's veille run (**2026-11-09, dimanche**)
 
 Je n'ai touché ni `build.py`, ni `style.css`, ni les pages HTML, ni les logs.
 OK · édition 2026-11-09 · 74 éditions au total
+[main 8aeee77] veille 2026-11-09
+ 8 files changed, 608 insertions(+), 21 deletions(-)
+ create mode 100644 logs/2026-11-09.log
+ create mode 100644 posts/veille-2026-11-09.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   0634317..8aeee77  main -> main
+Publié.

@@ -1,0 +1,16 @@
+=== Veille 2026-11-10 : 2026-11-10T03:30:01+01:00 ===
+Both files are updated. Summary of today's veille run (2026-11-10, mardi) :
+
+**Résultat : jour calme — 0 signal modifié, 0 nouveau.** Aucun fait matériel (vote, texte publié, décision de justice, étude majeure, annonce officielle, incident) dans les 48 h sur l'ensemble des domaines ⇒ toutes les probabilités laissées inchangées, ancrées sur la veille.
+
+**Balayage effectué :**
+- **Climat** — COP31 ouverte le 9 nov. à Antalya : jour 1 = adoption de l'ordre du jour + différend précoce sur le financement + initiatives volontaires (électrification, résilience sanitaire). Ni l'ouverture ni des engagements volontaires ne sont un fait matériel sur le dépassement de 1,5 °C / les points de bascule (études déjà intégrées) → `climat-15` inchangé. Segment des dirigeants à suivre les 11-12 nov.
+- **Surveillance** — Chat Control/CSAR 2.0 sans accord, 7e trilogue toujours daté du 8 déc. (une date ≠ fait matériel) → `chat-control` inchangé.
+- **Monnaie, identité, IA, dérégulation, crypto, quantique, énergie, plateformes** — tous en statut procédural/pré-trilogue déjà reflété dans le state → cotes inchangées.
+
+**Éditions :**
+- `state.json` : `last_updated` → 2026-11-10 ; `sources_today` entièrement remplacé (2 sources de suivi, `affects: []`) ; `today_summary` déjà conforme (25 stable, flat, « Jour calme »). JSON revalidé (25 signaux, 2 sources).
+- `changelog.md` : nouvelle entrée en tête `## 2026-11-10 — 0 modifiée, 0 nouvelle` avec 3 puces sourcées.
+
+Je n'ai touché à aucun autre fichier.
+OK · édition 2026-11-10 · 75 éditions au total
