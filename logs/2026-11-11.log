@@ -1,0 +1,9 @@
+=== Veille 2026-11-11 : 2026-11-11T03:30:01+01:00 ===
+Both files updated. Summary of today's run (**2026-11-11**):
+
+- **Verdict**: jour calme — aucun fait déclencheur matériel dans les 48 h sur l'ensemble des domaines. Toutes les probabilités restent inchangées (0 modifiée, 0 nouvelle ; 25 signaux stables, tendance `flat`).
+- **`state.json`** : `last_updated` → `2026-11-11` ; `today_summary` inchangé (valeurs déjà correctes, `trend_label` « Jour calme ») ; `sources_today` entièrement remplacé par deux entrées du jour (COP31 — sommet des dirigeants d'Antalya ; balayage procédural des autres domaines), toutes deux `affects: []`. JSON revalidé strict.
+- **`changelog.md`** : nouvelle entrée en tête `## 2026-11-11 — 0 modifiée, 0 nouvelle` avec trois puces (jour calme, climat/COP31, suivi procédural).
+
+Points notables écartés car non matériels ou hors fenêtre : ouverture du sommet des dirigeants COP31 (discours/déclaration en préparation, études déjà intégrées), réintégration du DNI numérique espagnol MiDNI pour le scrutin du 29 novembre (dispositif national, daté du 6 nov.). Aucune autre modification — `build.py`, `style.css` et les pages HTML n'ont pas été touchés.
+OK · édition 2026-11-11 · 76 éditions au total
