@@ -7,3 +7,10 @@ Both files updated. Summary of today's run (**2026-11-11**):
 
 Points notables écartés car non matériels ou hors fenêtre : ouverture du sommet des dirigeants COP31 (discours/déclaration en préparation, études déjà intégrées), réintégration du DNI numérique espagnol MiDNI pour le scrutin du 29 novembre (dispositif national, daté du 6 nov.). Aucune autre modification — `build.py`, `style.css` et les pages HTML n'ont pas été touchés.
 OK · édition 2026-11-11 · 76 éditions au total
+[main 93e9b30] veille 2026-11-11
+ 8 files changed, 597 insertions(+), 19 deletions(-)
+ create mode 100644 logs/2026-11-11.log
+ create mode 100644 posts/veille-2026-11-11.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   ccc40e1..93e9b30  main -> main
+Publié.

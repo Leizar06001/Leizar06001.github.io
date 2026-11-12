@@ -1,0 +1,15 @@
+=== Veille 2026-11-12 : 2026-11-12T03:30:01+01:00 ===
+Mise à jour terminée pour le **2026-11-12** (jeudi).
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle.** Aucun fait déclencheur matériel (vote, texte publié, décision de justice, étude majeure, annonce officielle, incident) dans les dernières 48 h sur l'ensemble des domaines. Toutes les probabilités restent ancrées sur la veille.
+
+Ce que les recherches ont confirmé (tout procédural ou déjà coté) :
+- **Surveillance** — Chat Control/CSAR 2.0 toujours sans accord, 7e trilogue inscrit au 8 décembre, QMV suspendue à l'Allemagne ; dérogation « scan volontaire » déjà en vigueur jusqu'en avril 2028.
+- **Monnaie** — euro numérique en trilogue, aucun accord provisoire ni plafond arrêté.
+- **Climat** — COP31 Antalya : 2e jour du sommet des dirigeants, « déclaration d'Antalya » encore en rédaction → pas un fait matériel sur 1,5 °C / points de bascule.
+- **Identité, Digital Omnibus, crypto/AMLR, quantique, énergie/PJM, plateformes/DSA** — rien de nouveau, dépôt PJM toujours attendu vers le 16 novembre.
+
+Éditions effectuées (et rien d'autre) :
+- `state.json` : `last_updated` → 2026-11-12 ; `today_summary` (stable 25, trend flat, « Jour calme ») ; `sources_today` entièrement remplacé par 2 sources du jour (`affects: []`). JSON validé.
+- `changelog.md` : nouvelle entrée en tête `## 2026-11-12 — 0 modifiée, 0 nouvelle` avec 3 puces sourcées.
+OK · édition 2026-11-12 · 77 éditions au total
