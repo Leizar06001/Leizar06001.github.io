@@ -1,0 +1,14 @@
+=== Veille 2026-11-13 : 2026-11-13T03:30:01+01:00 ===
+Warning: this sign-in ends between 2026-11-18 and 2026-11-21 (in 5 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+Both files are updated and verified.
+
+## Résumé — veille du 2026-11-13 (vendredi)
+
+**Jour calme : 0 signal modifié, 0 nouveau.** Aucun fait matériel (vote, texte publié, décision de justice, étude majeure, annonce officielle, incident) dans les dernières 48 h. Les 25 signaux restent inchangés, `trend = flat`, `trend_label = « Jour calme »`.
+
+**Point de vigilance vérifié :** des articles sur le « retrait du scan obligatoire » du mandat du Conseil et la « tromperie politique » dénoncée par Breyer remontaient dans les recherches. Après vérification croisée (recherche étendue + recherches ciblées), ce sont des contenus de **novembre 2025** qui recirculent — le compromis danois déjà coté et intégré à l'état. **Aucun nouveau mandat du Conseil en novembre 2026.** Le 7e trilogue reste fixé au 8 décembre 2026. J'ai donc laissé `chat-control` inchangé, conformément au garde-fou « ajuster une prob uniquement sur un fait matériel et sourcé ».
+
+**Reste du balayage** — tout en suivi de procédure : euro numérique (trilogues sans accord, plafond non arrêté), EUDI (échéance 24 déc. 2026, déploiement inégal), AI Act (consultation art. 75c/75d close le 9 nov., aucune sanction, C-661/24 en délibéré), Digital Omnibus (pré-trilogue, position Parlement à arrêter), AMLR (lignes AMLA dues 2027), quantique (jalons incrémentaux, rien de cryptographiquement pertinent), énergie/PJM (dépôt attendu ≤ 16 nov., non déposé), COP31 (négociations en cours jusqu'au 20 nov., décision de couverture non publiée — rien de matériel sur `climat-15`).
+
+**Fichiers touchés :** `state.json` (`last_updated` → 2026-11-13, `sources_today` entièrement remplacé par 2 sources `affects: []`) et `changelog.md` (nouvelle entrée en tête). JSON validé strictement. Rien d'autre modifié.
+OK · édition 2026-11-13 · 78 éditions au total
