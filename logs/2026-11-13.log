@@ -12,3 +12,10 @@ Both files are updated and verified.
 
 **Fichiers touchés :** `state.json` (`last_updated` → 2026-11-13, `sources_today` entièrement remplacé par 2 sources `affects: []`) et `changelog.md` (nouvelle entrée en tête). JSON validé strictement. Rien d'autre modifié.
 OK · édition 2026-11-13 · 78 éditions au total
+[main 648b9e9] veille 2026-11-13
+ 8 files changed, 602 insertions(+), 19 deletions(-)
+ create mode 100644 logs/2026-11-13.log
+ create mode 100644 posts/veille-2026-11-13.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   dad40d0..648b9e9  main -> main
+Publié.

@@ -1,0 +1,18 @@
+=== Veille 2026-11-14 : 2026-11-14T03:30:01+01:00 ===
+Warning: this sign-in ends between 2026-11-18 and 2026-11-21 (in 4 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+Mise à jour terminée. Résumé du run du **2026-11-14** (samedi) :
+
+**Résultat : jour calme — 0 signal modifié, 0 nouveau, toutes les probabilités inchangées.**
+
+Le balayage des dix domaines n'a relevé aucun **fait matériel** (vote, texte publié, décision de justice, étude majeure, annonce officielle, incident) dans les dernières 48 h. Seul élément notable, purement procédural :
+
+- **Climat / COP31 (Antalya)** : la coprésidence Turquie-Australie a diffusé le 13 novembre un *résumé* de la décision de couverture — un « texte de réflexion » compilant les positions, explicitement **non négocié**. Réponses des pays attendues ce samedi, projet officiel pas avant la semaine prochaine. Ni négocié ni adopté ⇒ `climat-15` inchangé.
+
+Reste du suivi (sans impact) : Chat Control/CSAR 2.0 toujours sans accord (7e trilogue inscrit au 8 déc.), euro numérique en trilogues sans accord provisoire, EUDI (échéance 24 déc.), AI Act (AI Board le 18 nov.), Digital Omnibus (volet RGPD en pré-trilogue), AMLR, quantique (jalons incrémentaux), énergie/compute (dépôt PJM art. 205 attendu au plus tard le 16 nov., non déposé), plateformes (DSA X/Grok).
+
+**Éditions réalisées :**
+- `state.json` : `last_updated` → `2026-11-14` ; `sources_today` entièrement remplacé (2 sources de suivi, `affects: []`). JSON validé, 25 signaux intacts. Les probabilités n'ont pas été touchées.
+- `changelog.md` : nouvelle entrée en tête `## 2026-11-14 — 0 modifiée, 0 nouvelle` (3 puces).
+
+Aucun autre fichier n'a été modifié.
+OK · édition 2026-11-14 · 79 éditions au total
