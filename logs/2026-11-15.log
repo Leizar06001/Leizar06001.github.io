@@ -1,0 +1,14 @@
+=== Veille 2026-11-15 : 2026-11-15T03:30:01+01:00 ===
+Warning: this sign-in ends between 2026-11-18 and 2026-11-21 (in 3 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+Both files are updated and `state.json` validates as strict JSON. Summary of today's run (2026-11-15, dimanche) :
+
+- **Jour calme — 0 modifiée, 0 nouvelle.** Aucun fait matériel (vote, texte adopté, décision de justice, étude majeure, annonce officielle, incident) dans les 48 h. Toutes les probabilités inchangées, ancrées sur la veille.
+- **COP31 (Antalya)** : à mi-parcours, projets de texte en circulation et décision de couverture encore à l'état de compilation (« liste de souhaits »), projet attendu « en début de semaine prochaine » — procédure, pas un fait matériel sur `climat-15`.
+- **Autres domaines** (Chat Control, e-Evidence, euro numérique, EUDI, AI Act, Digital Omnibus, AMLR, quantique, PJM/compute, DSA X-Grok) : suivi de procédure, aucune échéance franchie.
+
+Modifications apportées :
+- `state.json` : `last_updated` → `2026-11-15` ; `sources_today` entièrement remplacé (2 sources, `affects: []` — COP31 + balayage des domaines) ; `today_summary` déjà conforme (25 stable, trend `flat`, « Jour calme »).
+- `changelog.md` : nouvelle entrée en tête `## 2026-11-15 — 0 modifiée, 0 nouvelle` (3 puces sourcées).
+
+Je n'ai touché à aucun autre fichier.
+OK · édition 2026-11-15 · 80 éditions au total
