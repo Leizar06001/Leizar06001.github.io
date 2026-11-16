@@ -1,0 +1,16 @@
+=== Veille 2026-11-16 : 2026-11-16T03:30:01+01:00 ===
+Warning: this sign-in ends between 2026-11-18 and 2026-11-21 (in 2 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+Done. Both files updated for 2026-11-16.
+
+**Résultat : jour calme (lundi) — 0 modifiée, 0 nouvelle.** Aucun fait matériel dans les 48 h, toutes les probabilités inchangées (25 signaux stables).
+
+Points vérifiés qui auraient pu déclencher un ajustement, mais qui restent au stade procédural :
+- **Euro numérique** — un accord politique est envisagé *dès le trilogue du 18 novembre* ; aucun accord provisoire conclu à ce jour, la convergence porterait sur une méthodologie de plafond plutôt qu'un montant inscrit → `euro-num-reglement` / `euro-num-emission` inchangés. (À resuivre de près le 18.)
+- **COP31 Antalya** — projets de texte en circulation, décision de couverture ni rédigée ni adoptée, clôture visée le 20 → `climat-15` inchangé.
+- **PJM/grandes charges (EL26-67)** — échéance de dépôt FPA art. 205 aujourd'hui ; procédure, signal non coté.
+- **Chat Control** (7e trilogue 8 déc.), **e-Evidence**, **DSA/X** (amende en appel), **EUDI**, **AI Act/CJEU**, **crypto/AMLA**, **quantique**, **Digital Omnibus** — rien de nouveau.
+
+Modifications apportées (et rien d'autre) :
+- `state.json` : `last_updated` → 2026-11-16 ; `sources_today` entièrement remplacé (2 sources, `affects: []`) ; `today_summary` déjà conforme (flat, « Jour calme »). JSON validé.
+- `changelog.md` : nouvelle entête `## 2026-11-16 — 0 modifiée, 0 nouvelle` + 3 puces sourcées.
+OK · édition 2026-11-16 · 81 éditions au total
