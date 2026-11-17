@@ -1,0 +1,12 @@
+=== Veille 2026-11-17 : 2026-11-17T03:30:01+01:00 ===
+Warning: this sign-in ends between 2026-11-18 and 2026-11-21 (in 1 day at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+Both files updated. Summary of today's run (**2026-11-17**) :
+
+- **Jour calme (mardi)** — aucun fait matériel déclencheur (vote, texte publié, décision de justice, étude majeure, annonce officielle, incident) dans les 48 h.
+- **Aucune probabilité modifiée** : les 25 signaux restent stables, `trend: flat`, `trend_label: "Jour calme"`.
+- Ce qui bougeait n'était que de l'**agenda / procédure** : Apply AI Summit tenu aujourd'hui (promotion de l'adoption, sans décision/sanction) et AI Board le 18 ; trilogue euro numérique attendu le 18 novembre (pas encore d'accord) ; décision de couverture COP31 toujours en négociation (segment de haut niveau 17-18, clôture visée le 20) ; Chat Control/CSAR 2.0 sans accord (7e trilogue le 8 décembre) ; dépôt PJM art. 205 attendu au 16 novembre non confirmé.
+
+Fichiers touchés, rien d'autre :
+- `state.json` : `last_updated → 2026-11-17`, `sources_today` entièrement remplacé (2 sources de suivi, `affects: []`), JSON validé.
+- `changelog.md` : nouvelle entête `## 2026-11-17 — 0 modifiée, 0 nouvelle` + 3 puces sourcées.
+OK · édition 2026-11-17 · 82 éditions au total

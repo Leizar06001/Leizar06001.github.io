@@ -14,3 +14,10 @@ Modifications apportées (et rien d'autre) :
 - `state.json` : `last_updated` → 2026-11-16 ; `sources_today` entièrement remplacé (2 sources, `affects: []`) ; `today_summary` déjà conforme (flat, « Jour calme »). JSON validé.
 - `changelog.md` : nouvelle entête `## 2026-11-16 — 0 modifiée, 0 nouvelle` + 3 puces sourcées.
 OK · édition 2026-11-16 · 81 éditions au total
+[main edfe89d] veille 2026-11-16
+ 8 files changed, 605 insertions(+), 20 deletions(-)
+ create mode 100644 logs/2026-11-16.log
+ create mode 100644 posts/veille-2026-11-16.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   3712056..edfe89d  main -> main
+Publié.
