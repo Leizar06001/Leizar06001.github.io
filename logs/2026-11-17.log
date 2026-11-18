@@ -10,3 +10,10 @@ Fichiers touchés, rien d'autre :
 - `state.json` : `last_updated → 2026-11-17`, `sources_today` entièrement remplacé (2 sources de suivi, `affects: []`), JSON validé.
 - `changelog.md` : nouvelle entête `## 2026-11-17 — 0 modifiée, 0 nouvelle` + 3 puces sourcées.
 OK · édition 2026-11-17 · 82 éditions au total
+[main aefd1a0] veille 2026-11-17
+ 8 files changed, 601 insertions(+), 20 deletions(-)
+ create mode 100644 logs/2026-11-17.log
+ create mode 100644 posts/veille-2026-11-17.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   edfe89d..aefd1a0  main -> main
+Publié.

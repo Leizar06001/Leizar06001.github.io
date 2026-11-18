@@ -1,0 +1,18 @@
+=== Veille 2026-11-18 : 2026-11-18T03:30:01+01:00 ===
+Warning: this sign-in can end at any time from now until 2026-11-21. Renewing it does not move that date. Run claude auth login now, or use claude setup-token for unattended jobs.
+Done. Veille mise à jour pour le **2026-11-18** (mercredi).
+
+**Résultat : jour calme — 0 modifiée, 0 nouvelle, probabilités toutes inchangées.**
+
+Le point à surveiller était le **trilogue euro numérique inscrit ce 18 novembre**, où la présidence irlandaise visait un accord politique. Vérification faite sur sources primaires et presse spécialisée : **aucun accord confirmé** à ce stade. Conformément aux garde-fous (« une date de réunion ne vaut pas accord »), je n'ai pas ajusté `euro-num-reglement` ni `euro-num-emission` — l'issue effective reste à resuivre.
+
+Reste du balayage, uniquement procédural :
+- **COP31** : décision de couverture toujours en négociation, clôture visée le 20 → `climat-15` inchangé.
+- **AI Board** (10e réunion aujourd'hui), **Chat Control** (7e trilogue au 8 déc.), **EUDI** (échéance 24 déc.), **PJM/énergie** (rien de nouveau en novembre), **quantique** (jalons incrémentaux), **DSA X/Grok** (enquête de janvier en cours) : aucun fait matériel.
+
+Éditions effectuées :
+- `state.json` : `last_updated` → 2026-11-18 ; `sources_today` remplacé par 2 sources du jour (trilogue euro numérique + balayage), toutes deux `affects: []`. JSON validé (25 signaux, `trend_label` « Jour calme », 10 car.). `today_summary` déjà en état jour calme (stable 25, flat) — inchangé.
+- `changelog.md` : nouvelle entête `## 2026-11-18 — 0 modifiée, 0 nouvelle` avec 3 puces.
+
+Aucun autre fichier touché.
+OK · édition 2026-11-18 · 83 éditions au total
