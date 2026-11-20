@@ -1,0 +1,18 @@
+=== Veille 2026-11-20 : 2026-11-20T03:30:01+01:00 ===
+Warning: this sign-in can end at any time from now until 2026-11-21. Renewing it does not move that date. Run claude auth login now, or use claude setup-token for unattended jobs.
+Both files updated. Summary of today's run (2026-11-20, vendredi) :
+
+**Aucun fait matériel → 0 signal modifié, 0 nouveau. Toutes les probabilités inchangées.**
+
+Deux fils en mouvement, mais aucun ne constitue un fait matériel sourcé :
+- **Euro numérique** — l'issue du trilogue du 18 novembre reste non documentée deux jours après (ni accord provisoire ni report formel confirmé par les sources primaires) → `euro-num-reglement` / `euro-num-emission` inchangés, à resuivre.
+- **COP31** — projet de décision de couverture révisé du 19 novembre (suppression des références aux fossiles, maintien du « 35 by 35 »), mais texte **non adopté** à la clôture visée ce jour, et portant sur l'ambition politique, pas sur la science → `climat-15` inchangé.
+
+Reste (surveillance, IA/CJUE C-661/24 toujours en délibéré, EUDI, crypto/AMLA, quantique, énergie, plateformes) : rien de nouveau.
+
+Modifications apportées :
+- `state.json` : `last_updated` → 2026-11-20, `today_summary` (flat, « Jour calme », 25 stables), `sources_today` entièrement remplacé par 3 sources du jour (toutes `affects: []`). JSON validé.
+- `changelog.md` : entrée `## 2026-11-20 — 0 modifiée, 0 nouvelle` ajoutée en tête avec 3 puces.
+
+Je n'ai touché à aucun autre fichier.
+OK · édition 2026-11-20 · 85 éditions au total
