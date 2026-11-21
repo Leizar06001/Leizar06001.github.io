@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-11-20",
+  "last_updated": "2026-11-21",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 25,
     "trend": "flat",
-    "trend_label": "Jour calme"
+    "trend_label": "Veille tranquille"
   },
   "signals": [
     {
@@ -534,28 +534,28 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Monnaie — euro numérique : issue du trilogue du 18 novembre toujours non confirmée (suivi, pas d'impact)",
-      "date": "2026-11-20",
-      "url": "https://agenceurope.eu/en/bulletin/article/13977/18/negotiations-intensify-between-european-parliament-and-eu-council-on-digital-euro",
-      "title": "Euro numérique : aucune confirmation d'accord politique au trilogue du 18 novembre deux jours après la réunion (suivi, pas d'impact)",
-      "summary": "Suivi de procédure sans impact. La présidence irlandaise du Conseil avait fait du trilogue du 18 novembre la cible d'un accord politique « si possible » (6e trilogue du 5 novembre centré sur l'acceptation obligatoire du cash, points restants jugés surtout techniques) ; deux jours après, aucune source primaire (Conseil, Parlement, BCE) ni presse spécialisée consultée ne confirme la conclusion d'un accord provisoire, ni d'ailleurs un report formel. Les points durs à la veille de la réunion restaient le modèle de frais aux commerçants (la France s'opposant à la clause « no worse off » du Parlement, qui exigerait des frais au moins aussi favorables que pour les moyens de paiement existants), le traitement des personnes sanctionnées par des pays tiers, le niveau et l'autorité de fixation du plafond de détention (≈3 000 €/personne restant une hypothèse de modélisation BCE ; Parlement favorable à un acte délégué de la Commission, Conseil à une décision d'exécution) et le calendrier de déploiement échelonné. La BCE (Cipollone) continue de presser pour une adoption avant fin 2026 afin de tenir un lancement visé en 2029. Faute d'issue confirmée, pas de fait matériel ⇒ euro-num-reglement / euro-num-emission inchangés (à resuivre dès que l'issue effective du trilogue sera documentée).",
+      "name": "Monnaie — euro numérique : trilogue du 18-19 novembre clos sans accord, nouvelle réunion fixée en décembre (suivi, pas d'impact)",
+      "date": "2026-11-21",
+      "url": "https://agenceurope.eu/en/bulletin/article/13985/21/european-parliament-and-eu-council-negotiators-to-meet-in-december-to-finalise-digital-euro-arrangements",
+      "title": "Euro numérique : le trilogue politique de la nuit du 18 au 19 novembre échoue à conclure ; Parlement et Conseil se retrouveront en décembre (suivi, pas d'impact)",
+      "summary": "Suivi de procédure sans impact — mais résolution du suivi des jours précédents. L'issue du trilogue du 18 novembre est désormais documentée : la séance s'est prolongée toute la nuit (une quinzaine d'heures, clôture vers 4h30 le 19 novembre) sans accord politique. Selon une source parlementaire, l'échec ne tient pas à un désaccord de fond mais à un ordre du jour trop lourd pour conclure en une séance ; les discussions ont porté sur les exceptions à l'acceptation obligatoire par les commerçants et sur le modèle de rémunération des prestataires de paiement, tandis que la lutte anti-blanchiment et le maintien du paiement en espèces pour certains services essentiels n'ont pas été abordés. Les positions seraient proches sur plusieurs points, dont la compensation. Parlement et Conseil annoncent une nouvelle réunion en décembre pour finaliser, l'objectif d'adoption avant fin 2026 (pour un lancement visé en 2029, BCE/Cipollone) restant poursuivi. Un trilogue qui échoue à conclure, sur le même calendrier et sans blocage de fond, n'est ni une avancée ni un déraillement structurel : la dynamique de négociation déjà intégrée reste inchangée ⇒ euro-num-reglement / euro-num-emission inchangés (à resuivre pour l'issue de la réunion de décembre).",
       "affects": []
     },
     {
       "id": "src-2",
-      "name": "Climat — COP31 Antalya : projet de décision révisé du 19 novembre, texte non adopté à la clôture visée le 20 (suivi, pas d'impact)",
-      "date": "2026-11-20",
-      "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
-      "title": "COP31 : nouveau projet de décision de couverture (abandon des références aux combustibles fossiles, maintien du « 35 by 35 »), adoption non confirmée (suivi, pas d'impact)",
-      "summary": "Suivi de procédure sans impact. Un projet de décision de couverture révisé, diffusé le 19 novembre (jour 10), est nettement raccourci : il supprime toute référence aux combustibles fossiles — y compris une formulation antérieure appelant à accélérer la sortie du charbon, du pétrole et du gaz — tout en conservant l'objectif d'électrification « 35 by 35 » (35 % de la demande finale d'énergie en 2035, priorité de la présidence turque) et en proposant de lancer la feuille de route Antalya-Addis-Abeba sur le financement de l'adaptation. Le texte a été vivement critiqué par la société civile et les pays climatiquement vulnérables ; le groupe LMDC (Inde, Chine, Arabie saoudite, Égypte…) s'oppose à l'inscription du « 35 by 35 » dans la décision de couverture, et le projet omet le chiffrage du triplement du financement de l'adaptation réclamé par l'Afrique et les PMA. L'adoption exigeant le consensus de près de 200 pays, les consultations se poursuivaient dans la nuit, clôture visée le 20 novembre sans texte final confirmé à ce stade. Un projet de décision non adopté — et qui porte sur l'ambition politique, non sur la science du climat — n'est pas un fait matériel sur le dépassement de 1,5 °C ou les points de bascule (études déjà intégrées) ⇒ climat-15 inchangé (à resuivre pour le texte effectivement adopté).",
+      "name": "Climat — COP31 Antalya en prolongation : bataille sur les combustibles fossiles, aucun texte de couverture adopté (suivi, pas d'impact)",
+      "date": "2026-11-21",
+      "url": "https://www.dawn.com/news/2045986/cop31-runs-into-overtime-over-fossil-fuel-dispute",
+      "title": "COP31 : conférence prolongée au-delà de la clôture visée le 20 novembre, 3e projet de décision attendu samedi, aucun texte final adopté (suivi, pas d'impact)",
+      "summary": "Suivi de procédure sans impact. La conférence d'Antalya est entrée en prolongation au-delà de sa clôture visée le 20 novembre, sur fond de bras de fer autour des combustibles fossiles. Un deuxième projet de décision de couverture, raccourci et diffusé le 19 novembre, a supprimé les références aux combustibles fossiles (au profit, selon la presse, de formulations sur la capture du carbone), provoquant l'opposition de l'UE et d'une coalition d'environ 23 pays (dont l'Irlande) réclamant la réintroduction du langage de sortie progressive ; la présidence turque devait présenter un troisième projet samedi matin (≈9h, heure locale). La présidence fait valoir que l'accord de Dubaï (COP28) a déjà acté la transition hors des fossiles et que l'objectif d'électrification « 35 by 35 » (porter la part de l'électricité à 35 % de la demande finale d'énergie d'ici 2035) réduirait la demande fossile ; le groupe LMDC s'oppose à l'inscription du « 35 by 35 » dans la décision de couverture. L'adoption exigeant le consensus de près de 200 pays, aucun texte final n'était confirmé à ce stade. Un projet non adopté — portant sur l'ambition politique et non sur la science du climat — n'est pas un fait matériel sur le dépassement de 1,5 °C ou les points de bascule (études déjà intégrées) ⇒ climat-15 inchangé (à resuivre pour le texte effectivement adopté).",
       "affects": []
     },
     {
       "id": "src-3",
       "name": "Balayage des autres domaines (surveillance, IA/CJUE, identité, crypto, quantique, énergie, plateformes)",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "url": "https://www.patrick-breyer.de/en/posts/chat-control/",
-      "title": "Balayage : aucun fait matériel nouveau sur les autres signaux (vendredi calme)",
+      "title": "Balayage : aucun fait matériel nouveau sur les autres signaux (samedi calme)",
       "summary": "Suivi de procédure sans impact. Surveillance : Chat Control/CSAR 2.0 toujours sans accord, 7e trilogue — ultime tentative d'accord politique — inscrit au 8 décembre 2026, majorité qualifiée du Conseil suspendue à une Allemagne non décidée, dérogation « scan volontaire » (Règl. UE 2026/1881) en vigueur jusqu'au 3 avril 2028 et excluant le chiffrement (déjà cotée) ⇒ chat-control inchangé ; e-Evidence applicable depuis le 18 août (aucun fait nouveau). IA : AI Act applicable depuis le 2 août, aucune décision ni sanction publiée, aucun arrêt CJUE (aff. C-661/24 Académie Fiscale : avis de l'avocat général du 3 septembre, délibéré en cours, aucun jugement) ⇒ ai-act-haut-risque inchangé. Identité/EUDI : échéance du 24 décembre 2026 pour au moins un portefeuille par État, déploiement inégal (moins d'un tiers des États au niveau attendu, portefeuille allemand décalé au 2 janvier 2027), aucun acte nouveau. Crypto/AMLR : application juillet 2027, lignes directrices AMLA sur les wallets auto-hébergés dues le 10 juillet 2027, aucun projet publié. Quantique : jalons incrémentaux (Quantinuum Helios à 99,9995 % de fidélité logique le 19 octobre, Infleqtion ~30 qubits logiques), aucun calculateur au seuil cryptographiquement pertinent. Énergie/compute : dossier PJM EL26-67 (dépôts FPA art. 205 grandes charges flexibles et co-location dus le 16 novembre), procédure, signal non coté. Dérégulation/Digital Omnibus : volet IA adopté (Règl. UE 2026/1744), volet données/RGPD en pré-trilogue ⇒ defence-omnibus inchangé. Plateformes : enquête DSA X/Grok de janvier toujours en cours, amende DSA de 120 M€ de déc. 2025 en appel (aff. T-113/26 e.a.) déjà connues ⇒ cotes inchangées.",
       "affects": []
     }

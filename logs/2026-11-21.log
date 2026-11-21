@@ -1,0 +1,18 @@
+=== Veille 2026-11-21 : 2026-11-21T03:30:11+01:00 ===
+Warning: this sign-in can end at any time from now until 2026-11-21. Renewing it does not move that date. Run claude auth login now, or use claude setup-token for unattended jobs.
+Terminé. Récapitulatif de la mise à jour du 2026-11-21 (samedi) :
+
+**`state.json`**
+- `last_updated` → `2026-11-21`.
+- `today_summary` : 0 modifiée, 0 nouvelle, 25 stables, `trend: flat`, `trend_label: "Veille tranquille"`.
+- `sources_today` entièrement remplacé (3 sources, toutes paraphrasées, `affects: []`) : euro numérique (trilogue clos sans accord, réunion en décembre), COP31 en prolongation, balayage des autres domaines.
+- **Aucune cote touchée** : aucun fait matériel déclencheur dans les 48 h.
+
+**`changelog.md`** : nouvelle entrée en tête `## 2026-11-21 — 0 modifiée, 0 nouvelle` (3 puces).
+
+Points de jugement :
+- Le **trilogue euro numérique du 18-19 novembre** a une issue enfin documentée (≈15 h de négociation, pas d'accord, nouvelle réunion en décembre, calendrier fin 2026 maintenu). Un échec procédural *sans désaccord de fond*, sur le même calendrier, n'est ni une avancée ni un déraillement structurel → `euro-num-reglement`/`euro-num-emission` inchangés. Cela résout le suivi « issue non confirmée » des jours précédents.
+- **COP31** reste en prolongation, aucun texte de couverture adopté ; un projet non adopté (ambition politique, pas science) → `climat-15` inchangé.
+
+JSON validé (`python3 -I`), aucun autre fichier modifié (`build.py`, `style.css`, HTML intacts).
+OK · édition 2026-11-21 · 86 éditions au total
