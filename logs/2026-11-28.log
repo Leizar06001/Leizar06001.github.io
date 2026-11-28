@@ -1,0 +1,15 @@
+=== Veille 2026-11-28 : 2026-11-28T03:30:01+01:00 ===
+Done. Both files updated for 2026-11-28.
+
+**Résultat : 0 cote modifiée, 0 nouveau signal.** Un fait matériel dans la fenêtre (l'effondrement de la COP31), mais il concerne un signal non coté — aucune probabilité ne bouge.
+
+**Fait marquant — effondrement de la COP31 (22 nov.)** : la conférence d'Antalya s'est achevée sans décision de couverture, première COP à échouer sur ce point depuis Copenhague (2009), bloquée sur les combustibles fossiles (l'UE refusant un texte sans mention de sortie). C'est un fait matériel (issue officielle d'une conférence majeure), mais il porte sur l'ambition politique / la gouvernance, non sur la science du dépassement 1,5 °C ou des points de bascule — or `climat-15` est un signal de **suivi non coté**. Conformément aux garde-fous, aucune cote n'est ajustée.
+
+**Reste de la veille, procédural / sans impact :**
+- **Euro numérique** : toujours pas d'accord après le trilogue des 18-19 nov. ; réunions de décembre visées pour conclure → `euro-num-reglement` / `euro-num-emission` inchangés.
+- **Balayage** (surveillance/Chat Control, IA/CJUE C-661/24 en délibéré, EUDI, crypto/AMLR, quantique, énergie/PJM, Digital Omnibus, plateformes/DSA) : aucun fait matériel nouveau → cotes inchangées.
+
+Modifs apportées, et rien d'autre :
+- `state.json` : `last_updated` → 2026-11-28, `trend_label` → « COP31 s'effondre sans accord sur les fossiles ; cotes inchangées » (64 car.), `sources_today` entièrement remplacé (3 sources). JSON revalidé (25 signaux, 3 sources).
+- `changelog.md` : nouvelle entête en tête avec 3 puces sourcées.
+OK · édition 2026-11-28 · 87 éditions au total

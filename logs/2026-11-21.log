@@ -16,3 +16,10 @@ Points de jugement :
 
 JSON validé (`python3 -I`), aucun autre fichier modifié (`build.py`, `style.css`, HTML intacts).
 OK · édition 2026-11-21 · 86 éditions au total
+[main fcc9025] veille 2026-11-21
+ 8 files changed, 619 insertions(+), 24 deletions(-)
+ create mode 100644 logs/2026-11-21.log
+ create mode 100644 posts/veille-2026-11-21.html
+To github.com:Leizar06001/Leizar06001.github.io.git
+   5758d25..fcc9025  main -> main
+Publié.

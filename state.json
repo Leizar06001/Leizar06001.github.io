@@ -7,7 +7,7 @@
     "delta_cap": 5,
     "history_window": 30
   },
-  "last_updated": "2026-11-21",
+  "last_updated": "2026-11-28",
   "today_summary": {
     "changed": 0,
     "new": 0,
@@ -15,7 +15,7 @@
     "down": 0,
     "stable": 25,
     "trend": "flat",
-    "trend_label": "Veille tranquille"
+    "trend_label": "COP31 s'effondre sans accord sur les fossiles ; cotes inchangées"
   },
   "signals": [
     {
@@ -534,29 +534,31 @@
   "sources_today": [
     {
       "id": "src-1",
-      "name": "Monnaie — euro numérique : trilogue du 18-19 novembre clos sans accord, nouvelle réunion fixée en décembre (suivi, pas d'impact)",
-      "date": "2026-11-21",
-      "url": "https://agenceurope.eu/en/bulletin/article/13985/21/european-parliament-and-eu-council-negotiators-to-meet-in-december-to-finalise-digital-euro-arrangements",
-      "title": "Euro numérique : le trilogue politique de la nuit du 18 au 19 novembre échoue à conclure ; Parlement et Conseil se retrouveront en décembre (suivi, pas d'impact)",
-      "summary": "Suivi de procédure sans impact — mais résolution du suivi des jours précédents. L'issue du trilogue du 18 novembre est désormais documentée : la séance s'est prolongée toute la nuit (une quinzaine d'heures, clôture vers 4h30 le 19 novembre) sans accord politique. Selon une source parlementaire, l'échec ne tient pas à un désaccord de fond mais à un ordre du jour trop lourd pour conclure en une séance ; les discussions ont porté sur les exceptions à l'acceptation obligatoire par les commerçants et sur le modèle de rémunération des prestataires de paiement, tandis que la lutte anti-blanchiment et le maintien du paiement en espèces pour certains services essentiels n'ont pas été abordés. Les positions seraient proches sur plusieurs points, dont la compensation. Parlement et Conseil annoncent une nouvelle réunion en décembre pour finaliser, l'objectif d'adoption avant fin 2026 (pour un lancement visé en 2029, BCE/Cipollone) restant poursuivi. Un trilogue qui échoue à conclure, sur le même calendrier et sans blocage de fond, n'est ni une avancée ni un déraillement structurel : la dynamique de négociation déjà intégrée reste inchangée ⇒ euro-num-reglement / euro-num-emission inchangés (à resuivre pour l'issue de la réunion de décembre).",
-      "affects": []
+      "name": "Climat — COP31 d'Antalya s'effondre sans accord : première COP sans décision de couverture adoptée depuis Copenhague (2009)",
+      "date": "2026-11-28",
+      "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+      "title": "COP31 : clôture le 22 novembre sans accord de couverture ni feuille de route fossiles ; dossiers renvoyés à la COP32 (Addis-Abeba, 2027)",
+      "summary": "Résolution du suivi COP31 des jours précédents. Après environ 49 h de prolongation au-delà de la clôture visée le 20 novembre, la conférence d'Antalya (coprésidence Turquie-Australie) s'est achevée le dimanche 22 novembre sans adoption d'une décision de couverture d'ensemble — première COP à échouer sur ce point depuis Copenhague (2009). Le blocage a porté sur les combustibles fossiles : l'UE, par la voix du ministre irlandais Darragh O'Brien, a refusé un texte n'en faisant aucune mention, rejointe par une coalition d'une trentaine de pays ; le camp producteur s'opposait à toute référence à une sortie progressive. La présidence turque a constaté l'absence de consensus et renoncé à soumettre un nouveau texte. Aucune feuille de route de sortie des fossiles n'a été adoptée (la feuille de route de la présidence brésilienne reste une initiative informelle, « pas un mandat »), l'accord de Dubaï (COP28) sur la transition hors des fossiles demeurant la seule référence acquise. Quelques résultats techniques mineurs ont abouti (échéance de mars sur la transition juste, calendrier de reporting financier) et 23 pays ont approuvé une initiative de gestion des incendies ; la feuille de route fossiles et la question du dépassement de 1,5 °C sont renvoyées à la COP32 (Addis-Abeba, novembre 2027). Fait matériel (issue officielle d'une conférence majeure), mais il porte sur l'ambition politique et la gouvernance climatique, non sur la science du dépassement de 1,5 °C ou des points de bascule (études déjà intégrées) : climat-15 est un signal de suivi non coté ⇒ aucune cote modifiée.",
+      "affects": [
+        "climat-15"
+      ]
     },
     {
       "id": "src-2",
-      "name": "Climat — COP31 Antalya en prolongation : bataille sur les combustibles fossiles, aucun texte de couverture adopté (suivi, pas d'impact)",
-      "date": "2026-11-21",
-      "url": "https://www.dawn.com/news/2045986/cop31-runs-into-overtime-over-fossil-fuel-dispute",
-      "title": "COP31 : conférence prolongée au-delà de la clôture visée le 20 novembre, 3e projet de décision attendu samedi, aucun texte final adopté (suivi, pas d'impact)",
-      "summary": "Suivi de procédure sans impact. La conférence d'Antalya est entrée en prolongation au-delà de sa clôture visée le 20 novembre, sur fond de bras de fer autour des combustibles fossiles. Un deuxième projet de décision de couverture, raccourci et diffusé le 19 novembre, a supprimé les références aux combustibles fossiles (au profit, selon la presse, de formulations sur la capture du carbone), provoquant l'opposition de l'UE et d'une coalition d'environ 23 pays (dont l'Irlande) réclamant la réintroduction du langage de sortie progressive ; la présidence turque devait présenter un troisième projet samedi matin (≈9h, heure locale). La présidence fait valoir que l'accord de Dubaï (COP28) a déjà acté la transition hors des fossiles et que l'objectif d'électrification « 35 by 35 » (porter la part de l'électricité à 35 % de la demande finale d'énergie d'ici 2035) réduirait la demande fossile ; le groupe LMDC s'oppose à l'inscription du « 35 by 35 » dans la décision de couverture. L'adoption exigeant le consensus de près de 200 pays, aucun texte final n'était confirmé à ce stade. Un projet non adopté — portant sur l'ambition politique et non sur la science du climat — n'est pas un fait matériel sur le dépassement de 1,5 °C ou les points de bascule (études déjà intégrées) ⇒ climat-15 inchangé (à resuivre pour le texte effectivement adopté).",
+      "name": "Monnaie — euro numérique : toujours pas d'accord, trilogues de décembre visés pour conclure sous présidence irlandaise (suivi, pas d'impact)",
+      "date": "2026-11-28",
+      "url": "https://www.mnimarkets.com/articles/mni-digital-euro-on-track-for-approval-by-end-of-the-year-1782207707441",
+      "title": "Euro numérique : après l'échec du trilogue des 18-19 novembre, nouvelle(s) réunion(s) en décembre, adoption toujours visée avant fin 2026 (suivi, pas d'impact)",
+      "summary": "Suivi de procédure sans impact. Une semaine après le trilogue-marathon des 18-19 novembre clos sans accord, aucun accord politique provisoire n'est confirmé par les colégislateurs. Parlement et Conseil doivent se retrouver en décembre (des trilogues des 3 et 16 décembre sont évoqués dans la presse spécialisée) pour tenter de conclure avant la fin de la présidence irlandaise, l'objectif d'adoption avant fin 2026 (pour un lancement BCE visé vers 2029) restant affiché. Les points durs demeurent le modèle de frais aux commerçants (plafonnement par commerçant côté Parlement vs plafond fixé au niveau national côté Conseil) et le plafond de détention (fourchette évoquée ~1 500–3 000 €, autorité de fixation non tranchée), aux côtés de la quasi-interdiction de détention pour les personnes morales et du traitement des personnes sous sanctions. Des négociations qui se poursuivent sans conclusion ne constituent pas un fait matériel : la dynamique déjà intégrée reste inchangée ⇒ euro-num-reglement / euro-num-emission inchangés (à resuivre pour l'issue des réunions de décembre).",
       "affects": []
     },
     {
       "id": "src-3",
-      "name": "Balayage des autres domaines (surveillance, IA/CJUE, identité, crypto, quantique, énergie, plateformes)",
-      "date": "2026-11-21",
+      "name": "Balayage des autres domaines (surveillance, IA/CJUE, identité, crypto, quantique, énergie, dérégulation, plateformes)",
+      "date": "2026-11-28",
       "url": "https://www.patrick-breyer.de/en/posts/chat-control/",
-      "title": "Balayage : aucun fait matériel nouveau sur les autres signaux (samedi calme)",
-      "summary": "Suivi de procédure sans impact. Surveillance : Chat Control/CSAR 2.0 toujours sans accord, 7e trilogue — ultime tentative d'accord politique — inscrit au 8 décembre 2026, majorité qualifiée du Conseil suspendue à une Allemagne non décidée, dérogation « scan volontaire » (Règl. UE 2026/1881) en vigueur jusqu'au 3 avril 2028 et excluant le chiffrement (déjà cotée) ⇒ chat-control inchangé ; e-Evidence applicable depuis le 18 août (aucun fait nouveau). IA : AI Act applicable depuis le 2 août, aucune décision ni sanction publiée, aucun arrêt CJUE (aff. C-661/24 Académie Fiscale : avis de l'avocat général du 3 septembre, délibéré en cours, aucun jugement) ⇒ ai-act-haut-risque inchangé. Identité/EUDI : échéance du 24 décembre 2026 pour au moins un portefeuille par État, déploiement inégal (moins d'un tiers des États au niveau attendu, portefeuille allemand décalé au 2 janvier 2027), aucun acte nouveau. Crypto/AMLR : application juillet 2027, lignes directrices AMLA sur les wallets auto-hébergés dues le 10 juillet 2027, aucun projet publié. Quantique : jalons incrémentaux (Quantinuum Helios à 99,9995 % de fidélité logique le 19 octobre, Infleqtion ~30 qubits logiques), aucun calculateur au seuil cryptographiquement pertinent. Énergie/compute : dossier PJM EL26-67 (dépôts FPA art. 205 grandes charges flexibles et co-location dus le 16 novembre), procédure, signal non coté. Dérégulation/Digital Omnibus : volet IA adopté (Règl. UE 2026/1744), volet données/RGPD en pré-trilogue ⇒ defence-omnibus inchangé. Plateformes : enquête DSA X/Grok de janvier toujours en cours, amende DSA de 120 M€ de déc. 2025 en appel (aff. T-113/26 e.a.) déjà connues ⇒ cotes inchangées.",
+      "title": "Balayage : aucun fait matériel nouveau sur les autres signaux dans les dernières 48 h",
+      "summary": "Suivi de procédure sans impact. Surveillance : Chat Control/CSAR 2.0 toujours sans accord, 7e trilogue — ultime tentative d'accord politique — inscrit au 8 décembre 2026, majorité qualifiée du Conseil suspendue à une Allemagne non décidée, dérogation « scan volontaire » (Règl. UE 2026/1881) en vigueur jusqu'au 3 avril 2028 et excluant le chiffrement (déjà cotée) ⇒ chat-control inchangé ; e-Evidence applicable depuis le 18 août (aucun fait nouveau). IA : AI Act applicable depuis le 2 août, aucune décision ni sanction publiée, aucun arrêt CJUE (aff. C-661/24 Académie Fiscale : avis de l'avocat général du 3 septembre, délibéré en cours, aucun jugement) ⇒ ai-act-haut-risque inchangé. Identité/EUDI : échéance du 24 décembre 2026 pour au moins un portefeuille par État, déploiement inégal (moins d'un tiers des États au niveau attendu, portefeuille allemand décalé au 2 janvier 2027), aucun acte nouveau. Crypto/AMLR : application juillet 2027, interdiction des comptes anonymes et des coins privés, lignes directrices AMLA sur les wallets auto-hébergés dues le 10 juillet 2027, aucun projet publié. Quantique : jalons incrémentaux (Quantinuum Helios à 99,9995 % de fidélité logique le 19 octobre, Infleqtion ~30 qubits logiques), aucun calculateur au seuil cryptographiquement pertinent. Énergie/compute : dossier PJM EL26-67 (dépôts FPA art. 205 grandes charges flexibles et co-location), procédure, signal non coté. Dérégulation/Digital Omnibus : volet IA adopté (Règl. UE 2026/1744), volet données/RGPD — mandat du Conseil du 21 octobre — en attente de la position du Parlement avant trilogue ⇒ defence-omnibus inchangé. Plateformes : enquête DSA X/Grok de janvier toujours en cours, amende DSA de 120 M€ de déc. 2025 en appel (aff. T-113/26 e.a.) déjà connues ⇒ cotes inchangées.",
       "affects": []
     }
   ]
